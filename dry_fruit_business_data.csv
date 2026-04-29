@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,product_name,category,price_per_kg,quantity_kg,total_price,payment_method,city,delivery_status
+1001,2024-04-12,2684,Cashews,Dried Fruits,628.63,3.83,2407.65,GCash,Cavite,Cancelled
+1002,2024-02-21,2716,Dried Apricot,Dried Fruits,340.96,3.34,1138.81,Credit Card,Manila,Cancelled
+1003,2024-04-02,2771,Dried Apricot,Nuts,864.19,2.97,2566.64,Credit Card,Manila,Delivered
+1004,2024-01-15,2445,Walnuts,Dried Fruits,416.09,3.6,1497.92,GCash,Quezon City,Cancelled
+1005,2024-04-16,2448,Walnuts,Dried Fruits,297.56,1.15,342.19,Credit Card,Quezon City,Delivered
+1006,2024-03-12,2880,Dried Mango,Nuts,1061.99,3.18,3377.13,Cash on Delivery,Batangas,Pending
+1007,2024-03-01,2487,Pistachios,Dried Fruits,660.16,1.27,838.4,Credit Card,Laguna,Pending
+1008,2024-01-21,2799,Raisins,Nuts,949.28,4.66,4423.64,Cash on Delivery,Manila,Delivered
+1009,2024-04-12,2033,Dates,Nuts,490.59,0.81,397.38,Credit Card,Quezon City,Cancelled
+1010,2024-03-23,2347,Pistachios,Dried Fruits,986.97,2.44,2408.21,GCash,Manila,Delivered
+1011,2024-03-27,2094,Almonds,Dried Fruits,311.94,3.63,1132.34,GCash,Quezon City,Pending
+1012,2024-03-15,2071,Dates,Dried Fruits,555.97,2.56,1423.28,Credit Card,Cavite,Pending
+1013,2024-03-15,2550,Pistachios,Nuts,1178.06,0.91,1072.03,GCash,Manila,Delivered
+1014,2024-03-28,2153,Dates,Nuts,993.99,2.99,2972.03,Credit Card,Cavite,Cancelled
+1015,2024-04-26,2249,Raisins,Dried Fruits,697.26,3.39,2363.71,GCash,Manila,Cancelled
+1016,2024-04-09,2673,Almonds,Dried Fruits,539.78,3.67,1980.99,Cash on Delivery,Laguna,Delivered
+1017,2024-04-13,2437,Dried Apricot,Dried Fruits,1072.14,2.18,2337.27,Credit Card,Batangas,Delivered
+1018,2024-01-24,2117,Dried Apricot,Dried Fruits,744.85,3.04,2264.34,Cash on Delivery,Cavite,Cancelled
+1019,2024-01-03,2770,Raisins,Nuts,958.43,2.53,2424.83,Cash on Delivery,Quezon City,Pending
+1020,2024-01-22,2890,Dried Mango,Dried Fruits,954.11,3.52,3358.47,Credit Card,Laguna,Delivered
+1021,2024-02-22,2305,Almonds,Nuts,217.95,3.13,682.18,Cash on Delivery,Manila,Cancelled
+1022,2024-01-02,2267,Cashews,Nuts,326.25,2.87,936.34,Credit Card,Cavite,Cancelled
+1023,2024-03-28,2960,Pistachios,Dried Fruits,859.63,1.62,1392.6,Cash on Delivery,Manila,Pending
+1024,2024-04-17,2053,Almonds,Dried Fruits,361.62,0.51,184.43,Credit Card,Manila,Pending
+1025,2024-01-30,2235,Dried Mango,Dried Fruits,455.49,1.28,583.03,Credit Card,Manila,Pending
+1026,2024-02-07,2388,Dried Mango,Nuts,1146.64,1.03,1181.04,GCash,Batangas,Pending
+1027,2024-01-02,2989,Raisins,Dried Fruits,760.18,2.52,1915.65,Credit Card,Batangas,Pending
+1028,2024-03-04,2733,Dates,Dried Fruits,950.73,3.26,3099.38,Credit Card,Quezon City,Delivered
+1029,2024-02-29,2762,Almonds,Nuts,757.98,1.46,1106.65,Cash on Delivery,Cavite,Cancelled
+1030,2024-01-21,2824,Pistachios,Dried Fruits,752.51,4.73,3559.37,Credit Card,Laguna,Delivered
+1031,2024-02-02,2400,Almonds,Nuts,294.15,0.53,155.9,GCash,Laguna,Delivered
+1032,2024-03-16,2623,Walnuts,Dried Fruits,543.66,3.98,2163.77,Cash on Delivery,Laguna,Delivered
+1033,2024-02-27,2766,Dates,Nuts,482.43,3.31,1596.84,Cash on Delivery,Manila,Delivered
+1034,2024-01-22,2302,Pistachios,Dried Fruits,590.73,2.18,1287.79,GCash,Batangas,Delivered
+1035,2024-04-17,2918,Dried Apricot,Dried Fruits,998.34,0.73,728.79,Cash on Delivery,Cavite,Pending
+1036,2024-03-29,2206,Pistachios,Nuts,571.93,3.32,1898.81,Cash on Delivery,Manila,Pending
+1037,2024-02-18,2228,Cashews,Nuts,651.7,2.24,1459.81,Cash on Delivery,Batangas,Cancelled
+1038,2024-03-31,2852,Raisins,Dried Fruits,597.38,4.71,2813.66,Cash on Delivery,Batangas,Delivered
+1039,2024-02-28,2909,Cashews,Nuts,293.41,2.94,862.63,GCash,Cavite,Cancelled
+1040,2024-02-11,2577,Pistachios,Nuts,641.07,4.73,3032.26,GCash,Cavite,Pending
+1041,2024-04-01,2074,Dates,Nuts,395.61,1.49,589.46,Cash on Delivery,Cavite,Pending
+1042,2024-02-29,2434,Almonds,Nuts,386.72,3.77,1457.93,Cash on Delivery,Manila,Pending
+1043,2024-03-20,2102,Dried Apricot,Dried Fruits,294.04,3.28,964.45,GCash,Quezon City,Delivered
+1044,2024-01-15,2421,Almonds,Dried Fruits,556.67,3.83,2132.05,GCash,Cavite,Delivered
+1045,2024-03-02,2703,Dates,Nuts,957.48,1.47,1407.5,GCash,Quezon City,Pending
+1046,2024-03-02,2763,Pistachios,Nuts,476.44,3.49,1662.78,Cash on Delivery,Manila,Cancelled
+1047,2024-02-16,2737,Dried Mango,Nuts,512.35,2.74,1403.84,Cash on Delivery,Quezon City,Cancelled
+1048,2024-03-02,2805,Almonds,Nuts,842.67,3.84,3235.85,Credit Card,Laguna,Pending
+1049,2024-02-20,2305,Dried Mango,Dried Fruits,395.84,1.97,779.8,GCash,Quezon City,Cancelled
+1050,2024-04-17,2097,Almonds,Dried Fruits,1096.96,4.51,4947.29,Cash on Delivery,Cavite,Pending
+1051,2024-02-24,2849,Almonds,Nuts,720.19,0.88,633.77,GCash,Manila,Cancelled
+1052,2024-04-25,2797,Dried Apricot,Nuts,647.6,4.13,2674.59,Cash on Delivery,Cavite,Pending
+1053,2024-03-04,2334,Raisins,Nuts,757.82,4.38,3319.25,GCash,Laguna,Cancelled
+1054,2024-01-03,2858,Raisins,Dried Fruits,366.03,4.18,1530.01,Cash on Delivery,Cavite,Delivered
+1055,2024-04-10,2434,Walnuts,Nuts,813.47,2.81,2285.85,Credit Card,Cavite,Pending
+1056,2024-02-20,2446,Cashews,Dried Fruits,563.1,2.47,1390.86,Credit Card,Cavite,Pending
+1057,2024-01-07,2993,Dates,Nuts,1097.19,4.98,5464.01,GCash,Batangas,Cancelled
+1058,2024-01-21,2307,Dates,Dried Fruits,368.85,1.53,564.34,Cash on Delivery,Laguna,Pending
+1059,2024-03-13,2248,Dates,Nuts,707.05,2.96,2092.87,Cash on Delivery,Cavite,Pending
+1060,2024-02-08,2165,Walnuts,Dried Fruits,798.11,3.52,2809.35,GCash,Cavite,Pending
+1061,2024-01-18,2480,Raisins,Nuts,233.38,3.65,851.84,Cash on Delivery,Cavite,Delivered
+1062,2024-01-04,2983,Pistachios,Nuts,563.69,1.42,800.44,GCash,Manila,Delivered
+1063,2024-03-29,2334,Dried Mango,Nuts,932.64,3.44,3208.28,Cash on Delivery,Batangas,Cancelled
+1064,2024-02-29,2541,Dried Apricot,Dried Fruits,1020.38,4.18,4265.19,GCash,Manila,Delivered
+1065,2024-01-14,2758,Dried Mango,Nuts,513.16,0.73,374.61,Cash on Delivery,Batangas,Cancelled
+1066,2024-04-23,2105,Pistachios,Dried Fruits,998.59,4.6,4593.51,GCash,Cavite,Delivered
+1067,2024-01-09,2562,Dried Apricot,Dried Fruits,1167.76,0.63,735.69,Cash on Delivery,Laguna,Cancelled
+1068,2024-03-30,2080,Walnuts,Nuts,1056.87,2.1,2219.43,Credit Card,Quezon City,Delivered
+1069,2024-02-22,2132,Pistachios,Nuts,317.64,0.57,181.05,Cash on Delivery,Quezon City,Delivered
+1070,2024-01-02,2796,Dates,Nuts,939.73,0.85,798.77,GCash,Cavite,Cancelled
+1071,2024-03-24,2899,Cashews,Dried Fruits,519.67,4.6,2390.48,Credit Card,Manila,Pending
+1072,2024-04-01,2137,Almonds,Nuts,1188.42,2.1,2495.68,Cash on Delivery,Laguna,Pending
+1073,2024-04-20,2183,Dried Mango,Dried Fruits,685.36,2.41,1651.72,Credit Card,Batangas,Delivered
+1074,2024-02-29,2400,Raisins,Dried Fruits,322.43,1.47,473.97,Cash on Delivery,Cavite,Cancelled
+1075,2024-03-11,2329,Raisins,Nuts,925.19,3.19,2951.36,Credit Card,Laguna,Pending
+1076,2024-02-13,2784,Walnuts,Nuts,523.01,3.18,1663.17,GCash,Laguna,Cancelled
+1077,2024-01-08,2507,Dried Apricot,Nuts,1197.08,2.17,2597.66,Cash on Delivery,Batangas,Pending
+1078,2024-02-16,2851,Raisins,Nuts,1179.78,2.0,2359.56,Cash on Delivery,Laguna,Cancelled
+1079,2024-02-04,2983,Dates,Nuts,856.13,4.48,3835.46,GCash,Manila,Delivered
+1080,2024-03-18,2068,Dried Mango,Nuts,329.83,2.22,732.22,Credit Card,Manila,Cancelled
+1081,2024-03-21,2545,Pistachios,Dried Fruits,886.86,2.72,2412.26,GCash,Manila,Pending
+1082,2024-02-05,2773,Dates,Dried Fruits,293.03,1.77,518.66,GCash,Laguna,Delivered
+1083,2024-02-19,2052,Walnuts,Dried Fruits,229.36,4.04,926.61,Credit Card,Manila,Cancelled
+1084,2024-04-13,2449,Dates,Nuts,1022.96,2.29,2342.58,GCash,Batangas,Pending
+1085,2024-01-04,2204,Pistachios,Dried Fruits,409.75,2.81,1151.4,Cash on Delivery,Laguna,Delivered
+1086,2024-01-02,2125,Cashews,Dried Fruits,579.03,1.64,949.61,Cash on Delivery,Quezon City,Cancelled
+1087,2024-01-06,2746,Walnuts,Dried Fruits,1173.46,4.94,5796.89,Cash on Delivery,Laguna,Pending
+1088,2024-02-23,2042,Cashews,Dried Fruits,536.84,1.81,971.68,GCash,Batangas,Cancelled
+1089,2024-04-15,2751,Almonds,Dried Fruits,496.49,3.97,1971.07,Cash on Delivery,Quezon City,Cancelled
+1090,2024-01-04,2970,Cashews,Nuts,1118.21,2.42,2706.07,Cash on Delivery,Laguna,Delivered
+1091,2024-02-23,2882,Almonds,Nuts,310.75,1.43,444.37,Cash on Delivery,Manila,Delivered
+1092,2024-04-02,2110,Almonds,Dried Fruits,959.58,4.1,3934.28,Cash on Delivery,Cavite,Pending
+1093,2024-03-03,2760,Cashews,Dried Fruits,1188.07,2.0,2376.14,Cash on Delivery,Cavite,Delivered
+1094,2024-01-18,2662,Walnuts,Dried Fruits,1101.3,4.39,4834.71,Cash on Delivery,Manila,Pending
+1095,2024-03-30,2182,Dried Apricot,Nuts,851.67,4.62,3934.72,GCash,Cavite,Cancelled
+1096,2024-02-13,2847,Pistachios,Nuts,514.06,4.37,2246.44,Cash on Delivery,Cavite,Cancelled
+1097,2024-02-03,2094,Dates,Dried Fruits,454.32,0.66,299.85,Cash on Delivery,Manila,Pending
+1098,2024-03-14,2970,Dates,Nuts,1019.26,4.04,4117.81,Credit Card,Manila,Cancelled
+1099,2024-03-02,2373,Pistachios,Nuts,1079.82,2.35,2537.58,GCash,Laguna,Delivered
+1100,2024-04-09,2911,Dried Mango,Dried Fruits,725.43,4.43,3213.65,GCash,Laguna,Cancelled
+1101,2024-01-14,2519,Dried Mango,Nuts,444.34,3.37,1497.43,GCash,Manila,Delivered
+1102,2024-04-04,2899,Almonds,Nuts,312.94,4.25,1330.0,GCash,Batangas,Pending
+1103,2024-02-17,2359,Almonds,Dried Fruits,287.18,2.75,789.74,Cash on Delivery,Cavite,Pending
+1104,2024-01-15,2899,Walnuts,Nuts,919.08,2.91,2674.52,Cash on Delivery,Laguna,Cancelled
+1105,2024-03-12,2695,Raisins,Nuts,620.12,1.15,713.14,Credit Card,Cavite,Cancelled
+1106,2024-03-18,2280,Cashews,Dried Fruits,1105.36,4.03,4454.6,Credit Card,Quezon City,Delivered
+1107,2024-03-27,2194,Almonds,Nuts,939.67,2.39,2245.81,GCash,Manila,Delivered
+1108,2024-03-02,2863,Dates,Nuts,391.26,2.75,1075.96,Credit Card,Batangas,Cancelled
+1109,2024-02-09,2194,Walnuts,Dried Fruits,813.78,4.03,3279.53,Credit Card,Quezon City,Cancelled
+1110,2024-03-25,2666,Cashews,Dried Fruits,635.51,3.19,2027.28,GCash,Quezon City,Pending
+1111,2024-03-20,2092,Walnuts,Dried Fruits,777.25,1.4,1088.15,GCash,Quezon City,Pending
+1112,2024-04-18,2671,Cashews,Nuts,938.07,3.16,2964.3,Credit Card,Manila,Pending
+1113,2024-03-22,2945,Cashews,Dried Fruits,1006.2,2.33,2344.45,Cash on Delivery,Laguna,Cancelled
+1114,2024-04-20,2060,Pistachios,Nuts,1043.74,2.61,2724.16,Credit Card,Manila,Cancelled
+1115,2024-02-22,2633,Almonds,Dried Fruits,453.97,0.63,286.0,Credit Card,Laguna,Cancelled
+1116,2024-01-24,2050,Dried Apricot,Nuts,231.12,1.45,335.12,Cash on Delivery,Quezon City,Pending
+1117,2024-01-26,2402,Walnuts,Dried Fruits,939.29,1.76,1653.15,Cash on Delivery,Quezon City,Cancelled
+1118,2024-03-29,2788,Dried Apricot,Dried Fruits,306.34,3.71,1136.52,GCash,Batangas,Delivered
+1119,2024-02-29,2004,Walnuts,Dried Fruits,514.92,0.55,283.21,GCash,Laguna,Cancelled
+1120,2024-04-18,2465,Pistachios,Dried Fruits,203.82,2.34,476.94,Credit Card,Quezon City,Cancelled
+1121,2024-02-10,2603,Dates,Nuts,881.67,4.66,4108.58,Cash on Delivery,Cavite,Cancelled
+1122,2024-01-29,2681,Dried Apricot,Dried Fruits,367.13,1.0,367.13,GCash,Batangas,Cancelled
+1123,2024-01-15,2828,Dates,Dried Fruits,855.28,2.82,2411.89,Credit Card,Manila,Cancelled
+1124,2024-02-14,2533,Dried Mango,Nuts,1191.74,4.04,4814.63,Cash on Delivery,Batangas,Delivered
+1125,2024-03-05,2404,Almonds,Dried Fruits,272.67,4.74,1292.46,Credit Card,Cavite,Delivered
+1126,2024-03-29,2837,Almonds,Nuts,277.08,3.86,1069.53,GCash,Laguna,Cancelled
+1127,2024-03-11,2512,Raisins,Dried Fruits,540.38,3.74,2021.02,GCash,Manila,Pending
+1128,2024-01-09,2644,Pistachios,Dried Fruits,1066.39,4.22,4500.17,Cash on Delivery,Manila,Cancelled
+1129,2024-03-28,2232,Dates,Dried Fruits,415.53,2.51,1042.98,Credit Card,Laguna,Cancelled
+1130,2024-01-01,2523,Cashews,Nuts,560.38,4.13,2314.37,Cash on Delivery,Batangas,Cancelled
+1131,2024-04-17,2345,Walnuts,Dried Fruits,268.51,0.54,145.0,GCash,Quezon City,Pending
+1132,2024-01-08,2045,Almonds,Dried Fruits,963.16,4.66,4488.33,GCash,Batangas,Pending
+1133,2024-03-28,2545,Dried Apricot,Dried Fruits,608.31,2.49,1514.69,Credit Card,Cavite,Pending
+1134,2024-03-03,2944,Walnuts,Nuts,959.25,2.99,2868.16,Credit Card,Quezon City,Delivered
+1135,2024-01-11,2077,Walnuts,Nuts,1103.61,1.65,1820.96,Credit Card,Batangas,Pending
+1136,2024-04-24,2729,Raisins,Dried Fruits,432.76,3.84,1661.8,Cash on Delivery,Laguna,Delivered
+1137,2024-03-21,2812,Dates,Nuts,1007.4,0.84,846.22,Credit Card,Cavite,Delivered
+1138,2024-01-08,2922,Almonds,Dried Fruits,259.09,4.43,1147.77,Credit Card,Cavite,Pending
+1139,2024-02-04,2072,Walnuts,Dried Fruits,1098.85,4.23,4648.14,GCash,Cavite,Pending
+1140,2024-02-04,2793,Almonds,Dried Fruits,850.77,1.47,1250.63,GCash,Quezon City,Pending
+1141,2024-02-02,2248,Cashews,Dried Fruits,1074.23,4.14,4447.31,Credit Card,Manila,Delivered
+1142,2024-01-05,2046,Raisins,Dried Fruits,200.19,4.04,808.77,Credit Card,Quezon City,Cancelled
+1143,2024-04-15,2120,Cashews,Dried Fruits,369.08,3.34,1232.73,GCash,Batangas,Pending
+1144,2024-04-12,2213,Almonds,Dried Fruits,589.76,2.18,1285.68,Credit Card,Manila,Pending
+1145,2024-02-10,2238,Dried Mango,Nuts,579.5,1.72,996.74,Cash on Delivery,Batangas,Pending
+1146,2024-01-28,2055,Dried Apricot,Nuts,426.73,1.54,657.16,Cash on Delivery,Manila,Delivered
+1147,2024-01-07,2349,Almonds,Nuts,581.61,1.93,1122.51,Cash on Delivery,Quezon City,Delivered
+1148,2024-03-13,2106,Dates,Nuts,328.85,4.57,1502.84,Credit Card,Cavite,Cancelled
+1149,2024-03-12,2830,Walnuts,Nuts,612.76,0.85,520.85,GCash,Laguna,Pending
+1150,2024-01-12,2047,Walnuts,Nuts,1002.35,4.23,4239.94,Credit Card,Cavite,Delivered
+1151,2024-02-03,2572,Cashews,Nuts,679.07,2.07,1405.67,Credit Card,Quezon City,Cancelled
+1152,2024-02-02,2336,Dried Apricot,Dried Fruits,218.0,2.85,621.3,GCash,Manila,Pending
+1153,2024-02-17,2025,Raisins,Dried Fruits,621.44,4.08,2535.48,GCash,Cavite,Delivered
+1154,2024-04-28,2803,Dried Mango,Dried Fruits,227.18,4.48,1017.77,GCash,Quezon City,Pending
+1155,2024-01-23,2256,Pistachios,Dried Fruits,1166.24,2.05,2390.79,Cash on Delivery,Batangas,Pending
+1156,2024-03-02,2007,Dried Apricot,Nuts,327.45,2.58,844.82,Credit Card,Laguna,Delivered
+1157,2024-03-28,2624,Walnuts,Nuts,907.69,2.37,2151.23,GCash,Cavite,Delivered
+1158,2024-02-06,2866,Dates,Dried Fruits,1172.78,0.56,656.76,Credit Card,Manila,Delivered
+1159,2024-04-08,2252,Dried Apricot,Dried Fruits,1026.04,1.83,1877.65,Cash on Delivery,Batangas,Pending
+1160,2024-02-13,2691,Cashews,Nuts,899.32,2.57,2311.25,Cash on Delivery,Quezon City,Pending
+1161,2024-04-13,2718,Cashews,Dried Fruits,1039.46,2.35,2442.73,GCash,Laguna,Cancelled
+1162,2024-03-26,2302,Pistachios,Dried Fruits,1181.8,3.75,4431.75,GCash,Manila,Pending
+1163,2024-03-31,2638,Dates,Dried Fruits,821.34,2.23,1831.59,Credit Card,Quezon City,Delivered
+1164,2024-02-04,2055,Raisins,Dried Fruits,759.18,2.7,2049.79,GCash,Quezon City,Pending
+1165,2024-03-05,2725,Dried Apricot,Nuts,828.24,2.43,2012.62,Credit Card,Cavite,Cancelled
+1166,2024-04-08,2525,Dates,Dried Fruits,732.68,3.83,2806.16,GCash,Cavite,Cancelled
+1167,2024-04-10,2473,Raisins,Dried Fruits,835.09,4.38,3657.69,Credit Card,Manila,Delivered
+1168,2024-02-16,2027,Dates,Nuts,649.84,2.89,1878.04,Credit Card,Quezon City,Delivered
+1169,2024-03-18,2982,Dates,Nuts,418.44,4.05,1694.68,Credit Card,Cavite,Cancelled
+1170,2024-01-03,2077,Almonds,Dried Fruits,320.25,1.84,589.26,Credit Card,Laguna,Cancelled
+1171,2024-01-01,2215,Cashews,Nuts,268.34,2.94,788.92,Cash on Delivery,Laguna,Cancelled
+1172,2024-01-05,2385,Dried Apricot,Dried Fruits,463.32,2.05,949.81,Credit Card,Quezon City,Delivered
+1173,2024-03-30,2364,Dates,Dried Fruits,246.12,2.36,580.84,GCash,Cavite,Cancelled
+1174,2024-04-28,2665,Dried Apricot,Nuts,767.17,3.8,2915.25,Cash on Delivery,Manila,Cancelled
+1175,2024-01-14,2525,Pistachios,Dried Fruits,483.83,4.47,2162.72,Cash on Delivery,Manila,Delivered
+1176,2024-04-12,2698,Dates,Dried Fruits,1024.53,1.05,1075.76,Credit Card,Manila,Pending
+1177,2024-01-27,2311,Walnuts,Dried Fruits,274.24,3.36,921.45,Cash on Delivery,Laguna,Pending
+1178,2024-01-09,2882,Cashews,Dried Fruits,426.35,3.12,1330.21,Credit Card,Cavite,Cancelled
+1179,2024-03-19,2006,Walnuts,Nuts,930.25,1.03,958.16,GCash,Cavite,Pending
+1180,2024-01-15,2002,Dried Apricot,Nuts,798.81,1.45,1158.27,Credit Card,Laguna,Pending
+1181,2024-03-30,2622,Dried Apricot,Dried Fruits,264.49,1.9,502.53,Cash on Delivery,Manila,Pending
+1182,2024-02-11,2918,Cashews,Nuts,1077.24,1.25,1346.55,GCash,Manila,Pending
+1183,2024-03-17,2749,Dried Apricot,Dried Fruits,1077.26,1.6,1723.62,Credit Card,Quezon City,Cancelled
+1184,2024-02-20,2362,Walnuts,Dried Fruits,530.41,1.7,901.7,GCash,Batangas,Pending
+1185,2024-03-03,2750,Dates,Dried Fruits,540.41,2.01,1086.22,GCash,Cavite,Pending
+1186,2024-04-05,2507,Dates,Dried Fruits,1189.03,3.87,4601.55,Cash on Delivery,Cavite,Delivered
+1187,2024-04-12,2273,Almonds,Dried Fruits,826.18,3.07,2536.37,GCash,Cavite,Cancelled
+1188,2024-04-22,2505,Pistachios,Nuts,731.32,4.94,3612.72,Cash on Delivery,Batangas,Delivered
+1189,2024-02-21,2805,Dried Apricot,Dried Fruits,1038.15,2.37,2460.42,GCash,Quezon City,Delivered
+1190,2024-04-05,2738,Walnuts,Nuts,485.29,3.89,1887.78,Credit Card,Batangas,Cancelled
+1191,2024-01-04,2882,Dried Apricot,Nuts,629.18,4.42,2780.98,GCash,Manila,Pending
+1192,2024-04-03,2014,Dried Apricot,Dried Fruits,467.78,3.56,1665.3,Credit Card,Manila,Delivered
+1193,2024-04-10,2191,Raisins,Dried Fruits,989.16,2.35,2324.53,Credit Card,Cavite,Cancelled
+1194,2024-01-23,2984,Almonds,Dried Fruits,773.35,3.89,3008.33,GCash,Laguna,Pending
+1195,2024-04-12,2630,Walnuts,Dried Fruits,858.83,1.42,1219.54,Credit Card,Cavite,Cancelled
+1196,2024-04-18,2484,Walnuts,Dried Fruits,452.31,1.97,891.05,GCash,Laguna,Delivered
+1197,2024-01-15,2027,Dried Apricot,Nuts,420.23,2.96,1243.88,GCash,Batangas,Pending
+1198,2024-02-12,2713,Almonds,Dried Fruits,688.37,3.09,2127.06,Credit Card,Manila,Pending
+1199,2024-01-29,2038,Dates,Dried Fruits,937.57,0.6,562.54,Credit Card,Laguna,Cancelled
+1200,2024-02-05,2952,Walnuts,Nuts,725.24,4.75,3444.89,Cash on Delivery,Batangas,Pending
+1201,2024-01-13,2272,Dates,Nuts,232.65,3.63,844.52,Credit Card,Manila,Delivered
+1202,2024-02-01,2230,Almonds,Dried Fruits,1068.55,2.73,2917.14,Cash on Delivery,Laguna,Delivered
+1203,2024-03-11,2085,Dates,Nuts,264.69,4.7,1244.04,Credit Card,Cavite,Delivered
+1204,2024-02-28,2473,Cashews,Dried Fruits,1155.82,2.48,2866.43,GCash,Cavite,Cancelled
+1205,2024-04-24,2125,Raisins,Nuts,225.14,4.91,1105.44,Credit Card,Cavite,Pending
+1206,2024-03-26,2811,Dried Mango,Nuts,894.45,2.81,2513.4,GCash,Batangas,Pending
+1207,2024-01-28,2536,Walnuts,Dried Fruits,282.21,1.01,285.03,GCash,Cavite,Pending
+1208,2024-03-06,2144,Pistachios,Nuts,1110.68,3.94,4376.08,GCash,Quezon City,Delivered
+1209,2024-02-11,2524,Raisins,Nuts,664.43,3.56,2365.37,Cash on Delivery,Manila,Pending
+1210,2024-02-14,2211,Dried Mango,Nuts,337.52,3.98,1343.33,Credit Card,Batangas,Delivered
+1211,2024-03-02,2024,Dates,Nuts,540.82,4.78,2585.12,GCash,Cavite,Pending
+1212,2024-02-26,2579,Walnuts,Nuts,364.82,3.99,1455.63,GCash,Manila,Delivered
+1213,2024-04-26,2393,Dates,Nuts,370.58,3.25,1204.38,Cash on Delivery,Laguna,Pending
+1214,2024-01-06,2066,Cashews,Dried Fruits,1148.11,4.36,5005.76,Credit Card,Cavite,Cancelled
+1215,2024-01-28,2232,Almonds,Dried Fruits,645.25,3.53,2277.73,Credit Card,Manila,Cancelled
+1216,2024-01-28,2108,Walnuts,Nuts,988.8,2.34,2313.79,Cash on Delivery,Quezon City,Delivered
+1217,2024-04-17,2145,Dried Mango,Dried Fruits,839.61,4.49,3769.85,Cash on Delivery,Laguna,Delivered
+1218,2024-02-13,2110,Dried Mango,Dried Fruits,876.43,1.5,1314.64,Credit Card,Quezon City,Pending
+1219,2024-03-24,2227,Cashews,Dried Fruits,331.69,3.72,1233.89,Cash on Delivery,Manila,Pending
+1220,2024-01-30,2110,Cashews,Nuts,434.18,4.47,1940.78,Credit Card,Quezon City,Cancelled
+1221,2024-03-02,2469,Dried Apricot,Dried Fruits,986.75,3.79,3739.78,Credit Card,Manila,Pending
+1222,2024-03-15,2033,Walnuts,Nuts,1170.77,3.64,4261.6,GCash,Manila,Delivered
+1223,2024-04-28,2622,Dates,Dried Fruits,462.68,3.89,1799.83,GCash,Quezon City,Delivered
+1224,2024-04-01,2775,Pistachios,Nuts,471.57,2.59,1221.37,Credit Card,Manila,Delivered
+1225,2024-03-29,2935,Dried Mango,Nuts,672.9,4.43,2980.95,Credit Card,Cavite,Delivered
+1226,2024-04-12,2368,Dried Mango,Dried Fruits,1183.84,1.42,1681.05,Credit Card,Manila,Delivered
+1227,2024-03-02,2747,Cashews,Dried Fruits,468.96,1.07,501.79,Credit Card,Batangas,Cancelled
+1228,2024-04-06,2594,Raisins,Nuts,606.97,1.78,1080.41,Credit Card,Manila,Cancelled
+1229,2024-01-01,2553,Cashews,Dried Fruits,1091.48,2.89,3154.38,Credit Card,Batangas,Delivered
+1230,2024-01-27,2424,Pistachios,Dried Fruits,202.92,2.8,568.18,Cash on Delivery,Manila,Pending
+1231,2024-03-02,2612,Dates,Dried Fruits,239.77,4.19,1004.64,Credit Card,Manila,Delivered
+1232,2024-04-25,2517,Dates,Nuts,804.07,2.32,1865.44,Cash on Delivery,Quezon City,Cancelled
+1233,2024-03-17,2691,Raisins,Nuts,1107.38,2.68,2967.78,Cash on Delivery,Cavite,Delivered
+1234,2024-04-14,2281,Dried Mango,Dried Fruits,438.86,0.56,245.76,Credit Card,Cavite,Cancelled
+1235,2024-01-03,2319,Cashews,Dried Fruits,669.64,2.34,1566.96,Credit Card,Laguna,Cancelled
+1236,2024-04-12,2737,Dried Apricot,Dried Fruits,650.47,3.41,2218.1,Cash on Delivery,Quezon City,Delivered
+1237,2024-03-10,2442,Dates,Nuts,672.97,0.57,383.59,Cash on Delivery,Quezon City,Delivered
+1238,2024-03-12,2951,Pistachios,Nuts,822.52,1.76,1447.64,Credit Card,Cavite,Pending
+1239,2024-01-27,2314,Walnuts,Dried Fruits,669.74,1.44,964.43,Credit Card,Quezon City,Cancelled
+1240,2024-01-09,2876,Almonds,Dried Fruits,647.47,0.69,446.75,Cash on Delivery,Cavite,Pending
+1241,2024-03-02,2965,Almonds,Dried Fruits,674.29,2.66,1793.61,Cash on Delivery,Quezon City,Delivered
+1242,2024-02-06,2740,Almonds,Dried Fruits,790.87,1.32,1043.95,Cash on Delivery,Manila,Cancelled
+1243,2024-04-06,2376,Dried Apricot,Dried Fruits,737.01,3.84,2830.12,GCash,Cavite,Pending
+1244,2024-02-20,2288,Dried Mango,Dried Fruits,1054.14,4.32,4553.88,Cash on Delivery,Cavite,Pending
+1245,2024-04-15,2436,Cashews,Nuts,249.5,2.96,738.52,GCash,Batangas,Pending
+1246,2024-02-13,2661,Raisins,Dried Fruits,1033.32,4.92,5083.93,Credit Card,Quezon City,Delivered
+1247,2024-01-24,2276,Dried Apricot,Nuts,1043.92,2.53,2641.12,Credit Card,Quezon City,Delivered
+1248,2024-03-19,2709,Dried Apricot,Dried Fruits,484.91,2.81,1362.6,Cash on Delivery,Cavite,Delivered
+1249,2024-02-28,2581,Dates,Dried Fruits,662.85,4.95,3281.11,Credit Card,Manila,Cancelled
+1250,2024-04-27,2502,Walnuts,Nuts,638.54,1.54,983.35,Credit Card,Manila,Delivered
+1251,2024-02-01,2623,Dried Apricot,Nuts,418.51,4.74,1983.74,Credit Card,Manila,Cancelled
+1252,2024-04-05,2515,Pistachios,Nuts,596.8,0.69,411.79,Credit Card,Quezon City,Pending
+1253,2024-03-28,2349,Walnuts,Nuts,244.39,2.51,613.42,GCash,Batangas,Pending
+1254,2024-04-14,2842,Pistachios,Dried Fruits,477.82,0.82,391.81,GCash,Cavite,Delivered
+1255,2024-02-21,2445,Dried Mango,Nuts,1016.68,3.78,3843.05,Cash on Delivery,Laguna,Pending
+1256,2024-04-22,2829,Cashews,Dried Fruits,484.56,3.24,1569.97,Cash on Delivery,Batangas,Delivered
+1257,2024-03-02,2349,Almonds,Nuts,1018.21,3.68,3747.01,Cash on Delivery,Laguna,Cancelled
+1258,2024-04-22,2606,Dried Apricot,Dried Fruits,731.6,2.19,1602.2,Credit Card,Batangas,Pending
+1259,2024-02-27,2663,Cashews,Dried Fruits,1079.86,2.16,2332.5,Credit Card,Manila,Delivered
+1260,2024-02-21,2822,Dried Mango,Dried Fruits,774.78,0.7,542.35,GCash,Quezon City,Pending
+1261,2024-01-12,2136,Raisins,Dried Fruits,229.67,2.07,475.42,GCash,Laguna,Pending
+1262,2024-02-08,2758,Raisins,Dried Fruits,875.42,4.68,4096.97,Cash on Delivery,Batangas,Delivered
+1263,2024-01-02,2898,Dried Mango,Dried Fruits,244.85,2.21,541.12,GCash,Quezon City,Pending
+1264,2024-01-03,2242,Pistachios,Nuts,650.6,4.24,2758.54,GCash,Laguna,Pending
+1265,2024-04-22,2542,Dates,Dried Fruits,1129.43,4.29,4845.25,GCash,Cavite,Pending
+1266,2024-04-10,2039,Dates,Nuts,365.2,2.18,796.14,GCash,Batangas,Pending
+1267,2024-04-22,2228,Pistachios,Nuts,589.87,3.34,1970.17,GCash,Cavite,Cancelled
+1268,2024-02-25,2547,Raisins,Dried Fruits,929.86,0.93,864.77,Cash on Delivery,Manila,Pending
+1269,2024-03-21,2919,Raisins,Nuts,1082.26,0.97,1049.79,Cash on Delivery,Cavite,Pending
+1270,2024-02-28,2222,Dried Apricot,Dried Fruits,870.94,0.72,627.08,GCash,Cavite,Delivered
+1271,2024-04-22,2005,Raisins,Nuts,458.17,3.11,1424.91,Cash on Delivery,Batangas,Cancelled
+1272,2024-01-02,2321,Cashews,Dried Fruits,874.61,2.42,2116.56,Credit Card,Manila,Delivered
+1273,2024-01-02,2467,Raisins,Nuts,496.73,2.97,1475.29,GCash,Cavite,Delivered
+1274,2024-04-01,2731,Walnuts,Dried Fruits,918.43,2.84,2608.34,Credit Card,Quezon City,Delivered
+1275,2024-02-23,2074,Dried Apricot,Dried Fruits,1154.03,2.08,2400.38,Cash on Delivery,Laguna,Cancelled
+1276,2024-03-27,2003,Almonds,Dried Fruits,921.39,3.55,3270.93,Cash on Delivery,Cavite,Delivered
+1277,2024-04-10,2846,Raisins,Dried Fruits,1062.88,3.91,4155.86,Credit Card,Manila,Delivered
+1278,2024-04-05,2645,Pistachios,Nuts,202.1,0.57,115.2,Cash on Delivery,Cavite,Delivered
+1279,2024-04-06,2117,Almonds,Dried Fruits,917.57,1.43,1312.13,GCash,Laguna,Pending
+1280,2024-01-01,2880,Cashews,Nuts,1029.59,3.71,3819.78,Credit Card,Manila,Delivered
+1281,2024-01-19,2605,Pistachios,Nuts,240.56,2.24,538.85,GCash,Batangas,Cancelled
+1282,2024-01-02,2503,Almonds,Nuts,1071.6,3.48,3729.17,Credit Card,Manila,Cancelled
+1283,2024-02-22,2997,Pistachios,Dried Fruits,456.69,2.06,940.78,Cash on Delivery,Batangas,Pending
+1284,2024-02-13,2946,Cashews,Nuts,865.29,2.26,1955.56,Credit Card,Manila,Cancelled
+1285,2024-03-30,2573,Dried Apricot,Nuts,1000.35,1.21,1210.42,Credit Card,Laguna,Cancelled
+1286,2024-02-01,2440,Walnuts,Nuts,862.66,1.66,1432.02,GCash,Laguna,Pending
+1287,2024-03-10,2193,Cashews,Dried Fruits,292.28,3.22,941.14,Cash on Delivery,Manila,Delivered
+1288,2024-02-01,2846,Cashews,Dried Fruits,796.32,2.45,1950.98,GCash,Cavite,Pending
+1289,2024-04-28,2714,Pistachios,Nuts,749.58,3.98,2983.33,Cash on Delivery,Laguna,Delivered
+1290,2024-03-08,2391,Dried Apricot,Dried Fruits,1100.32,4.34,4775.39,GCash,Batangas,Delivered
+1291,2024-02-24,2025,Dried Mango,Dried Fruits,604.24,2.94,1776.47,Credit Card,Batangas,Cancelled
+1292,2024-03-15,2434,Dates,Nuts,521.08,3.91,2037.42,GCash,Quezon City,Pending
+1293,2024-02-25,2172,Raisins,Nuts,949.85,1.88,1785.72,Cash on Delivery,Batangas,Cancelled
+1294,2024-01-17,2299,Raisins,Dried Fruits,612.68,2.37,1452.05,Cash on Delivery,Quezon City,Cancelled
+1295,2024-02-07,2644,Walnuts,Nuts,846.1,3.71,3139.03,Credit Card,Manila,Delivered
+1296,2024-01-24,2325,Walnuts,Dried Fruits,846.45,2.24,1896.05,Cash on Delivery,Manila,Cancelled
+1297,2024-03-09,2409,Raisins,Dried Fruits,1088.04,3.15,3427.33,GCash,Manila,Pending
+1298,2024-04-25,2117,Dates,Dried Fruits,798.69,1.33,1062.26,Credit Card,Cavite,Cancelled
+1299,2024-04-07,2835,Raisins,Dried Fruits,702.15,3.2,2246.88,Cash on Delivery,Cavite,Cancelled
+1300,2024-03-10,2786,Dried Mango,Dried Fruits,338.87,4.38,1484.25,Cash on Delivery,Quezon City,Delivered
+1301,2024-03-26,2723,Dates,Dried Fruits,315.74,4.41,1392.41,GCash,Batangas,Pending
+1302,2024-01-11,2224,Walnuts,Nuts,354.32,3.76,1332.24,GCash,Batangas,Cancelled
+1303,2024-04-21,2531,Almonds,Nuts,371.85,3.86,1435.34,Credit Card,Manila,Delivered
+1304,2024-01-16,2112,Pistachios,Dried Fruits,837.88,3.01,2522.02,Cash on Delivery,Laguna,Cancelled
+1305,2024-04-06,2139,Dried Mango,Dried Fruits,940.98,3.13,2945.27,GCash,Cavite,Pending
+1306,2024-03-13,2558,Dried Mango,Dried Fruits,729.99,1.1,802.99,Credit Card,Cavite,Cancelled
+1307,2024-02-28,2000,Dried Apricot,Nuts,1029.02,2.5,2572.55,Cash on Delivery,Manila,Cancelled
+1308,2024-03-10,2089,Walnuts,Dried Fruits,1191.26,2.53,3013.89,Cash on Delivery,Cavite,Delivered
+1309,2024-03-20,2653,Walnuts,Nuts,1020.01,4.81,4906.25,Credit Card,Manila,Cancelled
+1310,2024-04-02,2319,Cashews,Dried Fruits,894.88,2.44,2183.51,Credit Card,Quezon City,Delivered
+1311,2024-01-03,2549,Dried Mango,Dried Fruits,732.49,2.97,2175.5,GCash,Batangas,Pending
+1312,2024-01-20,2804,Cashews,Nuts,648.85,2.9,1881.66,Cash on Delivery,Laguna,Cancelled
+1313,2024-02-28,2893,Cashews,Nuts,284.39,3.37,958.39,Cash on Delivery,Batangas,Pending
+1314,2024-02-05,2138,Pistachios,Dried Fruits,599.37,3.87,2319.56,Cash on Delivery,Batangas,Pending
+1315,2024-01-19,2510,Cashews,Dried Fruits,1110.13,1.51,1676.3,Credit Card,Quezon City,Cancelled
+1316,2024-03-30,2867,Dates,Dried Fruits,1008.02,2.88,2903.1,GCash,Cavite,Delivered
+1317,2024-03-07,2844,Raisins,Nuts,416.05,4.22,1755.73,Cash on Delivery,Laguna,Pending
+1318,2024-01-19,2258,Almonds,Nuts,666.61,2.58,1719.85,Credit Card,Cavite,Pending
+1319,2024-01-20,2672,Walnuts,Nuts,1016.72,1.75,1779.26,Cash on Delivery,Batangas,Cancelled
+1320,2024-04-05,2901,Dates,Nuts,267.38,3.45,922.46,GCash,Manila,Cancelled
+1321,2024-03-11,2689,Almonds,Nuts,587.39,4.21,2472.91,Cash on Delivery,Batangas,Cancelled
+1322,2024-02-21,2009,Dried Mango,Nuts,1051.84,0.78,820.44,GCash,Cavite,Cancelled
+1323,2024-04-14,2260,Dried Mango,Dried Fruits,603.9,4.0,2415.6,GCash,Batangas,Cancelled
+1324,2024-02-02,2918,Dried Mango,Dried Fruits,277.61,4.2,1165.96,Cash on Delivery,Manila,Cancelled
+1325,2024-02-09,2649,Dates,Nuts,742.53,2.58,1915.73,Cash on Delivery,Quezon City,Delivered
+1326,2024-02-08,2171,Dates,Dried Fruits,1061.74,4.92,5223.76,GCash,Cavite,Pending
+1327,2024-03-22,2897,Walnuts,Dried Fruits,790.29,4.04,3192.77,Credit Card,Batangas,Delivered
+1328,2024-04-13,2012,Raisins,Nuts,426.28,3.98,1696.59,GCash,Cavite,Delivered
+1329,2024-01-01,2167,Dried Apricot,Dried Fruits,584.24,3.87,2261.01,Cash on Delivery,Quezon City,Cancelled
+1330,2024-01-11,2641,Cashews,Nuts,650.12,1.18,767.14,Cash on Delivery,Batangas,Pending
+1331,2024-04-01,2595,Dried Mango,Nuts,779.27,1.48,1153.32,Credit Card,Batangas,Delivered
+1332,2024-02-26,2320,Pistachios,Dried Fruits,959.35,2.59,2484.72,GCash,Cavite,Cancelled
+1333,2024-03-29,2318,Raisins,Nuts,298.87,1.69,505.09,GCash,Cavite,Cancelled
+1334,2024-02-19,2612,Pistachios,Nuts,1089.65,2.37,2582.47,GCash,Manila,Pending
+1335,2024-01-23,2328,Walnuts,Nuts,212.31,4.5,955.4,Cash on Delivery,Quezon City,Delivered
+1336,2024-01-31,2784,Walnuts,Nuts,570.05,4.21,2399.91,GCash,Manila,Delivered
+1337,2024-04-03,2776,Walnuts,Nuts,227.42,3.34,759.58,Credit Card,Batangas,Delivered
+1338,2024-02-11,2970,Almonds,Nuts,592.97,4.36,2585.35,Cash on Delivery,Cavite,Cancelled
+1339,2024-04-08,2910,Pistachios,Nuts,725.81,4.03,2925.01,Cash on Delivery,Batangas,Pending
+1340,2024-01-07,2919,Raisins,Nuts,711.68,2.43,1729.38,GCash,Batangas,Pending
+1341,2024-01-16,2549,Dried Apricot,Dried Fruits,365.63,1.4,511.88,Credit Card,Laguna,Delivered
+1342,2024-03-30,2418,Raisins,Dried Fruits,845.74,2.81,2376.53,Cash on Delivery,Laguna,Cancelled
+1343,2024-04-21,2605,Dates,Dried Fruits,244.78,3.81,932.61,Cash on Delivery,Batangas,Delivered
+1344,2024-04-25,2094,Dates,Nuts,961.91,2.46,2366.3,GCash,Cavite,Pending
+1345,2024-02-29,2816,Dried Mango,Nuts,1146.64,3.5,4013.24,GCash,Batangas,Cancelled
+1346,2024-04-22,2580,Dried Apricot,Dried Fruits,539.77,0.92,496.59,Credit Card,Laguna,Delivered
+1347,2024-01-02,2317,Dates,Dried Fruits,717.24,3.87,2775.72,GCash,Cavite,Delivered
+1348,2024-01-01,2955,Walnuts,Dried Fruits,578.91,4.16,2408.27,Credit Card,Batangas,Cancelled
+1349,2024-02-17,2235,Raisins,Nuts,206.71,3.68,760.69,Cash on Delivery,Quezon City,Pending
+1350,2024-01-12,2945,Pistachios,Dried Fruits,585.87,4.85,2841.47,Credit Card,Quezon City,Cancelled
+1351,2024-03-09,2333,Walnuts,Dried Fruits,991.72,4.22,4185.06,Credit Card,Batangas,Delivered
+1352,2024-02-06,2884,Almonds,Nuts,795.99,4.56,3629.71,Credit Card,Cavite,Delivered
+1353,2024-02-01,2375,Dates,Dried Fruits,301.26,4.7,1415.92,Cash on Delivery,Batangas,Delivered
+1354,2024-04-28,2458,Walnuts,Nuts,1047.14,4.11,4303.75,GCash,Batangas,Delivered
+1355,2024-01-09,2136,Walnuts,Nuts,731.09,3.53,2580.75,Cash on Delivery,Laguna,Pending
+1356,2024-04-14,2929,Almonds,Nuts,1041.72,0.53,552.11,GCash,Quezon City,Pending
+1357,2024-04-08,2587,Cashews,Dried Fruits,780.22,2.6,2028.57,Credit Card,Laguna,Delivered
+1358,2024-01-19,2994,Raisins,Dried Fruits,759.69,3.07,2332.25,Credit Card,Laguna,Pending
+1359,2024-02-17,2546,Pistachios,Nuts,305.26,1.87,570.84,Credit Card,Batangas,Pending
+1360,2024-03-20,2512,Dried Mango,Dried Fruits,367.36,1.93,709.0,Credit Card,Laguna,Pending
+1361,2024-01-03,2295,Cashews,Dried Fruits,1172.03,4.83,5660.9,Credit Card,Quezon City,Delivered
+1362,2024-01-20,2319,Dates,Dried Fruits,428.49,4.51,1932.49,GCash,Laguna,Cancelled
+1363,2024-01-24,2917,Walnuts,Dried Fruits,1177.45,4.32,5086.58,GCash,Quezon City,Cancelled
+1364,2024-02-23,2571,Dried Apricot,Nuts,731.91,2.33,1705.35,Credit Card,Laguna,Cancelled
+1365,2024-04-29,2831,Almonds,Dried Fruits,335.79,0.56,188.04,Cash on Delivery,Quezon City,Delivered
+1366,2024-02-02,2348,Almonds,Nuts,299.3,0.86,257.4,Cash on Delivery,Laguna,Pending
+1367,2024-01-24,2839,Dried Apricot,Nuts,408.86,1.9,776.83,Credit Card,Laguna,Pending
+1368,2024-04-25,2778,Raisins,Dried Fruits,1125.64,0.57,641.61,GCash,Cavite,Delivered
+1369,2024-03-15,2872,Cashews,Nuts,614.15,0.58,356.21,Cash on Delivery,Quezon City,Delivered
+1370,2024-04-22,2228,Dried Mango,Dried Fruits,595.43,4.62,2750.89,Cash on Delivery,Quezon City,Cancelled
+1371,2024-03-12,2269,Raisins,Dried Fruits,513.21,3.68,1888.61,Cash on Delivery,Quezon City,Cancelled
+1372,2024-02-05,2827,Dried Apricot,Nuts,347.06,1.89,655.94,Credit Card,Manila,Delivered
+1373,2024-02-07,2797,Walnuts,Nuts,687.85,1.1,756.64,Cash on Delivery,Laguna,Cancelled
+1374,2024-04-13,2290,Dried Apricot,Nuts,330.05,2.8,924.14,Cash on Delivery,Quezon City,Pending
+1375,2024-03-24,2724,Raisins,Nuts,1035.48,0.52,538.45,Cash on Delivery,Manila,Delivered
+1376,2024-04-08,2164,Pistachios,Dried Fruits,570.4,4.72,2692.29,Cash on Delivery,Cavite,Delivered
+1377,2024-04-21,2004,Almonds,Dried Fruits,574.8,2.37,1362.28,GCash,Quezon City,Pending
+1378,2024-03-29,2850,Almonds,Dried Fruits,674.01,2.31,1556.96,Credit Card,Quezon City,Pending
+1379,2024-04-08,2378,Dates,Nuts,644.13,2.26,1455.73,Credit Card,Manila,Pending
+1380,2024-01-25,2077,Dates,Nuts,1194.86,0.81,967.84,GCash,Laguna,Cancelled
+1381,2024-04-02,2409,Dried Apricot,Nuts,745.38,3.37,2511.93,GCash,Cavite,Delivered
+1382,2024-01-18,2573,Dried Mango,Dried Fruits,288.2,3.8,1095.16,Credit Card,Quezon City,Cancelled
+1383,2024-04-19,2131,Walnuts,Nuts,806.88,3.54,2856.36,Cash on Delivery,Laguna,Pending
+1384,2024-03-22,2600,Pistachios,Dried Fruits,351.58,1.12,393.77,Cash on Delivery,Cavite,Cancelled
+1385,2024-03-06,2748,Cashews,Nuts,230.94,3.1,715.91,Credit Card,Batangas,Pending
+1386,2024-02-23,2041,Raisins,Dried Fruits,1170.74,3.06,3582.46,Cash on Delivery,Batangas,Cancelled
+1387,2024-02-04,2088,Dried Mango,Dried Fruits,973.54,4.41,4293.31,GCash,Cavite,Cancelled
+1388,2024-03-20,2401,Walnuts,Nuts,1180.11,2.21,2608.04,Cash on Delivery,Manila,Pending
+1389,2024-03-01,2295,Dates,Nuts,677.88,2.17,1471.0,Cash on Delivery,Cavite,Cancelled
+1390,2024-02-10,2839,Dried Apricot,Dried Fruits,732.26,3.28,2401.81,Cash on Delivery,Cavite,Delivered
+1391,2024-04-09,2294,Raisins,Dried Fruits,368.34,3.35,1233.94,Credit Card,Manila,Cancelled
+1392,2024-02-02,2615,Dates,Nuts,446.91,2.61,1166.44,GCash,Manila,Cancelled
+1393,2024-03-08,2525,Dried Apricot,Nuts,1038.55,2.49,2585.99,Cash on Delivery,Laguna,Delivered
+1394,2024-02-02,2799,Raisins,Dried Fruits,556.19,2.72,1512.84,Credit Card,Laguna,Pending
+1395,2024-01-14,2690,Cashews,Nuts,1026.81,4.37,4487.16,Cash on Delivery,Manila,Delivered
+1396,2024-01-21,2636,Walnuts,Dried Fruits,909.01,2.58,2345.25,GCash,Batangas,Cancelled
+1397,2024-02-17,2421,Raisins,Dried Fruits,377.17,4.73,1784.01,Cash on Delivery,Batangas,Pending
+1398,2024-01-20,2864,Pistachios,Nuts,707.45,2.77,1959.64,GCash,Cavite,Cancelled
+1399,2024-04-29,2022,Dried Mango,Nuts,877.39,4.77,4185.15,Cash on Delivery,Quezon City,Cancelled
+1400,2024-01-08,2574,Almonds,Nuts,435.04,4.25,1848.92,GCash,Cavite,Delivered
+1401,2024-01-07,2142,Pistachios,Nuts,1030.69,2.13,2195.37,Cash on Delivery,Cavite,Delivered
+1402,2024-03-07,2992,Pistachios,Nuts,744.83,4.39,3269.8,GCash,Quezon City,Pending
+1403,2024-01-17,2664,Dried Mango,Dried Fruits,365.24,1.0,365.24,Cash on Delivery,Manila,Pending
+1404,2024-02-02,2144,Almonds,Dried Fruits,782.98,4.66,3648.69,Cash on Delivery,Batangas,Pending
+1405,2024-02-17,2224,Pistachios,Nuts,1199.71,3.34,4007.03,Credit Card,Cavite,Cancelled
+1406,2024-03-16,2502,Raisins,Nuts,350.52,0.74,259.38,Credit Card,Quezon City,Delivered
+1407,2024-02-28,2961,Raisins,Nuts,1016.76,3.4,3456.98,GCash,Laguna,Delivered
+1408,2024-04-24,2973,Raisins,Dried Fruits,407.31,4.88,1987.67,Cash on Delivery,Cavite,Delivered
+1409,2024-03-26,2820,Almonds,Nuts,982.39,0.81,795.74,GCash,Batangas,Pending
+1410,2024-04-28,2615,Pistachios,Nuts,934.58,3.0,2803.74,Credit Card,Manila,Delivered
+1411,2024-01-22,2103,Dried Apricot,Dried Fruits,500.49,3.87,1936.9,GCash,Cavite,Delivered
+1412,2024-04-19,2946,Almonds,Dried Fruits,525.82,4.15,2182.15,GCash,Cavite,Delivered
+1413,2024-01-30,2038,Raisins,Nuts,992.52,2.36,2342.35,Credit Card,Quezon City,Pending
+1414,2024-02-07,2946,Dried Mango,Nuts,661.45,1.42,939.26,Cash on Delivery,Laguna,Delivered
+1415,2024-04-11,2197,Pistachios,Nuts,930.82,0.69,642.27,GCash,Laguna,Pending
+1416,2024-04-18,2645,Pistachios,Dried Fruits,347.98,3.11,1082.22,Credit Card,Manila,Delivered
+1417,2024-02-20,2578,Dates,Nuts,1052.56,2.54,2673.5,Cash on Delivery,Batangas,Delivered
+1418,2024-02-23,2390,Dates,Nuts,910.88,4.77,4344.9,Credit Card,Manila,Delivered
+1419,2024-01-08,2178,Cashews,Nuts,1106.94,0.77,852.34,GCash,Cavite,Pending
+1420,2024-01-27,2967,Dried Apricot,Dried Fruits,332.37,3.58,1189.88,Cash on Delivery,Cavite,Pending
+1421,2024-01-27,2553,Dried Apricot,Dried Fruits,793.01,0.61,483.74,Cash on Delivery,Laguna,Delivered
+1422,2024-04-07,2447,Walnuts,Nuts,799.12,1.27,1014.88,Credit Card,Batangas,Cancelled
+1423,2024-01-21,2499,Dried Apricot,Nuts,553.46,2.54,1405.79,Credit Card,Quezon City,Pending
+1424,2024-01-30,2014,Dates,Dried Fruits,658.47,2.55,1679.1,Credit Card,Batangas,Pending
+1425,2024-04-06,2622,Almonds,Dried Fruits,237.98,3.59,854.35,Cash on Delivery,Cavite,Delivered
+1426,2024-01-28,2668,Dried Apricot,Dried Fruits,945.86,4.6,4350.96,Cash on Delivery,Quezon City,Cancelled
+1427,2024-04-20,2288,Dates,Dried Fruits,749.32,3.38,2532.7,GCash,Batangas,Delivered
+1428,2024-03-04,2477,Cashews,Dried Fruits,257.74,4.79,1234.57,Cash on Delivery,Batangas,Pending
+1429,2024-04-06,2230,Pistachios,Dried Fruits,880.76,4.47,3937.0,GCash,Quezon City,Pending
+1430,2024-03-09,2922,Dried Apricot,Dried Fruits,666.78,3.13,2087.02,Credit Card,Cavite,Delivered
+1431,2024-03-01,2419,Cashews,Dried Fruits,234.46,4.25,996.46,Credit Card,Batangas,Delivered
+1432,2024-02-17,2156,Pistachios,Dried Fruits,1169.61,3.39,3964.98,Cash on Delivery,Quezon City,Cancelled
+1433,2024-01-19,2549,Dried Mango,Nuts,1149.11,0.85,976.74,Credit Card,Cavite,Cancelled
+1434,2024-01-04,2440,Dried Mango,Nuts,712.9,3.83,2730.41,Credit Card,Quezon City,Pending
+1435,2024-02-04,2096,Pistachios,Nuts,293.67,0.93,273.11,Cash on Delivery,Quezon City,Cancelled
+1436,2024-03-04,2996,Dried Apricot,Dried Fruits,954.62,3.17,3026.15,GCash,Batangas,Cancelled
+1437,2024-02-18,2410,Walnuts,Nuts,691.93,3.66,2532.46,Cash on Delivery,Cavite,Pending
+1438,2024-01-17,2950,Dates,Dried Fruits,502.45,0.8,401.96,GCash,Batangas,Pending
+1439,2024-02-13,2288,Almonds,Dried Fruits,691.42,1.54,1064.79,Cash on Delivery,Manila,Pending
+1440,2024-04-01,2253,Almonds,Nuts,722.44,4.62,3337.67,Cash on Delivery,Manila,Pending
+1441,2024-01-30,2195,Raisins,Dried Fruits,762.71,3.27,2494.06,Credit Card,Cavite,Delivered
+1442,2024-04-02,2597,Pistachios,Nuts,641.22,1.61,1032.36,Cash on Delivery,Quezon City,Pending
+1443,2024-02-15,2833,Almonds,Nuts,805.76,3.61,2908.79,Cash on Delivery,Batangas,Pending
+1444,2024-04-26,2521,Dried Apricot,Nuts,1118.73,3.19,3568.75,GCash,Batangas,Pending
+1445,2024-01-06,2516,Walnuts,Dried Fruits,562.27,2.76,1551.87,Credit Card,Cavite,Cancelled
+1446,2024-04-08,2634,Pistachios,Nuts,925.72,4.89,4526.77,GCash,Cavite,Pending
+1447,2024-04-14,2841,Walnuts,Dried Fruits,1094.45,3.58,3918.13,GCash,Manila,Delivered
+1448,2024-02-06,2864,Dried Apricot,Nuts,655.98,2.19,1436.6,Credit Card,Laguna,Delivered
+1449,2024-01-24,2117,Almonds,Nuts,643.46,4.1,2638.19,Credit Card,Cavite,Pending
+1450,2024-04-02,2805,Almonds,Nuts,802.12,4.48,3593.5,Credit Card,Laguna,Delivered
+1451,2024-04-22,2908,Raisins,Dried Fruits,791.41,1.06,838.89,Cash on Delivery,Cavite,Cancelled
+1452,2024-02-15,2158,Almonds,Dried Fruits,1006.59,1.4,1409.23,Credit Card,Quezon City,Pending
+1453,2024-02-22,2814,Pistachios,Dried Fruits,676.48,1.47,994.43,Credit Card,Quezon City,Delivered
+1454,2024-04-04,2227,Dried Apricot,Nuts,1196.12,3.61,4317.99,Credit Card,Manila,Delivered
+1455,2024-04-08,2876,Dried Mango,Nuts,259.47,3.21,832.9,GCash,Manila,Pending
+1456,2024-02-29,2215,Dried Apricot,Dried Fruits,203.17,3.29,668.43,GCash,Laguna,Delivered
+1457,2024-04-06,2947,Pistachios,Dried Fruits,840.2,4.73,3974.15,Cash on Delivery,Cavite,Pending
+1458,2024-04-25,2695,Pistachios,Dried Fruits,498.43,3.99,1988.74,GCash,Batangas,Delivered
+1459,2024-03-03,2014,Raisins,Dried Fruits,440.38,1.08,475.61,Cash on Delivery,Manila,Cancelled
+1460,2024-03-25,2156,Raisins,Dried Fruits,511.9,2.06,1054.51,GCash,Batangas,Delivered
+1461,2024-02-01,2647,Almonds,Dried Fruits,456.05,2.46,1121.88,Credit Card,Batangas,Delivered
+1462,2024-03-27,2260,Cashews,Nuts,230.79,2.28,526.2,GCash,Cavite,Pending
+1463,2024-02-02,2156,Dried Apricot,Dried Fruits,1171.53,3.51,4112.07,Cash on Delivery,Laguna,Delivered
+1464,2024-03-07,2046,Dried Apricot,Nuts,420.75,4.51,1897.58,GCash,Cavite,Pending
+1465,2024-01-18,2323,Cashews,Nuts,934.03,1.88,1755.98,Credit Card,Manila,Cancelled
+1466,2024-01-25,2843,Raisins,Dried Fruits,962.6,2.98,2868.55,Cash on Delivery,Batangas,Pending
+1467,2024-04-15,2684,Almonds,Dried Fruits,1129.26,4.05,4573.5,Credit Card,Cavite,Pending
+1468,2024-04-04,2129,Cashews,Nuts,230.55,2.37,546.4,Credit Card,Cavite,Delivered
+1469,2024-02-23,2410,Almonds,Dried Fruits,1072.05,1.26,1350.78,Cash on Delivery,Cavite,Cancelled
+1470,2024-02-27,2094,Almonds,Dried Fruits,727.23,2.64,1919.89,Credit Card,Manila,Pending
+1471,2024-03-07,2626,Almonds,Nuts,832.54,0.75,624.4,Credit Card,Laguna,Delivered
+1472,2024-04-13,2754,Dates,Nuts,844.47,4.74,4002.79,GCash,Cavite,Delivered
+1473,2024-02-15,2931,Pistachios,Nuts,1019.8,0.84,856.63,Credit Card,Manila,Pending
+1474,2024-01-24,2291,Almonds,Dried Fruits,533.41,2.47,1317.52,Credit Card,Batangas,Delivered
+1475,2024-04-23,2793,Dates,Nuts,933.05,2.88,2687.18,Credit Card,Quezon City,Pending
+1476,2024-02-01,2810,Raisins,Dried Fruits,728.58,4.93,3591.9,Credit Card,Manila,Pending
+1477,2024-02-16,2282,Cashews,Nuts,993.39,1.25,1241.74,Cash on Delivery,Quezon City,Pending
+1478,2024-03-26,2068,Pistachios,Nuts,1190.55,1.01,1202.46,GCash,Cavite,Cancelled
+1479,2024-01-23,2659,Dried Mango,Nuts,400.65,0.54,216.35,Credit Card,Cavite,Pending
+1480,2024-03-06,2010,Cashews,Dried Fruits,1194.65,1.2,1433.58,Credit Card,Manila,Delivered
+1481,2024-01-27,2253,Pistachios,Dried Fruits,289.81,1.43,414.43,Cash on Delivery,Quezon City,Cancelled
+1482,2024-04-15,2841,Dried Mango,Nuts,202.32,3.34,675.75,Credit Card,Cavite,Delivered
+1483,2024-01-02,2871,Cashews,Nuts,244.16,1.49,363.8,Cash on Delivery,Batangas,Cancelled
+1484,2024-03-30,2549,Pistachios,Nuts,541.78,0.59,319.65,GCash,Laguna,Cancelled
+1485,2024-01-17,2133,Cashews,Dried Fruits,832.91,4.22,3514.88,GCash,Laguna,Cancelled
+1486,2024-04-13,2711,Cashews,Nuts,269.03,2.15,578.41,Credit Card,Cavite,Cancelled
+1487,2024-02-02,2022,Dried Mango,Dried Fruits,205.67,2.09,429.85,Credit Card,Quezon City,Delivered
+1488,2024-01-09,2814,Cashews,Nuts,1137.09,1.86,2114.99,Credit Card,Cavite,Pending
+1489,2024-02-12,2345,Cashews,Nuts,1021.93,4.89,4997.24,Cash on Delivery,Quezon City,Delivered
+1490,2024-04-27,2301,Dried Mango,Nuts,1009.18,1.27,1281.66,Credit Card,Batangas,Pending
+1491,2024-02-17,2362,Raisins,Nuts,1084.42,4.54,4923.27,Credit Card,Quezon City,Delivered
+1492,2024-02-08,2395,Almonds,Nuts,900.03,4.0,3600.12,GCash,Cavite,Cancelled
+1493,2024-04-02,2217,Dried Apricot,Nuts,304.4,0.84,255.7,Credit Card,Batangas,Cancelled
+1494,2024-02-11,2140,Walnuts,Dried Fruits,599.1,4.94,2959.55,GCash,Manila,Pending
+1495,2024-04-28,2615,Dates,Nuts,923.15,1.72,1587.82,Credit Card,Laguna,Pending
+1496,2024-01-26,2957,Walnuts,Dried Fruits,480.33,0.94,451.51,GCash,Cavite,Delivered
+1497,2024-04-08,2209,Walnuts,Nuts,887.41,4.23,3753.74,Credit Card,Cavite,Pending
+1498,2024-02-19,2984,Pistachios,Nuts,224.5,3.68,826.16,GCash,Cavite,Delivered
+1499,2024-01-25,2992,Almonds,Dried Fruits,506.14,3.28,1660.14,Cash on Delivery,Batangas,Pending
+1500,2024-01-24,2622,Pistachios,Nuts,749.13,1.2,898.96,GCash,Manila,Pending
+1501,2024-01-13,2615,Almonds,Dried Fruits,832.09,2.65,2205.04,GCash,Quezon City,Pending
+1502,2024-02-29,2827,Dried Mango,Dried Fruits,777.04,4.01,3115.93,GCash,Manila,Cancelled
+1503,2024-01-07,2682,Dried Mango,Nuts,897.76,1.87,1678.81,Credit Card,Batangas,Cancelled
+1504,2024-02-26,2459,Dried Apricot,Dried Fruits,206.09,1.9,391.57,Credit Card,Cavite,Delivered
+1505,2024-02-05,2355,Almonds,Dried Fruits,300.94,0.51,153.48,Credit Card,Laguna,Pending
+1506,2024-02-14,2323,Cashews,Nuts,1068.94,1.28,1368.24,Cash on Delivery,Cavite,Delivered
+1507,2024-01-20,2132,Raisins,Dried Fruits,881.75,4.44,3914.97,Cash on Delivery,Quezon City,Pending
+1508,2024-03-05,2887,Dried Apricot,Nuts,312.93,2.49,779.2,GCash,Laguna,Cancelled
+1509,2024-01-08,2804,Dried Apricot,Nuts,1042.07,4.93,5137.41,Cash on Delivery,Cavite,Cancelled
+1510,2024-04-19,2839,Cashews,Nuts,442.23,2.28,1008.28,GCash,Laguna,Pending
+1511,2024-01-16,2126,Raisins,Nuts,678.26,3.72,2523.13,GCash,Manila,Pending
+1512,2024-01-14,2105,Pistachios,Dried Fruits,345.2,1.77,611.0,GCash,Batangas,Cancelled
+1513,2024-03-16,2603,Raisins,Nuts,910.11,2.14,1947.64,Cash on Delivery,Cavite,Cancelled
+1514,2024-04-24,2798,Pistachios,Nuts,866.85,1.36,1178.92,Credit Card,Quezon City,Delivered
+1515,2024-03-27,2377,Dried Mango,Dried Fruits,411.11,2.06,846.89,Cash on Delivery,Manila,Cancelled
+1516,2024-01-15,2904,Walnuts,Nuts,1063.4,2.96,3147.66,GCash,Cavite,Pending
+1517,2024-04-01,2050,Dried Mango,Nuts,601.31,4.96,2982.5,GCash,Manila,Delivered
+1518,2024-04-07,2028,Dried Mango,Dried Fruits,492.52,3.49,1718.89,Cash on Delivery,Quezon City,Pending
+1519,2024-03-06,2461,Walnuts,Dried Fruits,352.33,1.4,493.26,GCash,Cavite,Delivered
+1520,2024-02-01,2295,Raisins,Dried Fruits,466.17,0.7,326.32,GCash,Quezon City,Pending
+1521,2024-03-27,2296,Dried Apricot,Dried Fruits,222.03,1.07,237.57,Cash on Delivery,Laguna,Cancelled
+1522,2024-03-03,2725,Raisins,Dried Fruits,783.26,3.03,2373.28,Cash on Delivery,Quezon City,Pending
+1523,2024-03-26,2778,Pistachios,Dried Fruits,1042.23,3.94,4106.39,Cash on Delivery,Laguna,Delivered
+1524,2024-02-20,2406,Cashews,Dried Fruits,748.98,4.73,3542.68,GCash,Cavite,Pending
+1525,2024-01-25,2768,Pistachios,Nuts,419.27,0.57,238.98,GCash,Laguna,Delivered
+1526,2024-02-27,2813,Cashews,Dried Fruits,233.67,2.85,665.96,Credit Card,Cavite,Pending
+1527,2024-03-03,2612,Dried Mango,Dried Fruits,414.63,2.62,1086.33,Credit Card,Cavite,Cancelled
+1528,2024-03-02,2404,Walnuts,Dried Fruits,616.12,3.45,2125.61,Cash on Delivery,Batangas,Cancelled
+1529,2024-01-22,2345,Dried Mango,Nuts,959.61,3.02,2898.02,Credit Card,Cavite,Pending
+1530,2024-02-27,2621,Almonds,Nuts,387.84,3.59,1392.35,GCash,Laguna,Pending
+1531,2024-02-27,2419,Raisins,Dried Fruits,919.79,3.46,3182.47,Credit Card,Batangas,Pending
+1532,2024-03-26,2181,Cashews,Dried Fruits,1066.93,1.03,1098.94,GCash,Batangas,Delivered
+1533,2024-02-18,2982,Pistachios,Dried Fruits,653.95,4.1,2681.2,Cash on Delivery,Cavite,Pending
+1534,2024-02-21,2824,Walnuts,Nuts,1021.43,1.05,1072.5,Cash on Delivery,Quezon City,Pending
+1535,2024-02-11,2000,Cashews,Nuts,754.66,3.64,2746.96,GCash,Quezon City,Delivered
+1536,2024-03-10,2830,Pistachios,Dried Fruits,837.09,2.37,1983.9,Credit Card,Batangas,Cancelled
+1537,2024-01-15,2949,Raisins,Nuts,726.28,2.81,2040.85,Cash on Delivery,Cavite,Pending
+1538,2024-02-23,2566,Dried Mango,Dried Fruits,663.17,4.56,3024.06,Cash on Delivery,Quezon City,Pending
+1539,2024-04-16,2370,Raisins,Nuts,434.65,4.5,1955.92,Credit Card,Cavite,Cancelled
+1540,2024-02-29,2935,Dates,Nuts,503.19,4.18,2103.33,Credit Card,Cavite,Cancelled
+1541,2024-04-10,2910,Almonds,Dried Fruits,489.97,2.8,1371.92,GCash,Batangas,Delivered
+1542,2024-04-06,2660,Dates,Dried Fruits,763.29,3.81,2908.13,Credit Card,Batangas,Pending
+1543,2024-01-08,2430,Walnuts,Dried Fruits,319.95,2.81,899.06,Credit Card,Manila,Pending
+1544,2024-02-22,2968,Cashews,Dried Fruits,1116.79,4.41,4925.04,Credit Card,Quezon City,Delivered
+1545,2024-02-29,2308,Walnuts,Nuts,920.66,2.31,2126.72,GCash,Quezon City,Cancelled
+1546,2024-04-17,2136,Dried Mango,Nuts,601.45,4.87,2929.06,GCash,Quezon City,Delivered
+1547,2024-04-17,2201,Pistachios,Nuts,358.62,4.7,1685.51,Cash on Delivery,Laguna,Cancelled
+1548,2024-01-05,2435,Raisins,Dried Fruits,1081.99,3.84,4154.84,GCash,Cavite,Delivered
+1549,2024-04-12,2312,Dates,Nuts,1023.78,1.76,1801.85,Cash on Delivery,Batangas,Cancelled
+1550,2024-03-08,2116,Dried Apricot,Dried Fruits,921.72,1.09,1004.67,Credit Card,Quezon City,Delivered
+1551,2024-01-06,2665,Dates,Nuts,471.55,4.35,2051.24,Cash on Delivery,Manila,Cancelled
+1552,2024-04-18,2936,Dried Mango,Dried Fruits,602.45,1.24,747.04,Cash on Delivery,Quezon City,Cancelled
+1553,2024-04-05,2802,Dates,Dried Fruits,302.75,4.34,1313.94,Credit Card,Cavite,Cancelled
+1554,2024-04-25,2574,Dried Mango,Nuts,389.04,2.71,1054.3,Cash on Delivery,Cavite,Cancelled
+1555,2024-04-03,2243,Dried Apricot,Dried Fruits,983.02,2.33,2290.44,GCash,Batangas,Cancelled
+1556,2024-02-16,2536,Walnuts,Dried Fruits,915.04,4.56,4172.58,GCash,Laguna,Pending
+1557,2024-04-08,2601,Raisins,Nuts,793.49,3.22,2555.04,GCash,Batangas,Cancelled
+1558,2024-02-24,2074,Cashews,Dried Fruits,1095.73,3.09,3385.81,GCash,Quezon City,Pending
+1559,2024-02-09,2805,Pistachios,Dried Fruits,783.27,3.01,2357.64,Cash on Delivery,Manila,Cancelled
+1560,2024-02-21,2385,Cashews,Dried Fruits,666.97,2.17,1447.32,Cash on Delivery,Batangas,Pending
+1561,2024-01-16,2902,Walnuts,Nuts,540.37,4.04,2183.09,Credit Card,Laguna,Pending
+1562,2024-01-13,2209,Pistachios,Nuts,1140.45,1.64,1870.34,Cash on Delivery,Batangas,Delivered
+1563,2024-04-23,2474,Dates,Dried Fruits,282.72,4.73,1337.27,Cash on Delivery,Cavite,Cancelled
+1564,2024-04-15,2417,Dried Apricot,Nuts,1130.89,4.52,5111.62,Cash on Delivery,Quezon City,Delivered
+1565,2024-01-30,2346,Dried Apricot,Dried Fruits,1026.71,2.02,2073.95,Credit Card,Quezon City,Delivered
+1566,2024-01-19,2528,Almonds,Dried Fruits,329.93,3.78,1247.14,GCash,Quezon City,Cancelled
+1567,2024-01-17,2639,Walnuts,Dried Fruits,764.98,3.08,2356.14,Cash on Delivery,Quezon City,Delivered
+1568,2024-04-29,2938,Walnuts,Dried Fruits,1066.55,2.02,2154.43,Credit Card,Quezon City,Cancelled
+1569,2024-03-03,2954,Raisins,Dried Fruits,771.81,4.95,3820.46,Credit Card,Quezon City,Delivered
+1570,2024-01-19,2875,Cashews,Nuts,1107.2,0.61,675.39,Credit Card,Manila,Cancelled
+1571,2024-04-01,2762,Walnuts,Dried Fruits,1142.98,1.64,1874.49,GCash,Laguna,Cancelled
+1572,2024-02-27,2178,Walnuts,Nuts,622.38,2.84,1767.56,Cash on Delivery,Quezon City,Cancelled
+1573,2024-02-24,2181,Dates,Nuts,577.31,2.85,1645.33,Credit Card,Laguna,Pending
+1574,2024-03-30,2663,Dates,Dried Fruits,1136.32,3.15,3579.41,GCash,Quezon City,Delivered
+1575,2024-04-10,2024,Pistachios,Dried Fruits,875.14,3.88,3395.54,Credit Card,Batangas,Pending
+1576,2024-03-30,2966,Dried Mango,Nuts,316.02,3.31,1046.03,Credit Card,Quezon City,Delivered
+1577,2024-04-26,2179,Dried Mango,Nuts,242.29,3.2,775.33,Credit Card,Cavite,Delivered
+1578,2024-03-02,2709,Almonds,Nuts,764.63,0.74,565.83,Credit Card,Manila,Delivered
+1579,2024-01-23,2500,Dried Mango,Dried Fruits,1130.17,2.19,2475.07,Credit Card,Batangas,Pending
+1580,2024-01-09,2855,Raisins,Nuts,1044.25,1.54,1608.14,GCash,Batangas,Delivered
+1581,2024-01-12,2160,Almonds,Dried Fruits,875.85,1.69,1480.19,Cash on Delivery,Cavite,Pending
+1582,2024-04-26,2176,Pistachios,Dried Fruits,339.12,2.99,1013.97,Cash on Delivery,Quezon City,Cancelled
+1583,2024-01-01,2284,Dates,Dried Fruits,454.23,1.4,635.92,Cash on Delivery,Manila,Delivered
+1584,2024-02-27,2062,Dried Mango,Nuts,1075.51,1.82,1957.43,Cash on Delivery,Batangas,Delivered
+1585,2024-01-01,2661,Cashews,Dried Fruits,382.81,1.57,601.01,GCash,Manila,Cancelled
+1586,2024-04-20,2665,Dates,Dried Fruits,478.44,4.77,2282.16,GCash,Batangas,Cancelled
+1587,2024-02-03,2155,Dried Apricot,Dried Fruits,329.6,4.75,1565.6,GCash,Quezon City,Delivered
+1588,2024-04-05,2881,Raisins,Dried Fruits,876.11,3.24,2838.6,Credit Card,Batangas,Cancelled
+1589,2024-04-27,2468,Dates,Dried Fruits,1143.98,4.66,5330.95,Credit Card,Batangas,Pending
+1590,2024-02-17,2048,Raisins,Nuts,468.97,4.04,1894.64,Credit Card,Laguna,Pending
+1591,2024-03-29,2966,Raisins,Dried Fruits,675.41,3.15,2127.54,Cash on Delivery,Quezon City,Delivered
+1592,2024-04-13,2848,Raisins,Dried Fruits,834.34,0.53,442.2,Credit Card,Cavite,Pending
+1593,2024-04-18,2083,Pistachios,Nuts,1199.47,3.98,4773.89,Cash on Delivery,Cavite,Pending
+1594,2024-04-26,2360,Raisins,Dried Fruits,304.81,3.66,1115.6,Credit Card,Quezon City,Delivered
+1595,2024-01-01,2688,Raisins,Nuts,698.57,3.27,2284.32,Cash on Delivery,Cavite,Cancelled
+1596,2024-01-16,2147,Dried Apricot,Dried Fruits,585.12,3.92,2293.67,Credit Card,Quezon City,Delivered
+1597,2024-03-01,2629,Cashews,Nuts,1065.82,2.81,2994.95,Credit Card,Cavite,Pending
+1598,2024-04-12,2341,Almonds,Nuts,675.97,3.67,2480.81,GCash,Laguna,Delivered
+1599,2024-03-04,2475,Walnuts,Dried Fruits,310.98,4.71,1464.72,Credit Card,Cavite,Delivered
+1600,2024-03-03,2062,Dried Apricot,Dried Fruits,834.42,2.19,1827.38,Credit Card,Batangas,Pending
+1601,2024-03-09,2700,Almonds,Dried Fruits,970.78,3.69,3582.18,GCash,Quezon City,Pending
+1602,2024-01-22,2359,Raisins,Nuts,202.88,2.64,535.6,Cash on Delivery,Manila,Delivered
+1603,2024-04-02,2560,Cashews,Nuts,1058.96,3.53,3738.13,GCash,Manila,Pending
+1604,2024-04-28,2326,Dates,Nuts,386.02,3.93,1517.06,GCash,Quezon City,Pending
+1605,2024-03-07,2768,Cashews,Dried Fruits,752.07,0.7,526.45,Cash on Delivery,Laguna,Pending
+1606,2024-03-16,2735,Dried Apricot,Nuts,615.8,3.41,2099.88,Credit Card,Cavite,Pending
+1607,2024-01-26,2140,Raisins,Nuts,919.65,1.52,1397.87,Cash on Delivery,Laguna,Pending
+1608,2024-01-16,2989,Cashews,Dried Fruits,571.16,3.52,2010.48,Credit Card,Manila,Pending
+1609,2024-02-20,2214,Dried Mango,Nuts,1069.76,2.61,2792.07,Credit Card,Quezon City,Cancelled
+1610,2024-04-10,2434,Cashews,Nuts,930.5,3.98,3703.39,Cash on Delivery,Quezon City,Delivered
+1611,2024-03-26,2890,Raisins,Dried Fruits,847.71,1.06,898.57,GCash,Laguna,Pending
+1612,2024-02-26,2951,Pistachios,Nuts,996.24,3.32,3307.52,Cash on Delivery,Laguna,Delivered
+1613,2024-01-29,2722,Dried Mango,Dried Fruits,954.02,1.75,1669.54,Credit Card,Cavite,Cancelled
+1614,2024-03-18,2317,Cashews,Dried Fruits,235.94,4.34,1023.98,Cash on Delivery,Batangas,Pending
+1615,2024-04-01,2031,Walnuts,Dried Fruits,594.73,4.68,2783.34,Cash on Delivery,Batangas,Delivered
+1616,2024-03-09,2669,Walnuts,Dried Fruits,1130.81,4.98,5631.43,Credit Card,Cavite,Pending
+1617,2024-02-16,2284,Cashews,Dried Fruits,325.72,4.08,1328.94,GCash,Batangas,Pending
+1618,2024-04-22,2304,Pistachios,Nuts,937.1,3.89,3645.32,Cash on Delivery,Manila,Pending
+1619,2024-04-03,2428,Dates,Nuts,1174.59,1.47,1726.65,Credit Card,Batangas,Pending
+1620,2024-04-19,2476,Raisins,Dried Fruits,252.2,2.01,506.92,Credit Card,Cavite,Pending
+1621,2024-03-02,2285,Walnuts,Dried Fruits,882.19,2.6,2293.69,Cash on Delivery,Batangas,Pending
+1622,2024-04-25,2143,Dates,Nuts,668.15,3.98,2659.24,GCash,Quezon City,Pending
+1623,2024-03-09,2423,Cashews,Dried Fruits,779.18,4.62,3599.81,Cash on Delivery,Laguna,Cancelled
+1624,2024-03-16,2018,Dried Apricot,Dried Fruits,285.34,1.35,385.21,GCash,Manila,Cancelled
+1625,2024-01-16,2017,Dates,Dried Fruits,243.01,4.65,1130.0,GCash,Quezon City,Pending
+1626,2024-03-30,2768,Dried Mango,Nuts,866.87,3.63,3146.74,GCash,Quezon City,Pending
+1627,2024-03-30,2589,Almonds,Nuts,1023.31,3.25,3325.76,GCash,Cavite,Cancelled
+1628,2024-02-17,2370,Walnuts,Dried Fruits,982.02,1.4,1374.83,Cash on Delivery,Laguna,Cancelled
+1629,2024-03-25,2174,Cashews,Dried Fruits,743.81,0.75,557.86,Credit Card,Laguna,Cancelled
+1630,2024-02-08,2193,Dried Apricot,Nuts,299.87,3.06,917.6,Credit Card,Manila,Pending
+1631,2024-04-09,2501,Raisins,Nuts,888.04,3.43,3045.98,Credit Card,Cavite,Delivered
+1632,2024-02-02,2987,Dried Apricot,Dried Fruits,441.89,1.45,640.74,Credit Card,Manila,Delivered
+1633,2024-04-03,2112,Pistachios,Dried Fruits,1111.07,3.0,3333.21,Credit Card,Batangas,Delivered
+1634,2024-04-10,2113,Dried Mango,Nuts,1038.27,4.35,4516.47,Credit Card,Quezon City,Delivered
+1635,2024-01-23,2221,Cashews,Nuts,909.38,4.26,3873.96,Cash on Delivery,Manila,Pending
+1636,2024-01-10,2677,Raisins,Nuts,1148.85,4.67,5365.13,GCash,Quezon City,Delivered
+1637,2024-04-27,2946,Pistachios,Dried Fruits,231.42,2.15,497.55,Credit Card,Cavite,Cancelled
+1638,2024-03-09,2830,Pistachios,Nuts,936.2,1.93,1806.87,Cash on Delivery,Batangas,Cancelled
+1639,2024-04-09,2643,Cashews,Dried Fruits,530.24,3.87,2052.03,Credit Card,Cavite,Delivered
+1640,2024-02-03,2896,Dried Mango,Nuts,1106.07,2.44,2698.81,Credit Card,Batangas,Cancelled
+1641,2024-02-21,2263,Dates,Nuts,466.68,0.89,415.35,GCash,Batangas,Pending
+1642,2024-04-04,2924,Dates,Nuts,924.86,1.77,1637.0,GCash,Quezon City,Delivered
+1643,2024-01-10,2054,Pistachios,Nuts,1077.65,2.38,2564.81,GCash,Cavite,Delivered
+1644,2024-01-19,2870,Dates,Dried Fruits,241.66,1.82,439.82,Credit Card,Cavite,Pending
+1645,2024-02-27,2642,Almonds,Dried Fruits,597.65,1.99,1189.32,Credit Card,Manila,Cancelled
+1646,2024-04-05,2799,Pistachios,Nuts,962.31,1.82,1751.4,Credit Card,Cavite,Pending
+1647,2024-01-01,2777,Pistachios,Dried Fruits,654.92,0.69,451.89,GCash,Manila,Pending
+1648,2024-04-29,2457,Raisins,Nuts,467.25,3.37,1574.63,Cash on Delivery,Laguna,Cancelled
+1649,2024-03-09,2978,Dates,Nuts,419.81,3.19,1339.19,Credit Card,Laguna,Pending
+1650,2024-04-18,2877,Dried Mango,Nuts,331.52,3.44,1140.43,Credit Card,Laguna,Cancelled
+1651,2024-01-04,2161,Pistachios,Nuts,1057.13,1.37,1448.27,Credit Card,Cavite,Cancelled
+1652,2024-01-16,2379,Dried Apricot,Dried Fruits,775.36,1.83,1418.91,Cash on Delivery,Cavite,Pending
+1653,2024-01-24,2992,Dried Mango,Nuts,276.38,3.29,909.29,Credit Card,Manila,Cancelled
+1654,2024-03-20,2086,Almonds,Nuts,582.58,3.2,1864.26,Cash on Delivery,Batangas,Pending
+1655,2024-04-28,2054,Raisins,Dried Fruits,567.73,2.78,1578.29,Credit Card,Manila,Cancelled
+1656,2024-01-02,2475,Cashews,Nuts,381.74,2.08,794.02,Cash on Delivery,Laguna,Delivered
+1657,2024-04-22,2799,Dried Mango,Nuts,635.51,4.61,2929.7,Credit Card,Manila,Cancelled
+1658,2024-04-01,2177,Pistachios,Nuts,532.1,2.03,1080.16,GCash,Batangas,Cancelled
+1659,2024-02-01,2390,Almonds,Dried Fruits,541.8,2.55,1381.59,GCash,Cavite,Pending
+1660,2024-03-31,2348,Walnuts,Nuts,939.03,3.55,3333.56,GCash,Manila,Cancelled
+1661,2024-03-24,2007,Almonds,Dried Fruits,423.26,2.94,1244.38,GCash,Laguna,Delivered
+1662,2024-01-24,2832,Almonds,Nuts,841.86,2.06,1734.23,Credit Card,Laguna,Delivered
+1663,2024-01-12,2312,Raisins,Nuts,770.65,2.46,1895.8,GCash,Cavite,Cancelled
+1664,2024-02-19,2758,Cashews,Dried Fruits,768.09,4.08,3133.81,Cash on Delivery,Manila,Cancelled
+1665,2024-02-04,2834,Walnuts,Nuts,863.01,1.75,1510.27,GCash,Batangas,Delivered
+1666,2024-02-02,2983,Dates,Nuts,748.38,1.14,853.15,GCash,Cavite,Pending
+1667,2024-02-02,2982,Dates,Dried Fruits,1079.26,1.91,2061.39,GCash,Manila,Delivered
+1668,2024-03-01,2442,Dried Mango,Dried Fruits,875.58,4.32,3782.51,Credit Card,Quezon City,Delivered
+1669,2024-02-20,2766,Almonds,Dried Fruits,746.96,0.9,672.26,GCash,Laguna,Cancelled
+1670,2024-02-12,2327,Dried Apricot,Dried Fruits,1029.76,4.96,5107.61,Cash on Delivery,Batangas,Cancelled
+1671,2024-04-10,2053,Raisins,Dried Fruits,806.15,2.93,2362.02,GCash,Batangas,Delivered
+1672,2024-01-12,2760,Dried Apricot,Nuts,491.14,4.93,2421.32,GCash,Batangas,Pending
+1673,2024-03-07,2238,Raisins,Dried Fruits,407.09,4.73,1925.54,GCash,Laguna,Delivered
+1674,2024-03-05,2228,Dates,Nuts,352.33,2.54,894.92,Cash on Delivery,Manila,Delivered
+1675,2024-02-02,2578,Dried Mango,Nuts,1099.46,1.39,1528.25,GCash,Cavite,Pending
+1676,2024-02-09,2050,Dried Mango,Nuts,910.14,1.24,1128.57,Cash on Delivery,Manila,Delivered
+1677,2024-03-14,2608,Dried Mango,Dried Fruits,1137.38,1.58,1797.06,Cash on Delivery,Cavite,Delivered
+1678,2024-02-12,2603,Walnuts,Dried Fruits,803.29,3.7,2972.17,GCash,Batangas,Cancelled
+1679,2024-02-13,2263,Cashews,Nuts,673.4,1.73,1164.98,Cash on Delivery,Manila,Pending
+1680,2024-01-29,2417,Walnuts,Dried Fruits,259.72,2.04,529.83,Credit Card,Batangas,Cancelled
+1681,2024-01-13,2802,Pistachios,Dried Fruits,871.64,2.52,2196.53,GCash,Quezon City,Cancelled
+1682,2024-01-12,2095,Pistachios,Dried Fruits,782.21,4.61,3605.99,GCash,Batangas,Pending
+1683,2024-04-04,2087,Dried Apricot,Dried Fruits,1190.21,1.35,1606.78,Cash on Delivery,Batangas,Pending
+1684,2024-02-15,2077,Cashews,Nuts,439.16,0.52,228.36,Cash on Delivery,Cavite,Delivered
+1685,2024-01-02,2287,Dates,Nuts,730.74,0.77,562.67,GCash,Quezon City,Cancelled
+1686,2024-04-24,2119,Cashews,Dried Fruits,850.96,4.57,3888.89,Credit Card,Batangas,Pending
+1687,2024-04-23,2813,Raisins,Nuts,844.59,3.41,2880.05,Cash on Delivery,Batangas,Cancelled
+1688,2024-02-04,2490,Pistachios,Dried Fruits,761.29,1.73,1317.03,Cash on Delivery,Quezon City,Cancelled
+1689,2024-03-27,2911,Almonds,Dried Fruits,976.93,1.3,1270.01,Credit Card,Quezon City,Pending
+1690,2024-03-21,2451,Almonds,Nuts,404.98,1.82,737.06,Credit Card,Manila,Delivered
+1691,2024-03-30,2499,Dates,Nuts,925.63,1.02,944.14,GCash,Cavite,Cancelled
+1692,2024-01-08,2164,Raisins,Nuts,819.73,4.74,3885.52,Credit Card,Quezon City,Pending
+1693,2024-04-02,2181,Dried Apricot,Dried Fruits,1096.08,4.03,4417.2,GCash,Quezon City,Delivered
+1694,2024-01-26,2468,Walnuts,Nuts,1047.19,2.58,2701.75,Credit Card,Laguna,Cancelled
+1695,2024-03-14,2909,Raisins,Dried Fruits,515.15,4.39,2261.51,Cash on Delivery,Quezon City,Pending
+1696,2024-03-30,2734,Almonds,Nuts,476.24,1.62,771.51,GCash,Cavite,Cancelled
+1697,2024-02-03,2822,Almonds,Nuts,1181.65,3.73,4407.55,GCash,Batangas,Pending
+1698,2024-04-24,2943,Dried Apricot,Dried Fruits,727.27,4.35,3163.62,GCash,Batangas,Pending
+1699,2024-04-14,2977,Pistachios,Dried Fruits,1106.42,2.11,2334.55,Credit Card,Batangas,Cancelled
+1700,2024-01-07,2006,Raisins,Dried Fruits,363.88,3.91,1422.77,Cash on Delivery,Batangas,Cancelled
+1701,2024-03-08,2329,Raisins,Dried Fruits,842.82,1.83,1542.36,GCash,Laguna,Pending
+1702,2024-02-27,2774,Almonds,Dried Fruits,1009.86,1.84,1858.14,GCash,Quezon City,Delivered
+1703,2024-04-26,2672,Walnuts,Dried Fruits,1147.4,0.98,1124.45,GCash,Batangas,Cancelled
+1704,2024-04-23,2150,Dates,Dried Fruits,537.34,2.48,1332.6,GCash,Manila,Pending
+1705,2024-04-18,2084,Dried Mango,Dried Fruits,924.98,3.78,3496.42,Cash on Delivery,Batangas,Pending
+1706,2024-03-15,2146,Dates,Nuts,738.81,4.73,3494.57,Credit Card,Quezon City,Delivered
+1707,2024-01-29,2623,Raisins,Dried Fruits,260.63,3.22,839.23,Cash on Delivery,Batangas,Delivered
+1708,2024-04-29,2380,Dates,Dried Fruits,890.0,4.38,3898.2,GCash,Laguna,Delivered
+1709,2024-02-05,2914,Almonds,Nuts,890.1,4.2,3738.42,Cash on Delivery,Cavite,Cancelled
+1710,2024-03-29,2547,Almonds,Dried Fruits,1130.61,1.28,1447.18,GCash,Cavite,Pending
+1711,2024-01-21,2284,Dried Apricot,Nuts,697.31,2.69,1875.76,Credit Card,Quezon City,Pending
+1712,2024-02-05,2699,Raisins,Nuts,430.25,1.03,443.16,Credit Card,Cavite,Pending
+1713,2024-01-10,2081,Dried Apricot,Dried Fruits,244.56,3.57,873.08,Credit Card,Cavite,Delivered
+1714,2024-04-10,2513,Raisins,Nuts,615.64,4.77,2936.6,GCash,Manila,Pending
+1715,2024-03-13,2896,Dried Mango,Dried Fruits,501.92,1.12,562.15,Cash on Delivery,Quezon City,Cancelled
+1716,2024-01-24,2814,Dried Mango,Nuts,961.09,3.8,3652.14,Credit Card,Quezon City,Delivered
+1717,2024-03-04,2708,Pistachios,Nuts,554.27,3.35,1856.8,GCash,Cavite,Delivered
+1718,2024-04-08,2915,Raisins,Nuts,1149.07,3.13,3596.59,GCash,Cavite,Delivered
+1719,2024-02-18,2522,Walnuts,Dried Fruits,1162.31,2.26,2626.82,Cash on Delivery,Cavite,Delivered
+1720,2024-04-08,2745,Dates,Dried Fruits,820.91,2.1,1723.91,Credit Card,Laguna,Cancelled
+1721,2024-04-21,2385,Raisins,Nuts,1128.66,0.7,790.06,GCash,Batangas,Pending
+1722,2024-02-05,2706,Cashews,Nuts,960.85,1.48,1422.06,Cash on Delivery,Laguna,Cancelled
+1723,2024-03-22,2470,Pistachios,Dried Fruits,746.86,0.57,425.71,Credit Card,Quezon City,Pending
+1724,2024-04-22,2118,Cashews,Dried Fruits,380.31,3.12,1186.57,Cash on Delivery,Manila,Cancelled
+1725,2024-04-12,2395,Almonds,Nuts,658.6,0.98,645.43,Cash on Delivery,Batangas,Delivered
+1726,2024-04-05,2531,Dried Mango,Nuts,760.87,4.43,3370.65,GCash,Manila,Delivered
+1727,2024-01-24,2260,Dates,Dried Fruits,1063.96,2.85,3032.29,GCash,Quezon City,Cancelled
+1728,2024-01-23,2804,Raisins,Dried Fruits,681.33,3.65,2486.85,GCash,Quezon City,Cancelled
+1729,2024-03-02,2933,Cashews,Dried Fruits,1097.67,2.35,2579.52,Cash on Delivery,Manila,Pending
+1730,2024-04-05,2255,Dates,Dried Fruits,874.35,3.02,2640.54,GCash,Manila,Cancelled
+1731,2024-02-06,2733,Almonds,Dried Fruits,337.0,4.74,1597.38,Cash on Delivery,Manila,Cancelled
+1732,2024-01-12,2904,Dried Mango,Nuts,1194.98,0.87,1039.63,Cash on Delivery,Quezon City,Pending
+1733,2024-04-22,2225,Walnuts,Dried Fruits,727.23,1.64,1192.66,GCash,Cavite,Pending
+1734,2024-02-24,2052,Pistachios,Nuts,591.86,4.01,2373.36,Credit Card,Manila,Pending
+1735,2024-01-13,2939,Dates,Dried Fruits,859.11,0.94,807.56,Credit Card,Batangas,Cancelled
+1736,2024-01-23,2866,Dates,Nuts,308.89,0.84,259.47,Credit Card,Quezon City,Pending
+1737,2024-03-29,2499,Walnuts,Dried Fruits,836.54,2.13,1781.83,Cash on Delivery,Laguna,Delivered
+1738,2024-04-08,2505,Dates,Dried Fruits,698.24,0.91,635.4,Cash on Delivery,Laguna,Delivered
+1739,2024-04-14,2853,Almonds,Nuts,606.67,3.13,1898.88,Cash on Delivery,Batangas,Delivered
+1740,2024-01-30,2363,Almonds,Nuts,1153.02,1.52,1752.59,GCash,Cavite,Cancelled
+1741,2024-01-17,2279,Walnuts,Dried Fruits,722.54,4.53,3273.11,Cash on Delivery,Manila,Delivered
+1742,2024-04-22,2592,Pistachios,Dried Fruits,419.12,4.03,1689.05,GCash,Quezon City,Cancelled
+1743,2024-03-02,2713,Raisins,Dried Fruits,658.96,3.65,2405.2,GCash,Manila,Cancelled
+1744,2024-03-24,2157,Cashews,Dried Fruits,1119.39,3.28,3671.6,Credit Card,Quezon City,Delivered
+1745,2024-04-21,2631,Raisins,Dried Fruits,376.1,4.39,1651.08,Credit Card,Laguna,Pending
+1746,2024-03-29,2058,Dates,Nuts,413.96,1.5,620.94,Credit Card,Manila,Cancelled
+1747,2024-03-26,2726,Cashews,Nuts,213.03,4.43,943.72,GCash,Batangas,Delivered
+1748,2024-01-13,2127,Dried Apricot,Dried Fruits,214.19,4.05,867.47,GCash,Cavite,Cancelled
+1749,2024-02-28,2735,Walnuts,Nuts,1029.39,3.87,3983.74,GCash,Batangas,Pending
+1750,2024-01-19,2720,Walnuts,Nuts,932.12,3.03,2824.32,Cash on Delivery,Cavite,Pending
+1751,2024-02-18,2881,Pistachios,Nuts,555.04,1.61,893.61,GCash,Manila,Delivered
+1752,2024-04-09,2114,Cashews,Dried Fruits,898.31,2.41,2164.93,Credit Card,Manila,Cancelled
+1753,2024-01-12,2208,Almonds,Nuts,595.21,4.07,2422.5,Credit Card,Cavite,Cancelled
+1754,2024-03-01,2525,Cashews,Dried Fruits,1152.9,0.64,737.86,GCash,Laguna,Cancelled
+1755,2024-04-14,2520,Dates,Nuts,1167.05,4.02,4691.54,GCash,Quezon City,Cancelled
+1756,2024-01-19,2551,Almonds,Dried Fruits,592.79,1.58,936.61,Credit Card,Batangas,Delivered
+1757,2024-03-16,2961,Dried Mango,Nuts,1054.22,1.15,1212.35,GCash,Batangas,Pending
+1758,2024-01-09,2236,Dried Mango,Dried Fruits,973.09,1.02,992.55,Credit Card,Batangas,Delivered
+1759,2024-03-11,2280,Dried Apricot,Dried Fruits,510.0,0.62,316.2,Cash on Delivery,Manila,Cancelled
+1760,2024-01-28,2358,Dried Mango,Nuts,432.04,2.86,1235.63,Credit Card,Batangas,Cancelled
+1761,2024-03-18,2200,Walnuts,Dried Fruits,658.23,1.48,974.18,Cash on Delivery,Quezon City,Pending
+1762,2024-04-04,2757,Cashews,Dried Fruits,981.35,4.95,4857.68,GCash,Quezon City,Cancelled
+1763,2024-02-21,2277,Dried Mango,Dried Fruits,1160.17,3.08,3573.32,GCash,Cavite,Delivered
+1764,2024-03-23,2234,Raisins,Dried Fruits,963.58,1.12,1079.21,Cash on Delivery,Manila,Delivered
+1765,2024-04-20,2493,Pistachios,Dried Fruits,1055.21,3.6,3798.76,GCash,Quezon City,Pending
+1766,2024-01-16,2003,Raisins,Dried Fruits,803.06,4.54,3645.89,Cash on Delivery,Laguna,Delivered
+1767,2024-04-26,2665,Dried Mango,Dried Fruits,1035.41,3.85,3986.33,GCash,Manila,Delivered
+1768,2024-03-09,2441,Dried Apricot,Dried Fruits,984.42,0.84,826.91,Credit Card,Manila,Delivered
+1769,2024-04-08,2028,Pistachios,Nuts,576.99,4.53,2613.76,GCash,Quezon City,Delivered
+1770,2024-01-12,2108,Dates,Nuts,751.99,4.07,3060.6,Credit Card,Laguna,Cancelled
+1771,2024-01-25,2609,Raisins,Dried Fruits,1004.75,1.21,1215.75,Credit Card,Cavite,Delivered
+1772,2024-02-21,2726,Dried Apricot,Dried Fruits,246.06,0.73,179.62,Cash on Delivery,Quezon City,Pending
+1773,2024-03-25,2804,Cashews,Nuts,1008.08,3.01,3034.32,GCash,Laguna,Pending
+1774,2024-04-09,2074,Cashews,Nuts,377.89,1.2,453.47,Cash on Delivery,Manila,Delivered
+1775,2024-02-22,2837,Raisins,Nuts,714.68,4.26,3044.54,GCash,Laguna,Pending
+1776,2024-01-23,2145,Dried Mango,Dried Fruits,1008.28,2.11,2127.47,Credit Card,Manila,Delivered
+1777,2024-01-16,2127,Dried Apricot,Nuts,453.82,4.61,2092.11,Credit Card,Quezon City,Pending
+1778,2024-02-26,2852,Cashews,Dried Fruits,445.81,3.05,1359.72,GCash,Quezon City,Pending
+1779,2024-02-08,2041,Dates,Dried Fruits,602.76,1.32,795.64,GCash,Batangas,Delivered
+1780,2024-04-18,2355,Almonds,Nuts,1094.64,1.13,1236.94,Cash on Delivery,Batangas,Delivered
+1781,2024-02-22,2040,Dried Mango,Dried Fruits,200.44,3.09,619.36,GCash,Batangas,Cancelled
+1782,2024-02-11,2933,Dried Apricot,Dried Fruits,1101.38,3.93,4328.42,GCash,Quezon City,Delivered
+1783,2024-02-27,2033,Dates,Dried Fruits,353.81,4.02,1422.32,GCash,Cavite,Delivered
+1784,2024-02-08,2016,Dried Apricot,Dried Fruits,1190.09,1.74,2070.76,Cash on Delivery,Quezon City,Cancelled
+1785,2024-01-14,2676,Pistachios,Nuts,1154.85,1.42,1639.89,GCash,Laguna,Delivered
+1786,2024-04-04,2152,Dates,Nuts,694.68,0.58,402.91,Credit Card,Quezon City,Delivered
+1787,2024-01-05,2997,Dried Mango,Dried Fruits,712.72,3.56,2537.28,Cash on Delivery,Quezon City,Cancelled
+1788,2024-02-04,2377,Pistachios,Dried Fruits,681.55,0.84,572.5,Cash on Delivery,Manila,Delivered
+1789,2024-03-27,2587,Dried Mango,Nuts,835.44,2.39,1996.7,Credit Card,Manila,Delivered
+1790,2024-04-02,2598,Cashews,Dried Fruits,290.72,3.21,933.21,Credit Card,Manila,Cancelled
+1791,2024-04-16,2628,Almonds,Nuts,232.62,4.72,1097.97,Credit Card,Quezon City,Cancelled
+1792,2024-03-15,2873,Dried Mango,Dried Fruits,257.7,1.9,489.63,GCash,Cavite,Pending
+1793,2024-01-18,2341,Dried Mango,Dried Fruits,644.37,1.62,1043.88,Credit Card,Laguna,Delivered
+1794,2024-04-20,2980,Cashews,Nuts,475.55,3.44,1635.89,GCash,Laguna,Pending
+1795,2024-03-16,2026,Walnuts,Nuts,822.04,3.29,2704.51,Cash on Delivery,Cavite,Pending
+1796,2024-01-09,2824,Cashews,Nuts,1192.44,1.99,2372.96,Cash on Delivery,Cavite,Cancelled
+1797,2024-03-14,2286,Pistachios,Nuts,586.32,4.68,2743.98,Credit Card,Laguna,Delivered
+1798,2024-02-27,2645,Cashews,Dried Fruits,773.84,4.3,3327.51,GCash,Batangas,Delivered
+1799,2024-04-17,2730,Cashews,Nuts,615.6,1.51,929.56,Credit Card,Manila,Cancelled
+1800,2024-01-17,2167,Almonds,Dried Fruits,1047.27,1.58,1654.69,Credit Card,Manila,Pending
+1801,2024-04-11,2609,Cashews,Nuts,1102.24,2.81,3097.29,GCash,Laguna,Cancelled
+1802,2024-01-07,2267,Dried Apricot,Nuts,1077.36,3.98,4287.89,Credit Card,Cavite,Delivered
+1803,2024-02-15,2748,Dried Mango,Dried Fruits,1174.37,0.7,822.06,Cash on Delivery,Batangas,Cancelled
+1804,2024-01-13,2820,Dried Apricot,Nuts,227.52,3.62,823.62,Credit Card,Laguna,Delivered
+1805,2024-02-09,2454,Almonds,Nuts,1039.82,3.42,3556.18,GCash,Manila,Pending
+1806,2024-02-11,2905,Raisins,Nuts,951.77,1.54,1465.73,GCash,Quezon City,Delivered
+1807,2024-01-09,2684,Walnuts,Nuts,428.69,3.57,1530.42,Cash on Delivery,Cavite,Pending
+1808,2024-02-19,2400,Dried Apricot,Dried Fruits,1156.32,4.73,5469.39,GCash,Quezon City,Pending
+1809,2024-01-27,2921,Almonds,Dried Fruits,348.18,0.71,247.21,GCash,Laguna,Delivered
+1810,2024-03-06,2980,Pistachios,Nuts,879.55,1.94,1706.33,Cash on Delivery,Manila,Delivered
+1811,2024-01-05,2475,Raisins,Nuts,424.89,2.47,1049.48,Credit Card,Batangas,Pending
+1812,2024-01-29,2701,Almonds,Nuts,631.38,4.55,2872.78,Cash on Delivery,Quezon City,Cancelled
+1813,2024-02-06,2633,Almonds,Dried Fruits,919.16,4.83,4439.54,Credit Card,Batangas,Delivered
+1814,2024-02-07,2557,Walnuts,Dried Fruits,763.32,2.5,1908.3,Cash on Delivery,Manila,Pending
+1815,2024-03-23,2575,Dried Mango,Dried Fruits,627.5,3.88,2434.7,Credit Card,Quezon City,Pending
+1816,2024-01-08,2129,Dried Apricot,Dried Fruits,526.34,2.89,1521.12,Cash on Delivery,Batangas,Cancelled
+1817,2024-04-21,2821,Pistachios,Nuts,1039.66,2.92,3035.81,Credit Card,Batangas,Delivered
+1818,2024-04-18,2362,Dates,Nuts,343.81,1.75,601.67,Cash on Delivery,Quezon City,Pending
+1819,2024-03-05,2704,Dried Apricot,Nuts,630.1,1.48,932.55,Credit Card,Manila,Cancelled
+1820,2024-03-26,2818,Dates,Dried Fruits,1103.76,1.8,1986.77,Cash on Delivery,Batangas,Pending
+1821,2024-04-25,2692,Almonds,Nuts,1045.85,3.0,3137.55,GCash,Laguna,Delivered
+1822,2024-01-17,2291,Cashews,Dried Fruits,600.94,0.63,378.59,Credit Card,Quezon City,Cancelled
+1823,2024-03-11,2370,Pistachios,Dried Fruits,963.11,4.58,4411.04,Cash on Delivery,Cavite,Pending
+1824,2024-03-29,2793,Raisins,Nuts,1023.16,1.2,1227.79,Credit Card,Cavite,Cancelled
+1825,2024-02-14,2028,Cashews,Nuts,1088.89,1.49,1622.45,Credit Card,Manila,Delivered
+1826,2024-01-04,2148,Cashews,Nuts,744.51,2.83,2106.96,Cash on Delivery,Laguna,Cancelled
+1827,2024-02-05,2778,Dried Apricot,Dried Fruits,404.46,3.7,1496.5,Credit Card,Batangas,Delivered
+1828,2024-03-10,2295,Pistachios,Dried Fruits,455.31,0.93,423.44,Cash on Delivery,Cavite,Pending
+1829,2024-01-31,2010,Dried Mango,Nuts,495.69,1.93,956.68,GCash,Manila,Delivered
+1830,2024-01-19,2511,Almonds,Nuts,793.8,4.86,3857.87,Credit Card,Laguna,Pending
+1831,2024-03-01,2675,Almonds,Dried Fruits,232.81,1.68,391.12,GCash,Laguna,Pending
+1832,2024-04-17,2112,Almonds,Nuts,836.04,1.91,1596.84,Credit Card,Manila,Delivered
+1833,2024-02-23,2186,Almonds,Dried Fruits,564.35,4.26,2404.13,Credit Card,Manila,Pending
+1834,2024-02-08,2806,Dried Apricot,Dried Fruits,495.24,0.73,361.53,Credit Card,Batangas,Cancelled
+1835,2024-03-31,2743,Dates,Nuts,1079.5,2.59,2795.9,Cash on Delivery,Manila,Pending
+1836,2024-03-14,2226,Almonds,Nuts,660.0,2.21,1458.6,GCash,Batangas,Delivered
+1837,2024-03-30,2309,Dates,Nuts,295.05,1.92,566.5,Credit Card,Batangas,Cancelled
+1838,2024-01-19,2097,Dates,Nuts,1026.75,1.79,1837.88,Cash on Delivery,Quezon City,Cancelled
+1839,2024-02-08,2054,Dried Mango,Dried Fruits,247.64,0.91,225.35,Credit Card,Laguna,Pending
+1840,2024-03-07,2622,Almonds,Dried Fruits,926.75,1.92,1779.36,Cash on Delivery,Laguna,Pending
+1841,2024-02-14,2663,Walnuts,Dried Fruits,973.91,0.69,672.0,Credit Card,Laguna,Delivered
+1842,2024-01-13,2757,Raisins,Nuts,552.6,4.01,2215.93,GCash,Quezon City,Cancelled
+1843,2024-04-23,2405,Cashews,Dried Fruits,1024.79,2.29,2346.77,GCash,Batangas,Delivered
+1844,2024-04-01,2068,Dates,Nuts,715.66,2.5,1789.15,Credit Card,Batangas,Pending
+1845,2024-02-27,2311,Pistachios,Nuts,663.29,4.52,2998.07,Cash on Delivery,Manila,Cancelled
+1846,2024-01-20,2288,Pistachios,Nuts,245.4,3.46,849.08,Credit Card,Quezon City,Delivered
+1847,2024-04-01,2761,Raisins,Nuts,490.03,0.54,264.62,Cash on Delivery,Manila,Delivered
+1848,2024-03-12,2547,Pistachios,Nuts,1131.01,4.74,5360.99,Credit Card,Quezon City,Delivered
+1849,2024-03-01,2750,Walnuts,Nuts,591.82,1.57,929.16,Cash on Delivery,Manila,Delivered
+1850,2024-04-14,2147,Pistachios,Dried Fruits,746.7,0.98,731.77,GCash,Cavite,Delivered
+1851,2024-02-08,2466,Cashews,Nuts,732.02,3.96,2898.8,Credit Card,Laguna,Cancelled
+1852,2024-01-01,2738,Cashews,Dried Fruits,790.43,2.75,2173.68,GCash,Laguna,Delivered
+1853,2024-01-03,2243,Dates,Dried Fruits,261.33,2.45,640.26,GCash,Batangas,Cancelled
+1854,2024-03-17,2490,Almonds,Nuts,562.18,1.62,910.73,Credit Card,Cavite,Delivered
+1855,2024-04-01,2848,Dried Mango,Nuts,923.13,2.96,2732.46,Credit Card,Laguna,Pending
+1856,2024-03-02,2957,Walnuts,Nuts,400.56,1.73,692.97,Cash on Delivery,Batangas,Pending
+1857,2024-03-03,2506,Dates,Dried Fruits,403.58,4.56,1840.32,Cash on Delivery,Cavite,Delivered
+1858,2024-04-22,2364,Walnuts,Nuts,210.09,1.47,308.83,GCash,Laguna,Pending
+1859,2024-01-25,2481,Almonds,Dried Fruits,637.48,4.48,2855.91,Cash on Delivery,Manila,Cancelled
+1860,2024-02-25,2200,Dried Apricot,Nuts,1082.73,3.02,3269.84,Cash on Delivery,Quezon City,Delivered
+1861,2024-02-02,2153,Pistachios,Nuts,251.9,4.23,1065.54,Credit Card,Cavite,Cancelled
+1862,2024-02-07,2449,Pistachios,Dried Fruits,391.12,3.71,1451.06,Cash on Delivery,Batangas,Delivered
+1863,2024-04-26,2500,Dried Mango,Dried Fruits,510.08,3.64,1856.69,GCash,Cavite,Pending
+1864,2024-01-06,2072,Almonds,Nuts,931.72,1.96,1826.17,Cash on Delivery,Batangas,Cancelled
+1865,2024-02-27,2712,Dates,Dried Fruits,840.64,1.55,1302.99,GCash,Cavite,Pending
+1866,2024-02-13,2295,Dried Mango,Dried Fruits,615.94,1.45,893.11,Credit Card,Batangas,Pending
+1867,2024-02-14,2016,Almonds,Dried Fruits,959.07,4.36,4181.55,GCash,Laguna,Delivered
+1868,2024-02-01,2640,Raisins,Dried Fruits,809.63,4.19,3392.35,Cash on Delivery,Manila,Cancelled
+1869,2024-02-14,2216,Cashews,Dried Fruits,1096.04,2.48,2718.18,Credit Card,Laguna,Pending
+1870,2024-03-01,2060,Dried Mango,Nuts,1018.03,1.1,1119.83,Cash on Delivery,Manila,Delivered
+1871,2024-02-16,2938,Dried Mango,Nuts,452.81,2.22,1005.24,Credit Card,Laguna,Delivered
+1872,2024-01-21,2615,Dates,Dried Fruits,471.44,3.29,1551.04,Credit Card,Laguna,Delivered
+1873,2024-03-20,2041,Walnuts,Nuts,325.36,2.54,826.41,Cash on Delivery,Cavite,Pending
+1874,2024-04-27,2024,Raisins,Nuts,536.96,4.01,2153.21,Cash on Delivery,Quezon City,Delivered
+1875,2024-03-25,2038,Dates,Dried Fruits,1199.54,4.99,5985.7,Credit Card,Batangas,Cancelled
+1876,2024-03-15,2802,Almonds,Nuts,605.75,1.36,823.82,Credit Card,Batangas,Cancelled
+1877,2024-04-10,2130,Almonds,Dried Fruits,420.49,2.57,1080.66,Cash on Delivery,Batangas,Pending
+1878,2024-02-05,2497,Almonds,Dried Fruits,962.48,2.44,2348.45,GCash,Manila,Cancelled
+1879,2024-04-08,2228,Dried Apricot,Nuts,742.47,1.87,1388.42,Cash on Delivery,Batangas,Delivered
+1880,2024-01-19,2107,Almonds,Dried Fruits,349.6,1.39,485.94,Credit Card,Batangas,Pending
+1881,2024-01-20,2171,Walnuts,Dried Fruits,580.69,0.8,464.55,Cash on Delivery,Cavite,Delivered
+1882,2024-02-26,2434,Raisins,Dried Fruits,614.47,4.49,2758.97,GCash,Laguna,Pending
+1883,2024-01-18,2477,Pistachios,Dried Fruits,953.83,2.39,2279.65,Cash on Delivery,Batangas,Pending
+1884,2024-02-16,2101,Cashews,Dried Fruits,220.67,2.74,604.64,Credit Card,Quezon City,Delivered
+1885,2024-04-14,2865,Walnuts,Nuts,469.02,4.63,2171.56,Cash on Delivery,Batangas,Cancelled
+1886,2024-02-18,2523,Walnuts,Nuts,717.6,3.99,2863.22,Credit Card,Manila,Cancelled
+1887,2024-01-14,2274,Dried Apricot,Dried Fruits,468.85,1.09,511.05,Credit Card,Manila,Pending
+1888,2024-01-15,2612,Pistachios,Dried Fruits,828.43,3.04,2518.43,Cash on Delivery,Manila,Delivered
+1889,2024-01-31,2043,Pistachios,Nuts,681.87,2.49,1697.86,Credit Card,Batangas,Delivered
+1890,2024-01-01,2954,Cashews,Dried Fruits,561.71,4.09,2297.39,Credit Card,Cavite,Pending
+1891,2024-04-26,2816,Cashews,Nuts,1149.21,3.76,4321.03,GCash,Quezon City,Cancelled
+1892,2024-02-23,2956,Pistachios,Dried Fruits,832.16,3.61,3004.1,GCash,Batangas,Delivered
+1893,2024-04-27,2016,Almonds,Dried Fruits,329.94,2.03,669.78,GCash,Cavite,Cancelled
+1894,2024-01-03,2329,Walnuts,Dried Fruits,760.09,4.12,3131.57,GCash,Cavite,Cancelled
+1895,2024-01-16,2568,Dates,Dried Fruits,980.73,0.74,725.74,Credit Card,Batangas,Pending
+1896,2024-03-27,2822,Cashews,Dried Fruits,908.49,1.22,1108.36,Cash on Delivery,Batangas,Pending
+1897,2024-02-26,2496,Dried Apricot,Dried Fruits,372.09,2.01,747.9,Credit Card,Cavite,Cancelled
+1898,2024-03-15,2814,Dried Apricot,Dried Fruits,1172.42,0.85,996.56,Credit Card,Cavite,Delivered
+1899,2024-01-12,2011,Cashews,Nuts,648.81,1.56,1012.14,Credit Card,Cavite,Delivered
+1900,2024-03-14,2317,Pistachios,Nuts,359.03,4.24,1522.29,Cash on Delivery,Batangas,Pending
+1901,2024-04-05,2591,Raisins,Nuts,380.2,4.77,1813.55,GCash,Cavite,Cancelled
+1902,2024-01-16,2215,Dates,Dried Fruits,298.23,1.87,557.69,Credit Card,Manila,Delivered
+1903,2024-03-12,2338,Dates,Dried Fruits,1003.52,1.69,1695.95,Credit Card,Batangas,Delivered
+1904,2024-04-11,2775,Cashews,Dried Fruits,322.03,1.76,566.77,GCash,Manila,Pending
+1905,2024-03-16,2990,Almonds,Dried Fruits,325.13,1.75,568.98,Credit Card,Laguna,Cancelled
+1906,2024-01-24,2660,Raisins,Dried Fruits,1050.47,0.66,693.31,Cash on Delivery,Batangas,Delivered
+1907,2024-01-28,2080,Dates,Dried Fruits,544.6,4.67,2543.28,Credit Card,Laguna,Pending
+1908,2024-04-26,2726,Cashews,Dried Fruits,230.86,1.46,337.06,Credit Card,Cavite,Delivered
+1909,2024-01-08,2484,Dried Apricot,Nuts,251.9,2.39,602.04,GCash,Cavite,Delivered
+1910,2024-04-01,2373,Dates,Dried Fruits,342.17,0.54,184.77,Credit Card,Quezon City,Delivered
+1911,2024-02-05,2975,Dried Mango,Nuts,413.39,4.36,1802.38,Credit Card,Cavite,Pending
+1912,2024-03-30,2709,Raisins,Nuts,865.15,3.79,3278.92,Cash on Delivery,Laguna,Cancelled
+1913,2024-01-08,2199,Raisins,Dried Fruits,357.33,4.76,1700.89,GCash,Cavite,Pending
+1914,2024-02-27,2536,Dried Mango,Dried Fruits,318.87,4.02,1281.86,GCash,Batangas,Cancelled
+1915,2024-02-29,2465,Walnuts,Nuts,964.72,1.91,1842.62,Cash on Delivery,Cavite,Delivered
+1916,2024-02-19,2088,Dried Apricot,Nuts,871.06,1.62,1411.12,Credit Card,Quezon City,Cancelled
+1917,2024-01-28,2267,Dried Mango,Dried Fruits,635.32,3.64,2312.56,GCash,Cavite,Delivered
+1918,2024-04-01,2654,Pistachios,Dried Fruits,749.31,2.14,1603.52,GCash,Laguna,Delivered
+1919,2024-04-10,2570,Pistachios,Nuts,511.98,3.05,1561.54,Credit Card,Laguna,Pending
+1920,2024-02-10,2921,Cashews,Dried Fruits,682.5,0.53,361.72,Credit Card,Cavite,Delivered
+1921,2024-04-09,2488,Raisins,Dried Fruits,706.67,0.78,551.2,GCash,Laguna,Pending
+1922,2024-03-04,2876,Walnuts,Dried Fruits,587.24,2.91,1708.87,Credit Card,Laguna,Cancelled
+1923,2024-01-27,2537,Walnuts,Nuts,1106.57,3.05,3375.04,GCash,Quezon City,Cancelled
+1924,2024-04-27,2046,Dates,Nuts,216.06,3.88,838.31,Credit Card,Batangas,Delivered
+1925,2024-03-03,2287,Dates,Nuts,982.17,1.09,1070.57,Credit Card,Quezon City,Pending
+1926,2024-01-17,2777,Dried Mango,Dried Fruits,324.38,2.81,911.51,Cash on Delivery,Manila,Delivered
+1927,2024-03-13,2015,Walnuts,Dried Fruits,997.55,1.38,1376.62,Credit Card,Quezon City,Pending
+1928,2024-02-02,2710,Dried Mango,Nuts,815.91,0.92,750.64,Cash on Delivery,Cavite,Pending
+1929,2024-04-26,2400,Dried Apricot,Nuts,1043.28,2.35,2451.71,Credit Card,Batangas,Pending
+1930,2024-03-24,2918,Dried Mango,Nuts,297.51,1.24,368.91,GCash,Cavite,Cancelled
+1931,2024-03-17,2793,Dates,Dried Fruits,758.98,1.5,1138.47,GCash,Manila,Pending
+1932,2024-04-01,2980,Raisins,Nuts,701.09,1.93,1353.1,Credit Card,Batangas,Cancelled
+1933,2024-04-21,2085,Dried Mango,Nuts,906.19,1.67,1513.34,Credit Card,Laguna,Pending
+1934,2024-01-29,2249,Almonds,Dried Fruits,734.29,0.89,653.52,GCash,Quezon City,Cancelled
+1935,2024-01-13,2390,Raisins,Dried Fruits,740.73,0.9,666.66,Credit Card,Cavite,Cancelled
+1936,2024-02-15,2781,Walnuts,Dried Fruits,629.6,1.37,862.55,Cash on Delivery,Manila,Cancelled
+1937,2024-02-04,2334,Walnuts,Nuts,508.83,0.73,371.45,Cash on Delivery,Laguna,Delivered
+1938,2024-01-06,2628,Dried Mango,Dried Fruits,682.26,3.32,2265.1,Cash on Delivery,Quezon City,Pending
+1939,2024-03-22,2518,Raisins,Dried Fruits,318.49,1.79,570.1,Cash on Delivery,Laguna,Delivered
+1940,2024-04-24,2136,Dates,Nuts,1161.51,1.76,2044.26,Cash on Delivery,Quezon City,Pending
+1941,2024-03-09,2882,Dates,Dried Fruits,914.41,1.99,1819.68,Credit Card,Batangas,Pending
+1942,2024-02-16,2687,Pistachios,Nuts,1152.47,3.48,4010.6,Credit Card,Laguna,Delivered
+1943,2024-01-25,2839,Walnuts,Nuts,426.73,4.42,1886.15,Cash on Delivery,Laguna,Cancelled
+1944,2024-03-06,2497,Cashews,Dried Fruits,1079.34,3.92,4231.01,Credit Card,Laguna,Pending
+1945,2024-01-10,2826,Pistachios,Dried Fruits,1008.79,3.77,3803.14,Credit Card,Batangas,Cancelled
+1946,2024-02-25,2726,Dates,Dried Fruits,877.15,2.68,2350.76,Cash on Delivery,Manila,Delivered
+1947,2024-01-30,2476,Raisins,Dried Fruits,825.03,3.62,2986.61,Credit Card,Quezon City,Cancelled
+1948,2024-04-23,2593,Dried Apricot,Dried Fruits,516.55,2.99,1544.48,Credit Card,Laguna,Pending
+1949,2024-04-18,2222,Dates,Dried Fruits,1016.41,1.47,1494.12,Credit Card,Batangas,Pending
+1950,2024-01-05,2989,Raisins,Nuts,701.52,1.44,1010.19,Cash on Delivery,Manila,Pending
+1951,2024-04-28,2371,Pistachios,Nuts,270.89,1.83,495.73,Credit Card,Quezon City,Delivered
+1952,2024-04-29,2934,Walnuts,Dried Fruits,512.86,4.6,2359.16,GCash,Batangas,Pending
+1953,2024-02-02,2994,Dates,Nuts,1135.3,2.96,3360.49,GCash,Quezon City,Delivered
+1954,2024-04-27,2401,Dried Mango,Dried Fruits,1050.68,3.8,3992.58,Cash on Delivery,Laguna,Cancelled
+1955,2024-03-05,2442,Raisins,Nuts,1181.91,2.06,2434.73,GCash,Manila,Pending
+1956,2024-01-18,2489,Walnuts,Nuts,827.99,2.33,1929.22,Cash on Delivery,Batangas,Pending
+1957,2024-04-05,2614,Dried Apricot,Nuts,447.51,1.07,478.84,GCash,Manila,Pending
+1958,2024-04-20,2272,Dried Apricot,Dried Fruits,362.82,1.27,460.78,GCash,Laguna,Cancelled
+1959,2024-02-18,2525,Cashews,Nuts,386.91,4.22,1632.76,GCash,Manila,Pending
+1960,2024-01-11,2158,Raisins,Dried Fruits,219.8,3.13,687.97,Cash on Delivery,Manila,Delivered
+1961,2024-03-25,2151,Pistachios,Nuts,590.68,2.02,1193.17,Cash on Delivery,Cavite,Cancelled
+1962,2024-01-26,2994,Cashews,Nuts,391.43,4.11,1608.78,Credit Card,Manila,Cancelled
+1963,2024-03-03,2619,Cashews,Nuts,611.66,1.61,984.77,Cash on Delivery,Quezon City,Cancelled
+1964,2024-03-29,2187,Almonds,Nuts,1134.99,4.89,5550.1,GCash,Batangas,Cancelled
+1965,2024-03-26,2812,Dates,Nuts,630.54,2.05,1292.61,GCash,Cavite,Cancelled
+1966,2024-02-28,2097,Raisins,Dried Fruits,1077.98,2.02,2177.52,Cash on Delivery,Batangas,Delivered
+1967,2024-01-27,2130,Cashews,Dried Fruits,805.5,1.9,1530.45,Cash on Delivery,Batangas,Cancelled
+1968,2024-02-18,2804,Almonds,Nuts,447.13,1.05,469.49,Cash on Delivery,Laguna,Pending
+1969,2024-03-17,2170,Pistachios,Nuts,555.85,1.0,555.85,Credit Card,Laguna,Cancelled
+1970,2024-02-02,2935,Walnuts,Nuts,283.92,3.42,971.01,GCash,Cavite,Cancelled
+1971,2024-04-07,2985,Dried Mango,Nuts,533.46,4.44,2368.56,Credit Card,Laguna,Cancelled
+1972,2024-04-14,2182,Dried Mango,Dried Fruits,877.54,4.06,3562.81,Credit Card,Laguna,Cancelled
+1973,2024-04-08,2982,Raisins,Nuts,272.11,1.13,307.48,GCash,Laguna,Cancelled
+1974,2024-01-01,2363,Cashews,Dried Fruits,405.4,2.96,1199.98,GCash,Batangas,Delivered
+1975,2024-01-21,2038,Dried Mango,Nuts,581.44,0.98,569.81,Cash on Delivery,Cavite,Delivered
+1976,2024-04-21,2526,Dates,Dried Fruits,1182.05,0.7,827.44,Cash on Delivery,Batangas,Cancelled
+1977,2024-02-24,2887,Dried Mango,Nuts,984.86,3.45,3397.77,Credit Card,Quezon City,Delivered
+1978,2024-01-06,2496,Dried Mango,Nuts,933.49,2.91,2716.46,Cash on Delivery,Batangas,Pending
+1979,2024-04-01,2515,Dried Mango,Dried Fruits,316.19,0.87,275.09,Cash on Delivery,Quezon City,Cancelled
+1980,2024-03-21,2348,Dried Apricot,Nuts,981.0,0.66,647.46,GCash,Manila,Pending
+1981,2024-03-09,2981,Almonds,Nuts,985.27,4.95,4877.09,GCash,Manila,Pending
+1982,2024-04-04,2920,Cashews,Nuts,801.1,0.64,512.7,Cash on Delivery,Quezon City,Cancelled
+1983,2024-01-05,2396,Dates,Dried Fruits,1190.36,2.5,2975.9,GCash,Quezon City,Pending
+1984,2024-04-11,2721,Cashews,Nuts,525.25,2.77,1454.94,Cash on Delivery,Batangas,Pending
+1985,2024-01-03,2160,Dried Apricot,Nuts,1141.27,1.03,1175.51,GCash,Quezon City,Pending
+1986,2024-02-22,2015,Raisins,Dried Fruits,1114.73,1.26,1404.56,GCash,Cavite,Cancelled
+1987,2024-01-23,2492,Raisins,Dried Fruits,211.48,2.08,439.88,GCash,Manila,Cancelled
+1988,2024-04-10,2425,Raisins,Dried Fruits,650.12,3.93,2554.97,GCash,Manila,Pending
+1989,2024-02-22,2107,Pistachios,Nuts,1177.1,2.78,3272.34,Cash on Delivery,Quezon City,Cancelled
+1990,2024-02-06,2893,Dried Mango,Nuts,303.12,3.37,1021.51,Credit Card,Laguna,Cancelled
+1991,2024-03-14,2449,Pistachios,Nuts,747.78,4.93,3686.56,GCash,Laguna,Pending
+1992,2024-03-14,2310,Almonds,Dried Fruits,1178.96,3.96,4668.68,Cash on Delivery,Quezon City,Cancelled
+1993,2024-03-23,2738,Raisins,Nuts,755.5,2.45,1850.98,Cash on Delivery,Cavite,Delivered
+1994,2024-01-17,2169,Dried Apricot,Nuts,389.82,2.51,978.45,GCash,Laguna,Cancelled
+1995,2024-03-25,2545,Dates,Dried Fruits,782.18,3.28,2565.55,Credit Card,Quezon City,Delivered
+1996,2024-03-18,2413,Cashews,Dried Fruits,404.44,3.49,1411.5,GCash,Cavite,Pending
+1997,2024-03-13,2250,Dried Mango,Dried Fruits,719.7,2.75,1979.18,Cash on Delivery,Cavite,Cancelled
+1998,2024-04-19,2758,Walnuts,Dried Fruits,274.04,3.4,931.74,Credit Card,Batangas,Pending
+1999,2024-01-01,2780,Dates,Dried Fruits,805.48,0.61,491.34,Cash on Delivery,Cavite,Pending
+2000,2024-02-20,2140,Dried Mango,Nuts,716.79,2.43,1741.8,GCash,Laguna,Pending
