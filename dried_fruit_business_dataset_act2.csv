@@ -1,0 +1,1001 @@
+Fruit_Type,Supplier_Region,Packaging_Type,Customer_Type,Shipping_Method,Payment_Method,Quality_Grade,Quantity_KG,Unit_Price,Total_Revenue,Order_Date,Delivery_Date
+Mango,Mindanao,Box,Wholesale,Sea Cargo,GCash,Premium,96.12,364.42,113619.64,2025-10-16,2025-10-18
+Mango,Luzon,Vacuum Pack,Wholesale,Sea Cargo,Cash,Premium,139.48,334.46,113538.88,2025-08-27,2025-09-03
+Jackfruit,Visayas,Vacuum Pack,Wholesale,Pickup,Bank Transfer,Grade B,119.97,435.88,73952.96,2024-08-13,2024-08-21
+Mango,Visayas,Box,Distributor,Air Freight,Credit Card,Premium,106.17,424.36,24972.04,2024-04-04,2024-04-11
+Coconut,Mindanao,Box,Wholesale,Air Freight,Cash,Premium,152.55,215.5,25160.48,2024-10-27,2024-11-10
+Mango,Visayas,Box,Online,Courier,GCash,Grade B,209.87,341.16,143345.86,2024-08-26,2024-09-09
+Mango,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Credit Card,Grade B,171.48,425.38,140750.77,2025-11-30,2025-12-11
+Banana,Luzon,Resealable Bag,Retail,Courier,Credit Card,Grade B,79.78,421.33,117764.21,2024-08-12,2024-08-23
+Coconut,Visayas,Jar,Online,Sea Cargo,Bank Transfer,Grade A,160.98,305.25,59920.91,2024-11-18,2024-11-22
+Jackfruit,Visayas,Box,Wholesale,Sea Cargo,Credit Card,Grade A,390.1,404.16,39039.85,2025-08-21,2025-08-28
+Coconut,Visayas,Vacuum Pack,Online,Pickup,Credit Card,Premium,163.14,302.56,189061.86,2024-06-12,2024-06-25
+Mango,Mindanao,Box,Distributor,Air Freight,Bank Transfer,Grade B,121.17,121.07,147197.49,2025-11-27,2025-12-09
+Guava,Luzon,Vacuum Pack,Distributor,Sea Cargo,GCash,Grade B,393.13,298.0,157939.03,2024-09-26,2024-10-05
+Jackfruit,Visayas,Jar,Retail,Air Freight,Bank Transfer,Grade B,157.75,199.49,117797.82,2025-06-27,2025-06-28
+Coconut,Visayas,Vacuum Pack,Wholesale,Sea Cargo,Credit Card,Premium,124.31,294.13,125252.84,2024-03-21,2024-03-23
+Guava,Mindanao,Resealable Bag,Distributor,Pickup,Bank Transfer,Grade B,454.83,268.99,57102.07,2024-08-04,2024-08-13
+Mango,Mindanao,Resealable Bag,Wholesale,Air Freight,Cash,Premium,334.0,195.55,182029.8,2024-03-06,2024-03-12
+Jackfruit,Luzon,Box,Online,Sea Cargo,GCash,Premium,470.98,308.44,99807.49,2024-12-04,2024-12-06
+Papaya,Luzon,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade B,235.0,405.07,20292.53,2025-04-29,2025-05-12
+Mango,Luzon,Jar,Distributor,Air Freight,GCash,Grade A,135.59,268.04,90157.51,2025-10-31,2025-11-11
+Pineapple,Luzon,Jar,Retail,Air Freight,Cash,Grade A,466.87,400.07,41599.11,2024-10-12,2024-10-20
+Pineapple,Visayas,Vacuum Pack,Wholesale,Pickup,Cash,Grade B,169.34,378.74,96451.59,2025-05-12,2025-05-20
+Coconut,Mindanao,Jar,Wholesale,Sea Cargo,Bank Transfer,Grade A,485.92,311.13,113017.09,2025-03-09,2025-03-21
+Mango,Mindanao,Jar,Wholesale,Air Freight,Cash,Grade A,80.83,142.43,173745.65,2024-11-17,2024-11-18
+Jackfruit,Luzon,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade B,141.92,356.34,55350.33,2025-02-17,2025-02-19
+Coconut,Mindanao,Box,Online,Courier,Cash,Grade A,256.23,449.49,199258.33,2025-02-09,2025-02-12
+Pineapple,Mindanao,Box,Wholesale,Courier,Cash,Grade A,216.29,172.06,168411.54,2024-03-16,2024-03-25
+Jackfruit,Mindanao,Vacuum Pack,Distributor,Air Freight,GCash,Grade B,101.94,155.32,115112.49,2025-12-21,2025-12-26
+Jackfruit,Luzon,Box,Wholesale,Courier,Credit Card,Grade B,457.4,399.21,27536.71,2024-10-05,2024-10-10
+Banana,Luzon,Vacuum Pack,Distributor,Sea Cargo,Bank Transfer,Grade A,383.55,302.05,91260.51,2025-03-09,2025-03-23
+Mango,Mindanao,Resealable Bag,Retail,Courier,GCash,Grade B,107.35,221.73,180806.48,2024-01-10,2024-01-12
+Pineapple,Mindanao,Resealable Bag,Retail,Courier,Credit Card,Premium,387.26,425.5,54980.09,2024-02-10,2024-02-16
+Guava,Luzon,Jar,Retail,Sea Cargo,Bank Transfer,Grade B,411.01,405.14,164042.37,2024-06-15,2024-06-28
+Guava,Mindanao,Vacuum Pack,Online,Air Freight,Credit Card,Grade A,139.81,423.09,76435.1,2024-09-30,2024-10-03
+Mango,Mindanao,Resealable Bag,Online,Courier,Bank Transfer,Grade A,485.1,212.11,131881.53,2024-08-21,2024-08-25
+Guava,Mindanao,Box,Retail,Air Freight,Bank Transfer,Grade A,311.27,444.57,17268.87,2025-02-13,2025-02-24
+Banana,Mindanao,Box,Online,Air Freight,Credit Card,Premium,135.54,134.65,92850.93,2025-09-02,2025-09-09
+Jackfruit,Mindanao,Resealable Bag,Distributor,Pickup,Cash,Premium,464.35,325.64,136043.62,2025-06-16,2025-06-29
+Banana,Mindanao,Box,Online,Courier,Credit Card,Premium,183.04,162.0,89884.8,2024-05-07,2024-05-19
+Coconut,Luzon,Box,Online,Air Freight,Bank Transfer,Grade B,144.58,379.3,125265.7,2025-01-23,2025-02-03
+Papaya,Visayas,Resealable Bag,Online,Sea Cargo,Cash,Grade B,281.95,328.87,73685.77,2024-11-25,2024-12-03
+Banana,Luzon,Resealable Bag,Wholesale,Air Freight,Cash,Grade A,492.77,321.72,156012.97,2024-08-28,2024-09-08
+Coconut,Mindanao,Resealable Bag,Online,Pickup,Credit Card,Grade A,116.41,346.92,179605.37,2025-04-11,2025-04-18
+Papaya,Luzon,Resealable Bag,Online,Air Freight,GCash,Grade A,255.41,384.47,136839.77,2024-04-19,2024-05-02
+Banana,Visayas,Jar,Online,Sea Cargo,Credit Card,Grade B,166.64,201.59,131155.67,2025-07-26,2025-08-05
+Coconut,Luzon,Box,Online,Air Freight,Bank Transfer,Grade A,172.27,225.5,112628.92,2025-06-17,2025-06-25
+Pineapple,Visayas,Resealable Bag,Wholesale,Air Freight,Credit Card,Grade B,198.9,273.76,21830.49,2024-05-21,2024-05-24
+Guava,Mindanao,Vacuum Pack,Online,Pickup,Cash,Grade B,184.38,248.7,179411.89,2025-03-06,2025-03-13
+Coconut,Mindanao,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade B,268.54,248.32,137085.99,2025-03-05,2025-03-14
+Pineapple,Visayas,Resealable Bag,Retail,Pickup,Cash,Grade A,339.24,164.78,97722.7,2025-02-18,2025-03-02
+Papaya,Visayas,Resealable Bag,Online,Courier,Bank Transfer,Grade B,175.22,433.9,90097.32,2024-02-21,2024-02-26
+Mango,Mindanao,Vacuum Pack,Distributor,Sea Cargo,Cash,Premium,68.12,130.24,56983.83,2024-03-24,2024-04-01
+Pineapple,Luzon,Resealable Bag,Online,Air Freight,GCash,Grade B,364.76,373.08,41879.94,2024-01-21,2024-01-31
+Coconut,Luzon,Resealable Bag,Distributor,Air Freight,Cash,Grade B,309.11,419.65,81308.32,2025-09-13,2025-09-25
+Jackfruit,Mindanao,Resealable Bag,Retail,Courier,Cash,Premium,402.19,234.58,91391.82,2024-07-22,2024-07-24
+Jackfruit,Mindanao,Box,Retail,Pickup,Credit Card,Grade A,245.09,239.52,179399.25,2025-01-14,2025-01-16
+Pineapple,Visayas,Resealable Bag,Distributor,Pickup,Credit Card,Grade B,421.58,315.52,71237.87,2025-04-15,2025-04-27
+Mango,Visayas,Jar,Wholesale,Pickup,Credit Card,Grade B,62.91,400.81,44549.57,2024-09-08,2024-09-22
+Guava,Visayas,Box,Distributor,Courier,Cash,Premium,476.63,148.25,146814.19,2024-08-05,2024-08-11
+Guava,Luzon,Jar,Online,Pickup,Cash,Grade A,182.41,253.45,56227.98,2025-05-15,2025-05-24
+Banana,Visayas,Box,Online,Courier,Bank Transfer,Premium,254.19,221.19,53802.23,2025-11-10,2025-11-20
+Mango,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Credit Card,Grade B,376.06,442.28,109681.01,2024-07-16,2024-07-22
+Guava,Luzon,Box,Wholesale,Courier,GCash,Grade B,56.37,296.26,62119.15,2024-10-16,2024-10-18
+Banana,Mindanao,Resealable Bag,Online,Air Freight,Cash,Premium,177.95,277.98,74734.13,2024-02-25,2024-03-05
+Guava,Visayas,Vacuum Pack,Retail,Pickup,Credit Card,Grade A,309.66,346.53,38828.13,2024-02-22,2024-02-27
+Mango,Luzon,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade B,458.83,218.13,121819.78,2025-07-30,2025-08-04
+Jackfruit,Mindanao,Vacuum Pack,Retail,Sea Cargo,GCash,Grade B,347.19,171.83,43024.57,2025-03-15,2025-03-20
+Mango,Visayas,Jar,Online,Courier,Cash,Grade A,179.65,213.3,173325.28,2024-03-17,2024-03-20
+Pineapple,Visayas,Resealable Bag,Online,Air Freight,GCash,Premium,117.05,207.66,37024.89,2024-03-13,2024-03-24
+Guava,Visayas,Box,Online,Air Freight,Credit Card,Premium,186.84,252.83,61726.78,2024-03-02,2024-03-05
+Papaya,Luzon,Vacuum Pack,Online,Courier,Bank Transfer,Grade A,91.1,437.43,168832.14,2025-07-06,2025-07-14
+Mango,Mindanao,Box,Retail,Sea Cargo,Credit Card,Premium,343.18,422.3,44482.94,2025-08-12,2025-08-22
+Coconut,Visayas,Vacuum Pack,Online,Courier,Credit Card,Grade B,194.48,154.52,40556.72,2025-08-22,2025-08-29
+Papaya,Visayas,Jar,Retail,Pickup,Cash,Grade B,163.58,158.25,156784.11,2025-02-25,2025-03-09
+Mango,Mindanao,Jar,Online,Air Freight,GCash,Premium,212.8,369.63,128827.66,2025-06-10,2025-06-24
+Banana,Mindanao,Resealable Bag,Distributor,Pickup,Credit Card,Grade A,62.99,327.91,161869.61,2024-02-22,2024-02-26
+Banana,Mindanao,Vacuum Pack,Online,Air Freight,GCash,Grade A,257.65,158.76,168107.2,2025-12-27,2025-12-30
+Banana,Mindanao,Box,Online,Pickup,Credit Card,Grade A,255.55,167.73,46215.97,2025-05-25,2025-06-06
+Coconut,Luzon,Vacuum Pack,Distributor,Pickup,Bank Transfer,Premium,170.23,120.85,147949.69,2025-09-05,2025-09-14
+Coconut,Visayas,Resealable Bag,Online,Pickup,Bank Transfer,Grade B,298.36,299.33,96515.48,2025-08-24,2025-09-03
+Pineapple,Mindanao,Resealable Bag,Online,Sea Cargo,Credit Card,Grade A,193.18,276.08,183551.73,2024-11-25,2024-12-09
+Coconut,Mindanao,Resealable Bag,Online,Air Freight,GCash,Premium,484.41,229.56,29069.27,2025-01-25,2025-02-01
+Jackfruit,Visayas,Vacuum Pack,Wholesale,Pickup,GCash,Grade A,261.27,439.84,74326.63,2025-03-26,2025-03-28
+Coconut,Luzon,Box,Online,Courier,Credit Card,Premium,66.15,142.58,129920.59,2025-12-10,2025-12-17
+Coconut,Luzon,Jar,Retail,Air Freight,Credit Card,Grade A,362.3,418.13,18738.28,2024-10-21,2024-10-25
+Banana,Visayas,Jar,Wholesale,Sea Cargo,Credit Card,Premium,356.81,179.42,43263.18,2024-02-27,2024-03-03
+Papaya,Mindanao,Resealable Bag,Online,Sea Cargo,GCash,Grade B,337.06,271.66,136699.74,2025-09-16,2025-09-30
+Coconut,Mindanao,Resealable Bag,Retail,Pickup,Bank Transfer,Premium,184.62,437.47,141159.57,2025-04-21,2025-04-26
+Banana,Luzon,Jar,Online,Air Freight,GCash,Grade B,307.37,309.69,198611.49,2025-04-12,2025-04-26
+Guava,Mindanao,Jar,Distributor,Air Freight,Cash,Premium,385.33,394.84,181557.63,2024-10-29,2024-10-30
+Guava,Visayas,Resealable Bag,Wholesale,Courier,GCash,Premium,93.72,327.06,17490.29,2024-08-23,2024-09-02
+Jackfruit,Visayas,Resealable Bag,Retail,Courier,Bank Transfer,Premium,236.98,186.26,159437.43,2025-03-27,2025-03-28
+Jackfruit,Visayas,Resealable Bag,Distributor,Pickup,Bank Transfer,Premium,441.68,385.4,98982.96,2025-01-09,2025-01-18
+Guava,Luzon,Jar,Distributor,Air Freight,Credit Card,Grade A,169.01,160.78,80031.28,2024-03-18,2024-03-21
+Jackfruit,Visayas,Box,Retail,Sea Cargo,Credit Card,Grade A,328.8,431.25,72321.19,2025-11-19,2025-11-24
+Coconut,Luzon,Jar,Distributor,Pickup,Cash,Grade A,70.41,132.28,199226.2,2025-09-16,2025-09-20
+Pineapple,Mindanao,Resealable Bag,Online,Pickup,Bank Transfer,Premium,477.22,349.84,112636.57,2024-04-28,2024-04-30
+Coconut,Luzon,Jar,Retail,Pickup,Credit Card,Grade B,64.72,242.27,94242.79,2025-08-24,2025-09-05
+Banana,Luzon,Box,Distributor,Air Freight,Credit Card,Grade B,135.41,160.31,171126.31,2024-08-29,2024-09-12
+Coconut,Luzon,Vacuum Pack,Retail,Courier,GCash,Grade A,404.14,187.72,167665.39,2025-04-10,2025-04-12
+Jackfruit,Luzon,Resealable Bag,Distributor,Sea Cargo,Cash,Grade B,436.28,167.75,34698.5,2025-07-21,2025-07-25
+Pineapple,Luzon,Vacuum Pack,Wholesale,Air Freight,Bank Transfer,Grade A,314.98,125.21,60419.83,2024-09-13,2024-09-26
+Papaya,Mindanao,Vacuum Pack,Retail,Pickup,Credit Card,Grade B,280.96,155.99,105729.35,2024-05-09,2024-05-21
+Coconut,Mindanao,Box,Online,Air Freight,Cash,Grade B,431.28,260.67,30512.75,2025-09-21,2025-09-22
+Mango,Luzon,Box,Wholesale,Air Freight,GCash,Grade B,330.94,313.17,145309.03,2025-12-30,2026-01-07
+Jackfruit,Visayas,Jar,Online,Air Freight,Cash,Premium,342.91,373.76,146959.58,2025-01-25,2025-02-04
+Papaya,Luzon,Jar,Distributor,Pickup,Credit Card,Grade B,378.33,223.14,69379.48,2024-08-08,2024-08-15
+Pineapple,Mindanao,Jar,Retail,Air Freight,Cash,Grade A,244.34,365.71,80802.9,2024-09-18,2024-09-24
+Mango,Mindanao,Box,Retail,Pickup,Bank Transfer,Premium,473.51,259.57,184010.3,2024-05-13,2024-05-22
+Jackfruit,Visayas,Box,Retail,Sea Cargo,GCash,Premium,266.99,399.6,76521.66,2024-02-22,2024-02-27
+Mango,Visayas,Resealable Bag,Online,Air Freight,Bank Transfer,Grade A,131.19,351.89,68707.09,2025-07-23,2025-07-29
+Mango,Luzon,Resealable Bag,Online,Air Freight,GCash,Premium,334.93,130.12,151761.23,2024-12-13,2024-12-19
+Papaya,Visayas,Box,Wholesale,Courier,Bank Transfer,Premium,195.97,430.66,123282.52,2024-08-08,2024-08-15
+Pineapple,Mindanao,Vacuum Pack,Retail,Courier,Credit Card,Premium,240.81,320.34,88694.91,2024-02-23,2024-02-26
+Jackfruit,Luzon,Box,Online,Air Freight,Bank Transfer,Premium,355.32,280.59,136755.19,2024-08-08,2024-08-21
+Papaya,Mindanao,Vacuum Pack,Retail,Sea Cargo,Bank Transfer,Grade A,395.31,372.17,64994.95,2024-02-16,2024-02-20
+Papaya,Mindanao,Jar,Wholesale,Sea Cargo,Credit Card,Premium,366.65,285.09,168337.3,2024-05-02,2024-05-03
+Papaya,Mindanao,Vacuum Pack,Online,Air Freight,Credit Card,Grade A,437.95,310.0,118945.94,2024-12-28,2024-12-30
+Papaya,Visayas,Vacuum Pack,Online,Air Freight,Bank Transfer,Grade A,410.59,323.98,168084.92,2025-12-27,2026-01-07
+Papaya,Luzon,Resealable Bag,Online,Pickup,Cash,Grade B,441.74,366.12,52098.69,2025-01-05,2025-01-07
+Jackfruit,Mindanao,Vacuum Pack,Wholesale,Courier,Bank Transfer,Premium,481.2,333.0,38061.07,2024-06-21,2024-06-23
+Banana,Luzon,Resealable Bag,Wholesale,Air Freight,GCash,Premium,272.35,368.97,154376.66,2024-04-15,2024-04-18
+Jackfruit,Mindanao,Box,Distributor,Sea Cargo,Credit Card,Grade A,261.01,328.36,161302.64,2025-04-04,2025-04-15
+Banana,Mindanao,Vacuum Pack,Distributor,Pickup,Credit Card,Grade A,75.6,394.46,24578.89,2025-08-28,2025-08-29
+Jackfruit,Mindanao,Jar,Online,Air Freight,Credit Card,Premium,343.33,226.1,100369.52,2024-04-02,2024-04-12
+Papaya,Luzon,Box,Retail,Sea Cargo,Cash,Grade A,368.43,447.03,109573.03,2024-06-03,2024-06-04
+Banana,Visayas,Box,Online,Pickup,Bank Transfer,Premium,319.05,380.44,132988.02,2025-09-16,2025-09-19
+Mango,Mindanao,Jar,Distributor,Courier,GCash,Grade B,86.68,338.99,184181.83,2024-03-08,2024-03-14
+Coconut,Mindanao,Jar,Wholesale,Air Freight,Bank Transfer,Premium,219.51,381.25,164505.11,2024-11-13,2024-11-24
+Guava,Mindanao,Vacuum Pack,Online,Courier,Cash,Grade B,188.99,433.89,74929.15,2025-11-17,2025-11-29
+Pineapple,Luzon,Resealable Bag,Retail,Courier,Cash,Premium,396.89,395.59,177899.61,2025-05-12,2025-05-16
+Banana,Mindanao,Resealable Bag,Online,Sea Cargo,GCash,Grade A,424.11,374.46,163718.31,2024-02-08,2024-02-19
+Papaya,Luzon,Jar,Distributor,Sea Cargo,Credit Card,Premium,178.22,367.02,95296.31,2024-06-18,2024-06-30
+Banana,Visayas,Resealable Bag,Distributor,Pickup,Credit Card,Grade B,400.16,285.96,89545.56,2025-06-30,2025-07-04
+Pineapple,Mindanao,Resealable Bag,Distributor,Air Freight,Credit Card,Grade B,299.54,153.85,170719.53,2024-06-14,2024-06-28
+Mango,Luzon,Box,Online,Sea Cargo,Credit Card,Grade A,475.89,193.27,95714.32,2024-05-07,2024-05-12
+Papaya,Luzon,Jar,Distributor,Sea Cargo,Credit Card,Grade A,218.71,129.3,186856.92,2024-12-23,2024-12-24
+Guava,Luzon,Resealable Bag,Retail,Courier,Credit Card,Premium,424.0,370.42,99130.92,2025-10-27,2025-11-02
+Mango,Luzon,Box,Wholesale,Sea Cargo,Credit Card,Grade A,399.28,198.42,33151.19,2025-09-22,2025-09-23
+Coconut,Mindanao,Jar,Retail,Air Freight,Credit Card,Premium,291.22,328.55,119259.02,2024-09-01,2024-09-08
+Papaya,Luzon,Box,Wholesale,Pickup,GCash,Premium,350.7,292.75,78514.71,2024-05-27,2024-06-01
+Jackfruit,Mindanao,Vacuum Pack,Online,Pickup,Cash,Premium,224.1,243.19,151990.15,2025-06-22,2025-07-01
+Mango,Visayas,Resealable Bag,Retail,Courier,GCash,Grade A,208.53,231.72,132131.17,2024-12-31,2025-01-13
+Coconut,Visayas,Resealable Bag,Wholesale,Air Freight,Credit Card,Grade A,182.05,134.46,47899.27,2025-12-02,2025-12-10
+Banana,Mindanao,Jar,Online,Courier,Cash,Premium,136.0,237.8,158359.9,2024-02-12,2024-02-18
+Banana,Luzon,Box,Online,Pickup,Credit Card,Grade B,202.57,181.65,141493.01,2025-11-02,2025-11-08
+Jackfruit,Visayas,Vacuum Pack,Online,Air Freight,Credit Card,Premium,497.79,179.55,65815.62,2025-01-11,2025-01-24
+Banana,Mindanao,Box,Distributor,Pickup,Credit Card,Grade A,360.39,236.01,18047.48,2024-04-15,2024-04-17
+Papaya,Visayas,Vacuum Pack,Retail,Pickup,Bank Transfer,Premium,410.49,344.21,191029.99,2024-12-27,2025-01-06
+Jackfruit,Mindanao,Jar,Retail,Sea Cargo,Cash,Grade A,400.33,240.89,82742.34,2024-05-26,2024-06-09
+Jackfruit,Luzon,Jar,Distributor,Courier,Credit Card,Grade A,308.26,294.72,85626.47,2025-08-03,2025-08-04
+Pineapple,Luzon,Vacuum Pack,Wholesale,Pickup,Credit Card,Premium,102.99,375.74,143767.18,2025-10-27,2025-11-01
+Banana,Mindanao,Jar,Wholesale,Air Freight,GCash,Grade A,253.42,416.56,94571.13,2024-08-07,2024-08-17
+Coconut,Visayas,Box,Retail,Courier,Bank Transfer,Grade A,370.31,426.02,131163.0,2024-03-30,2024-04-12
+Pineapple,Luzon,Resealable Bag,Wholesale,Sea Cargo,Credit Card,Grade A,212.4,308.85,98807.11,2025-01-05,2025-01-14
+Jackfruit,Luzon,Vacuum Pack,Distributor,Pickup,Credit Card,Premium,234.86,255.11,119231.1,2025-07-18,2025-07-21
+Coconut,Luzon,Jar,Online,Courier,GCash,Premium,337.91,180.05,193590.28,2024-05-08,2024-05-14
+Guava,Luzon,Vacuum Pack,Wholesale,Courier,GCash,Grade A,195.2,354.08,75744.39,2025-03-19,2025-03-28
+Guava,Luzon,Box,Wholesale,Courier,GCash,Premium,186.27,296.05,105488.9,2025-06-15,2025-06-20
+Jackfruit,Luzon,Resealable Bag,Distributor,Air Freight,Cash,Grade A,70.46,331.68,119586.53,2024-06-21,2024-07-01
+Guava,Mindanao,Jar,Retail,Pickup,Bank Transfer,Premium,480.49,279.37,162890.75,2025-10-28,2025-11-01
+Banana,Visayas,Vacuum Pack,Retail,Sea Cargo,Credit Card,Grade B,267.91,187.33,125265.45,2025-12-02,2025-12-09
+Coconut,Visayas,Box,Online,Sea Cargo,Bank Transfer,Premium,302.74,225.31,98629.79,2024-11-16,2024-11-30
+Pineapple,Luzon,Vacuum Pack,Retail,Courier,Credit Card,Premium,238.16,437.69,181439.06,2024-09-30,2024-10-08
+Coconut,Visayas,Resealable Bag,Wholesale,Pickup,Credit Card,Grade B,445.58,284.13,27109.33,2024-12-01,2024-12-11
+Papaya,Luzon,Resealable Bag,Distributor,Air Freight,Cash,Grade B,272.7,411.17,134309.41,2025-02-06,2025-02-15
+Jackfruit,Luzon,Vacuum Pack,Online,Sea Cargo,Bank Transfer,Premium,214.6,253.07,18596.05,2025-04-26,2025-05-01
+Jackfruit,Luzon,Box,Distributor,Air Freight,Credit Card,Premium,252.66,301.45,166809.15,2024-02-22,2024-03-03
+Jackfruit,Luzon,Resealable Bag,Retail,Pickup,Bank Transfer,Grade B,301.02,240.65,37410.8,2025-09-30,2025-10-11
+Papaya,Mindanao,Vacuum Pack,Retail,Air Freight,GCash,Premium,199.87,276.34,96827.83,2025-09-08,2025-09-17
+Pineapple,Visayas,Box,Wholesale,Pickup,Bank Transfer,Premium,201.37,393.34,111144.57,2025-09-12,2025-09-21
+Banana,Visayas,Vacuum Pack,Distributor,Courier,Cash,Grade B,312.67,382.93,147811.6,2025-12-26,2026-01-05
+Mango,Mindanao,Jar,Distributor,Sea Cargo,Cash,Premium,266.2,293.0,147024.74,2025-12-05,2025-12-16
+Guava,Mindanao,Resealable Bag,Retail,Air Freight,GCash,Grade A,248.47,258.2,88462.42,2025-01-24,2025-01-27
+Jackfruit,Mindanao,Jar,Retail,Sea Cargo,GCash,Premium,196.27,338.53,109840.66,2024-07-27,2024-08-03
+Papaya,Mindanao,Box,Distributor,Courier,Credit Card,Grade A,480.8,212.07,66714.84,2024-11-17,2024-11-20
+Banana,Mindanao,Resealable Bag,Online,Courier,Credit Card,Grade B,302.22,428.38,147116.23,2024-10-31,2024-11-13
+Jackfruit,Mindanao,Jar,Online,Courier,GCash,Grade B,68.93,435.25,25015.59,2024-10-21,2024-10-23
+Banana,Mindanao,Jar,Wholesale,Sea Cargo,Bank Transfer,Premium,363.28,165.3,126978.64,2025-03-28,2025-04-08
+Pineapple,Luzon,Resealable Bag,Wholesale,Air Freight,Cash,Grade B,198.63,275.89,139426.48,2025-08-23,2025-08-27
+Jackfruit,Luzon,Jar,Online,Pickup,GCash,Grade B,194.53,333.15,182508.02,2024-05-20,2024-05-21
+Jackfruit,Luzon,Vacuum Pack,Wholesale,Pickup,GCash,Grade A,498.73,251.01,104122.94,2024-04-01,2024-04-12
+Mango,Visayas,Vacuum Pack,Distributor,Courier,Credit Card,Premium,294.49,282.99,188326.5,2024-10-23,2024-10-24
+Banana,Luzon,Vacuum Pack,Distributor,Sea Cargo,Credit Card,Premium,165.77,181.45,149957.4,2025-05-31,2025-06-08
+Coconut,Luzon,Resealable Bag,Online,Pickup,Bank Transfer,Grade A,230.37,151.48,196520.19,2024-10-29,2024-11-08
+Pineapple,Luzon,Box,Online,Sea Cargo,Credit Card,Grade B,479.32,219.64,147347.68,2025-05-03,2025-05-09
+Coconut,Visayas,Resealable Bag,Retail,Air Freight,Credit Card,Grade B,121.87,346.4,185390.14,2024-01-12,2024-01-17
+Banana,Mindanao,Vacuum Pack,Distributor,Courier,GCash,Grade A,480.81,277.8,96445.95,2025-12-21,2026-01-03
+Papaya,Mindanao,Jar,Wholesale,Sea Cargo,Cash,Premium,251.04,352.24,24839.52,2025-09-12,2025-09-18
+Mango,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Bank Transfer,Premium,248.83,344.5,146214.41,2025-07-31,2025-08-02
+Jackfruit,Visayas,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade B,303.76,304.4,137825.87,2025-05-15,2025-05-17
+Mango,Visayas,Box,Retail,Sea Cargo,Cash,Grade A,240.66,351.13,112821.07,2024-11-11,2024-11-23
+Papaya,Luzon,Box,Online,Sea Cargo,GCash,Premium,490.25,333.14,89868.77,2024-03-02,2024-03-04
+Guava,Visayas,Jar,Retail,Sea Cargo,Bank Transfer,Grade A,130.31,297.3,110480.08,2025-01-26,2025-02-03
+Mango,Luzon,Box,Online,Pickup,Credit Card,Grade A,161.38,234.23,62373.45,2024-08-16,2024-08-30
+Guava,Mindanao,Jar,Retail,Sea Cargo,GCash,Grade A,95.4,131.08,123579.13,2024-04-25,2024-04-26
+Mango,Luzon,Vacuum Pack,Online,Pickup,GCash,Premium,147.77,405.03,20724.37,2025-12-21,2026-01-04
+Pineapple,Mindanao,Box,Distributor,Sea Cargo,Bank Transfer,Grade A,493.56,292.01,88576.44,2025-05-30,2025-06-04
+Jackfruit,Mindanao,Resealable Bag,Online,Pickup,Cash,Grade B,473.71,341.54,159302.87,2024-10-08,2024-10-09
+Papaya,Visayas,Resealable Bag,Distributor,Pickup,GCash,Premium,263.08,400.28,67139.92,2024-11-22,2024-12-04
+Guava,Visayas,Vacuum Pack,Online,Pickup,GCash,Grade B,159.29,187.1,132874.11,2025-12-25,2025-12-28
+Banana,Luzon,Resealable Bag,Retail,Courier,Credit Card,Premium,322.24,133.05,23829.02,2025-04-05,2025-04-19
+Coconut,Mindanao,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade B,480.66,125.06,188060.36,2025-08-24,2025-09-05
+Guava,Visayas,Resealable Bag,Wholesale,Pickup,GCash,Premium,194.73,213.41,98587.59,2024-04-30,2024-05-12
+Banana,Visayas,Box,Online,Pickup,Cash,Premium,261.27,397.11,183722.79,2025-10-26,2025-11-01
+Papaya,Luzon,Resealable Bag,Wholesale,Air Freight,Bank Transfer,Premium,470.64,311.12,89339.83,2025-01-14,2025-01-20
+Banana,Luzon,Jar,Wholesale,Pickup,Bank Transfer,Grade B,393.51,281.24,147476.01,2024-06-05,2024-06-09
+Pineapple,Mindanao,Box,Wholesale,Sea Cargo,Credit Card,Grade A,462.6,298.91,131943.8,2025-05-17,2025-05-25
+Mango,Luzon,Vacuum Pack,Retail,Pickup,GCash,Premium,154.15,353.37,11736.88,2024-03-01,2024-03-10
+Banana,Luzon,Jar,Online,Air Freight,Cash,Premium,298.24,123.91,110589.35,2025-06-01,2025-06-09
+Banana,Luzon,Jar,Wholesale,Air Freight,Cash,Premium,117.0,183.34,110026.64,2024-10-08,2024-10-17
+Guava,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Premium,159.44,350.09,66995.18,2024-12-28,2025-01-02
+Guava,Mindanao,Vacuum Pack,Retail,Pickup,Credit Card,Grade B,298.72,138.52,11795.53,2024-03-23,2024-04-03
+Papaya,Visayas,Box,Retail,Air Freight,GCash,Grade A,455.57,348.45,117688.99,2024-06-24,2024-06-26
+Mango,Mindanao,Box,Retail,Sea Cargo,Bank Transfer,Grade A,482.66,313.72,152928.35,2024-10-04,2024-10-05
+Papaya,Luzon,Box,Wholesale,Sea Cargo,Credit Card,Premium,453.44,229.47,153565.76,2025-12-30,2026-01-13
+Coconut,Mindanao,Vacuum Pack,Distributor,Air Freight,Cash,Grade B,154.46,145.09,124982.06,2024-05-23,2024-06-05
+Papaya,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Grade A,210.12,430.58,92051.11,2025-09-20,2025-09-30
+Coconut,Visayas,Vacuum Pack,Distributor,Sea Cargo,Cash,Grade A,170.59,245.4,158939.15,2025-11-27,2025-12-07
+Papaya,Visayas,Box,Retail,Air Freight,Cash,Grade B,250.13,371.24,29423.97,2024-06-06,2024-06-18
+Papaya,Visayas,Jar,Retail,Air Freight,Cash,Grade B,299.4,316.99,159043.36,2024-03-30,2024-04-02
+Banana,Visayas,Jar,Retail,Sea Cargo,GCash,Premium,221.33,165.82,67214.94,2025-01-29,2025-01-30
+Mango,Luzon,Jar,Distributor,Pickup,Bank Transfer,Grade B,402.2,239.17,189402.24,2025-05-19,2025-05-22
+Jackfruit,Mindanao,Resealable Bag,Online,Air Freight,GCash,Grade B,53.05,250.58,169906.54,2025-10-02,2025-10-10
+Guava,Visayas,Jar,Distributor,Pickup,GCash,Grade B,194.3,432.6,48161.78,2025-01-24,2025-02-06
+Papaya,Visayas,Box,Online,Sea Cargo,Bank Transfer,Grade B,176.14,379.34,79352.95,2024-11-17,2024-11-20
+Jackfruit,Mindanao,Resealable Bag,Retail,Pickup,GCash,Grade B,408.96,394.32,23140.15,2025-07-31,2025-08-04
+Papaya,Luzon,Box,Wholesale,Courier,GCash,Premium,240.41,244.41,95322.68,2025-02-22,2025-03-05
+Jackfruit,Visayas,Jar,Retail,Courier,Cash,Grade A,396.03,337.01,77451.68,2025-09-04,2025-09-12
+Mango,Mindanao,Jar,Distributor,Pickup,Cash,Grade A,94.37,193.26,151902.08,2025-10-24,2025-11-03
+Coconut,Mindanao,Resealable Bag,Online,Courier,Credit Card,Grade B,397.55,314.23,105088.5,2025-07-25,2025-08-04
+Papaya,Luzon,Box,Online,Air Freight,Cash,Premium,113.75,222.92,96513.2,2024-12-19,2024-12-20
+Papaya,Visayas,Jar,Retail,Pickup,Credit Card,Grade B,80.23,134.75,145048.01,2024-07-30,2024-08-08
+Banana,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,GCash,Premium,122.06,304.75,192107.9,2024-01-24,2024-02-07
+Papaya,Mindanao,Resealable Bag,Wholesale,Pickup,Credit Card,Grade A,381.82,411.42,95419.25,2024-08-25,2024-09-07
+Mango,Mindanao,Resealable Bag,Wholesale,Courier,Cash,Premium,95.79,407.75,45522.37,2025-03-15,2025-03-22
+Papaya,Luzon,Box,Online,Courier,Credit Card,Premium,226.64,157.7,76877.14,2024-11-29,2024-12-03
+Pineapple,Mindanao,Box,Retail,Sea Cargo,Bank Transfer,Grade A,157.36,158.59,80928.15,2025-04-13,2025-04-23
+Papaya,Visayas,Resealable Bag,Online,Pickup,GCash,Grade B,335.98,348.83,132599.42,2024-05-24,2024-06-02
+Pineapple,Visayas,Box,Wholesale,Sea Cargo,Bank Transfer,Grade B,328.73,405.62,190849.97,2024-06-26,2024-07-05
+Pineapple,Visayas,Jar,Online,Pickup,Credit Card,Premium,427.95,281.27,25707.42,2025-05-11,2025-05-14
+Guava,Luzon,Box,Retail,Courier,GCash,Premium,179.9,377.64,117473.59,2024-02-01,2024-02-14
+Jackfruit,Luzon,Vacuum Pack,Distributor,Courier,Cash,Premium,248.61,192.12,90779.39,2025-05-22,2025-05-31
+Pineapple,Visayas,Vacuum Pack,Online,Courier,Bank Transfer,Grade A,247.58,448.01,157370.01,2025-10-31,2025-11-13
+Guava,Mindanao,Box,Online,Sea Cargo,GCash,Grade A,416.09,385.8,118314.13,2024-08-30,2024-09-03
+Jackfruit,Mindanao,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,170.3,403.15,197242.78,2025-06-29,2025-07-04
+Mango,Luzon,Jar,Retail,Courier,GCash,Premium,439.74,202.39,145165.02,2025-11-26,2025-12-10
+Guava,Mindanao,Jar,Online,Sea Cargo,Bank Transfer,Premium,236.4,269.16,130389.28,2024-09-10,2024-09-23
+Jackfruit,Mindanao,Box,Distributor,Pickup,Credit Card,Grade B,311.88,406.74,170961.79,2024-04-05,2024-04-12
+Papaya,Mindanao,Box,Retail,Pickup,GCash,Grade B,421.18,283.26,71344.38,2024-04-05,2024-04-17
+Jackfruit,Mindanao,Resealable Bag,Online,Courier,Cash,Grade A,94.81,378.68,97320.53,2024-10-17,2024-10-23
+Pineapple,Visayas,Jar,Retail,Pickup,GCash,Premium,459.23,411.11,67354.45,2024-05-07,2024-05-21
+Coconut,Visayas,Box,Retail,Courier,GCash,Grade A,228.35,220.82,142893.86,2024-10-07,2024-10-09
+Coconut,Luzon,Vacuum Pack,Retail,Sea Cargo,Credit Card,Grade A,109.71,194.64,139196.72,2024-08-27,2024-09-03
+Coconut,Visayas,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade A,153.03,149.48,163131.8,2024-01-10,2024-01-11
+Banana,Visayas,Resealable Bag,Online,Sea Cargo,GCash,Grade A,288.73,122.8,133503.84,2024-04-15,2024-04-21
+Coconut,Luzon,Resealable Bag,Online,Pickup,GCash,Grade A,453.47,166.2,33399.87,2025-03-26,2025-04-01
+Papaya,Visayas,Resealable Bag,Wholesale,Courier,Cash,Grade A,299.03,318.0,125442.69,2025-01-28,2025-02-03
+Guava,Mindanao,Box,Wholesale,Sea Cargo,Credit Card,Grade B,340.78,378.65,160817.83,2025-12-08,2025-12-09
+Papaya,Luzon,Resealable Bag,Online,Air Freight,Cash,Grade B,470.27,163.55,173554.66,2024-09-02,2024-09-10
+Banana,Mindanao,Resealable Bag,Online,Air Freight,Cash,Premium,80.39,206.52,17567.1,2025-08-05,2025-08-12
+Papaya,Mindanao,Box,Online,Pickup,Credit Card,Grade A,338.24,297.43,39009.28,2024-03-02,2024-03-15
+Mango,Mindanao,Resealable Bag,Wholesale,Courier,Credit Card,Premium,335.43,395.39,139400.58,2024-03-26,2024-03-31
+Coconut,Visayas,Resealable Bag,Retail,Sea Cargo,Cash,Grade B,102.19,322.06,20455.44,2024-03-08,2024-03-13
+Coconut,Mindanao,Resealable Bag,Retail,Air Freight,GCash,Premium,55.11,283.82,75873.97,2025-11-13,2025-11-25
+Guava,Mindanao,Box,Wholesale,Courier,GCash,Premium,401.51,208.69,178418.8,2025-06-13,2025-06-26
+Guava,Visayas,Box,Retail,Courier,Cash,Grade B,254.84,238.84,104925.9,2024-01-31,2024-02-06
+Banana,Luzon,Box,Retail,Air Freight,GCash,Premium,278.97,134.53,173956.41,2025-08-03,2025-08-06
+Papaya,Visayas,Jar,Wholesale,Sea Cargo,Cash,Premium,411.4,355.63,134583.63,2024-09-07,2024-09-08
+Pineapple,Visayas,Box,Distributor,Air Freight,Bank Transfer,Grade A,275.92,417.64,44075.43,2024-08-17,2024-08-23
+Papaya,Luzon,Jar,Distributor,Courier,Bank Transfer,Grade A,298.89,122.63,48127.52,2025-06-12,2025-06-13
+Banana,Mindanao,Resealable Bag,Online,Courier,Credit Card,Grade A,379.61,300.36,161234.97,2025-07-31,2025-08-13
+Papaya,Luzon,Resealable Bag,Distributor,Air Freight,Bank Transfer,Grade A,391.52,244.17,150235.71,2024-06-03,2024-06-04
+Pineapple,Mindanao,Resealable Bag,Online,Pickup,Cash,Grade A,370.24,150.7,185042.14,2024-11-10,2024-11-12
+Coconut,Visayas,Jar,Retail,Air Freight,GCash,Premium,418.98,144.69,117885.94,2025-06-16,2025-06-23
+Pineapple,Luzon,Box,Distributor,Courier,Credit Card,Premium,424.35,227.66,96023.99,2025-03-21,2025-04-01
+Pineapple,Luzon,Vacuum Pack,Wholesale,Air Freight,GCash,Grade B,259.72,254.15,111825.66,2024-08-27,2024-08-29
+Banana,Visayas,Box,Retail,Air Freight,GCash,Premium,186.9,352.55,124627.47,2024-07-31,2024-08-08
+Guava,Visayas,Resealable Bag,Retail,Sea Cargo,Bank Transfer,Grade B,281.06,343.47,59431.69,2024-08-08,2024-08-22
+Papaya,Visayas,Resealable Bag,Retail,Pickup,Cash,Grade A,104.65,140.35,158382.4,2024-06-27,2024-06-28
+Pineapple,Visayas,Box,Retail,Courier,Cash,Grade A,498.72,185.26,132737.51,2024-08-15,2024-08-18
+Guava,Visayas,Vacuum Pack,Retail,Pickup,Cash,Grade A,465.86,262.94,147641.86,2024-05-11,2024-05-13
+Papaya,Mindanao,Jar,Wholesale,Courier,GCash,Grade A,173.74,267.18,38239.97,2025-05-23,2025-05-24
+Jackfruit,Luzon,Box,Online,Pickup,Credit Card,Grade A,89.47,246.4,89654.62,2025-09-20,2025-09-30
+Jackfruit,Luzon,Vacuum Pack,Online,Courier,Credit Card,Premium,401.65,233.53,117473.71,2025-10-20,2025-11-02
+Banana,Luzon,Vacuum Pack,Distributor,Sea Cargo,Cash,Grade B,76.37,447.21,110592.14,2024-11-25,2024-12-02
+Pineapple,Luzon,Resealable Bag,Wholesale,Courier,Cash,Grade A,309.06,444.28,83800.28,2025-08-21,2025-08-25
+Pineapple,Mindanao,Box,Distributor,Air Freight,Bank Transfer,Premium,303.62,305.83,45764.4,2024-06-26,2024-06-29
+Banana,Luzon,Jar,Retail,Air Freight,Cash,Grade A,320.75,126.58,100817.91,2025-05-19,2025-05-28
+Pineapple,Luzon,Box,Wholesale,Courier,Cash,Grade A,116.47,352.55,36914.01,2024-12-05,2024-12-15
+Jackfruit,Visayas,Vacuum Pack,Distributor,Pickup,Cash,Grade B,185.79,165.03,39925.74,2024-04-23,2024-05-07
+Coconut,Visayas,Box,Wholesale,Courier,GCash,Premium,315.03,177.87,68296.41,2025-03-23,2025-04-05
+Pineapple,Luzon,Vacuum Pack,Online,Air Freight,GCash,Premium,193.2,386.91,126162.42,2025-12-06,2025-12-11
+Mango,Visayas,Resealable Bag,Distributor,Air Freight,GCash,Grade B,492.07,175.4,178210.85,2025-10-16,2025-10-26
+Coconut,Mindanao,Box,Online,Air Freight,Bank Transfer,Grade A,162.29,142.37,58765.01,2024-03-31,2024-04-14
+Mango,Luzon,Jar,Online,Pickup,GCash,Grade B,271.89,244.98,113744.55,2024-04-20,2024-05-02
+Papaya,Mindanao,Resealable Bag,Wholesale,Pickup,Cash,Grade A,182.71,225.18,190815.8,2024-04-13,2024-04-27
+Pineapple,Visayas,Resealable Bag,Retail,Air Freight,Bank Transfer,Premium,493.37,414.76,143855.88,2024-03-16,2024-03-22
+Pineapple,Mindanao,Jar,Wholesale,Air Freight,Cash,Grade B,142.5,182.69,142467.37,2025-03-17,2025-03-28
+Coconut,Visayas,Box,Wholesale,Air Freight,Cash,Grade B,307.3,397.15,39182.09,2025-07-07,2025-07-12
+Papaya,Luzon,Box,Online,Sea Cargo,Cash,Grade A,143.13,330.6,195640.96,2025-01-04,2025-01-05
+Mango,Visayas,Jar,Online,Pickup,Bank Transfer,Grade A,338.84,247.88,80493.9,2025-04-29,2025-05-13
+Pineapple,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Grade B,151.81,208.63,21711.48,2025-01-25,2025-01-31
+Mango,Luzon,Box,Online,Sea Cargo,Cash,Grade B,418.28,258.15,111747.74,2025-12-14,2025-12-25
+Pineapple,Visayas,Box,Retail,Pickup,Cash,Premium,307.05,290.55,118582.23,2025-05-01,2025-05-11
+Mango,Visayas,Resealable Bag,Wholesale,Sea Cargo,GCash,Grade A,69.2,145.86,139793.84,2025-09-27,2025-09-30
+Coconut,Luzon,Box,Distributor,Air Freight,Cash,Grade B,300.36,302.18,172758.59,2024-07-25,2024-08-08
+Guava,Luzon,Jar,Retail,Pickup,GCash,Grade A,304.97,312.28,193318.02,2025-06-16,2025-06-24
+Jackfruit,Luzon,Box,Distributor,Pickup,Bank Transfer,Grade B,344.65,308.77,99878.86,2024-04-12,2024-04-14
+Papaya,Luzon,Jar,Retail,Pickup,Bank Transfer,Premium,156.91,366.1,184958.65,2024-06-25,2024-06-30
+Banana,Visayas,Box,Distributor,Pickup,Cash,Grade A,110.47,441.49,94191.02,2025-01-16,2025-01-17
+Coconut,Visayas,Vacuum Pack,Wholesale,Pickup,GCash,Grade B,383.43,370.63,174765.9,2024-11-24,2024-11-29
+Guava,Luzon,Vacuum Pack,Distributor,Pickup,GCash,Premium,445.7,129.55,46625.05,2024-02-27,2024-03-07
+Mango,Luzon,Vacuum Pack,Online,Air Freight,Bank Transfer,Premium,139.6,241.56,98201.51,2024-07-24,2024-08-07
+Mango,Mindanao,Vacuum Pack,Wholesale,Courier,Credit Card,Premium,250.75,436.97,100170.63,2025-02-10,2025-02-21
+Banana,Luzon,Box,Retail,Courier,Cash,Grade B,72.34,401.76,158167.73,2025-07-18,2025-07-24
+Pineapple,Mindanao,Resealable Bag,Wholesale,Courier,Credit Card,Premium,59.02,377.5,155838.82,2024-08-07,2024-08-21
+Pineapple,Mindanao,Resealable Bag,Retail,Sea Cargo,Bank Transfer,Premium,412.29,220.8,193734.64,2024-01-10,2024-01-18
+Papaya,Visayas,Box,Online,Courier,GCash,Grade B,185.97,291.81,128485.16,2025-10-20,2025-10-25
+Mango,Mindanao,Box,Distributor,Courier,Cash,Grade B,78.73,446.16,131713.0,2025-08-21,2025-08-23
+Coconut,Mindanao,Box,Wholesale,Sea Cargo,GCash,Grade A,412.44,384.78,124006.33,2024-10-10,2024-10-15
+Coconut,Luzon,Vacuum Pack,Online,Courier,Bank Transfer,Grade B,232.07,363.12,120774.5,2025-11-07,2025-11-13
+Pineapple,Visayas,Resealable Bag,Online,Courier,Bank Transfer,Grade A,428.29,409.24,44415.81,2025-08-08,2025-08-22
+Pineapple,Mindanao,Box,Wholesale,Courier,Cash,Grade A,209.88,365.59,68346.2,2024-04-09,2024-04-17
+Banana,Mindanao,Box,Online,Air Freight,Credit Card,Grade A,439.88,312.58,189417.19,2024-12-05,2024-12-11
+Pineapple,Mindanao,Vacuum Pack,Online,Courier,Credit Card,Grade A,441.88,169.76,198546.09,2024-03-13,2024-03-21
+Jackfruit,Visayas,Resealable Bag,Distributor,Sea Cargo,Cash,Grade B,199.68,445.59,69548.67,2024-12-16,2024-12-23
+Papaya,Visayas,Resealable Bag,Wholesale,Sea Cargo,Credit Card,Grade A,108.23,263.12,91587.85,2024-02-29,2024-03-01
+Papaya,Luzon,Vacuum Pack,Wholesale,Courier,Cash,Grade B,390.58,295.24,13404.06,2025-03-15,2025-03-23
+Coconut,Luzon,Resealable Bag,Distributor,Courier,GCash,Grade A,222.6,314.26,41733.84,2024-01-05,2024-01-16
+Banana,Visayas,Box,Online,Sea Cargo,Bank Transfer,Grade B,211.66,182.18,190136.03,2024-02-16,2024-02-21
+Pineapple,Luzon,Resealable Bag,Wholesale,Air Freight,GCash,Grade A,214.97,334.68,17099.05,2025-02-17,2025-02-18
+Guava,Mindanao,Vacuum Pack,Retail,Air Freight,Cash,Grade A,360.39,257.54,82248.21,2025-10-17,2025-10-22
+Papaya,Mindanao,Resealable Bag,Wholesale,Air Freight,Bank Transfer,Grade B,347.75,338.62,61295.66,2025-07-14,2025-07-19
+Pineapple,Visayas,Vacuum Pack,Retail,Courier,Cash,Grade A,273.98,320.97,157812.19,2025-09-12,2025-09-24
+Banana,Mindanao,Jar,Distributor,Sea Cargo,Cash,Premium,273.36,188.54,187293.63,2025-06-19,2025-06-23
+Mango,Luzon,Vacuum Pack,Retail,Pickup,GCash,Grade A,400.79,144.77,147479.49,2024-12-04,2024-12-08
+Pineapple,Visayas,Box,Distributor,Pickup,Cash,Grade A,415.93,408.47,171927.25,2024-09-19,2024-09-30
+Coconut,Visayas,Jar,Retail,Air Freight,Cash,Grade A,433.4,338.91,42397.33,2025-01-03,2025-01-16
+Jackfruit,Visayas,Vacuum Pack,Distributor,Courier,GCash,Grade A,230.35,437.56,61648.29,2025-01-01,2025-01-09
+Guava,Visayas,Jar,Wholesale,Air Freight,GCash,Premium,376.89,443.92,170426.47,2025-01-29,2025-02-10
+Jackfruit,Visayas,Jar,Wholesale,Pickup,Bank Transfer,Premium,62.97,345.87,169321.93,2024-04-16,2024-04-23
+Papaya,Luzon,Jar,Online,Air Freight,Cash,Grade B,344.74,124.08,174983.13,2024-05-13,2024-05-21
+Coconut,Mindanao,Resealable Bag,Distributor,Air Freight,Credit Card,Premium,376.99,279.04,136105.02,2025-06-21,2025-07-04
+Pineapple,Mindanao,Vacuum Pack,Retail,Sea Cargo,Credit Card,Grade B,441.24,144.71,103413.11,2025-10-18,2025-10-25
+Banana,Luzon,Resealable Bag,Online,Pickup,GCash,Grade A,256.59,384.42,95138.73,2024-09-03,2024-09-09
+Banana,Luzon,Jar,Retail,Air Freight,Credit Card,Grade B,66.12,301.2,166922.66,2025-05-25,2025-06-02
+Coconut,Visayas,Resealable Bag,Online,Courier,Bank Transfer,Grade A,417.46,398.62,73074.8,2025-09-10,2025-09-20
+Papaya,Mindanao,Box,Online,Air Freight,Cash,Premium,149.79,232.65,167677.94,2025-09-26,2025-10-06
+Jackfruit,Visayas,Vacuum Pack,Retail,Sea Cargo,Credit Card,Grade A,419.83,365.03,87750.04,2024-10-25,2024-11-03
+Pineapple,Luzon,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade A,372.55,155.56,88749.37,2024-09-17,2024-09-27
+Coconut,Mindanao,Vacuum Pack,Online,Pickup,GCash,Grade B,51.95,362.95,115113.0,2025-10-10,2025-10-24
+Jackfruit,Visayas,Resealable Bag,Wholesale,Sea Cargo,Cash,Grade B,345.88,320.03,71150.31,2025-03-19,2025-04-02
+Jackfruit,Mindanao,Resealable Bag,Distributor,Pickup,Bank Transfer,Grade B,253.78,164.01,88421.64,2025-01-28,2025-02-04
+Jackfruit,Visayas,Box,Wholesale,Sea Cargo,GCash,Premium,371.47,346.58,185026.44,2025-12-17,2025-12-29
+Coconut,Luzon,Box,Retail,Courier,Credit Card,Premium,306.79,340.16,89320.81,2024-05-15,2024-05-27
+Guava,Visayas,Vacuum Pack,Retail,Air Freight,Credit Card,Grade A,73.88,138.68,60725.87,2025-06-30,2025-07-05
+Coconut,Visayas,Resealable Bag,Retail,Courier,GCash,Premium,64.54,388.63,29471.2,2024-06-13,2024-06-18
+Jackfruit,Luzon,Jar,Wholesale,Courier,Cash,Grade B,224.4,435.71,195406.32,2025-11-22,2025-12-04
+Mango,Luzon,Box,Wholesale,Pickup,GCash,Premium,367.08,333.72,153470.46,2024-11-16,2024-11-25
+Jackfruit,Luzon,Resealable Bag,Distributor,Pickup,GCash,Premium,83.51,437.62,149665.1,2025-07-13,2025-07-25
+Mango,Visayas,Box,Distributor,Sea Cargo,GCash,Premium,430.71,121.86,98602.95,2024-05-02,2024-05-09
+Pineapple,Visayas,Vacuum Pack,Distributor,Pickup,Bank Transfer,Grade A,402.81,224.89,51792.78,2024-06-07,2024-06-08
+Mango,Mindanao,Resealable Bag,Online,Pickup,Cash,Grade B,149.54,190.41,73057.87,2024-07-07,2024-07-16
+Pineapple,Mindanao,Jar,Retail,Air Freight,Bank Transfer,Grade B,158.16,331.95,184535.39,2025-01-04,2025-01-09
+Coconut,Visayas,Jar,Retail,Pickup,Bank Transfer,Premium,375.79,128.15,108204.89,2024-09-06,2024-09-07
+Guava,Mindanao,Jar,Online,Air Freight,Bank Transfer,Premium,136.63,289.59,190160.25,2025-01-18,2025-01-27
+Jackfruit,Mindanao,Vacuum Pack,Retail,Sea Cargo,GCash,Premium,240.89,154.3,112173.3,2024-06-20,2024-07-03
+Guava,Visayas,Vacuum Pack,Wholesale,Air Freight,Credit Card,Premium,199.27,148.88,20310.93,2025-12-20,2026-01-01
+Mango,Mindanao,Resealable Bag,Distributor,Pickup,Credit Card,Grade B,333.6,262.9,13209.28,2024-09-14,2024-09-23
+Jackfruit,Luzon,Vacuum Pack,Retail,Air Freight,Bank Transfer,Premium,97.76,379.67,67256.63,2025-11-20,2025-11-22
+Guava,Visayas,Jar,Online,Air Freight,Credit Card,Grade A,290.06,165.01,84288.59,2024-03-29,2024-04-03
+Coconut,Luzon,Box,Distributor,Air Freight,GCash,Grade A,68.8,309.0,84875.52,2025-07-12,2025-07-17
+Banana,Luzon,Box,Wholesale,Pickup,GCash,Grade A,132.8,323.57,58020.94,2025-07-14,2025-07-16
+Coconut,Mindanao,Vacuum Pack,Online,Air Freight,Bank Transfer,Premium,80.31,152.41,147861.96,2024-04-27,2024-04-30
+Banana,Luzon,Resealable Bag,Retail,Courier,Cash,Grade A,193.0,268.71,127105.06,2025-05-13,2025-05-19
+Jackfruit,Luzon,Box,Distributor,Pickup,GCash,Grade A,190.95,379.27,145317.83,2024-11-09,2024-11-21
+Banana,Visayas,Resealable Bag,Distributor,Pickup,Credit Card,Grade B,211.43,220.81,114817.65,2025-10-18,2025-10-25
+Jackfruit,Luzon,Box,Wholesale,Sea Cargo,Bank Transfer,Premium,448.85,145.23,24325.99,2024-06-28,2024-07-09
+Jackfruit,Mindanao,Vacuum Pack,Online,Sea Cargo,Cash,Premium,167.28,415.02,112538.65,2024-01-20,2024-02-03
+Pineapple,Visayas,Jar,Wholesale,Courier,GCash,Grade B,275.51,149.88,79134.46,2025-10-31,2025-11-13
+Pineapple,Mindanao,Resealable Bag,Wholesale,Pickup,GCash,Grade A,304.86,306.72,175717.08,2024-01-11,2024-01-22
+Coconut,Visayas,Box,Retail,Sea Cargo,Credit Card,Grade A,78.29,241.91,18133.6,2024-05-29,2024-06-10
+Guava,Visayas,Jar,Online,Pickup,Cash,Grade A,491.27,226.94,143709.89,2024-07-30,2024-08-08
+Guava,Visayas,Box,Wholesale,Pickup,Credit Card,Grade B,314.46,416.41,24789.12,2025-06-17,2025-06-28
+Pineapple,Mindanao,Jar,Distributor,Courier,Credit Card,Grade B,449.23,122.18,177586.51,2024-09-14,2024-09-21
+Pineapple,Luzon,Box,Wholesale,Sea Cargo,GCash,Grade A,213.0,356.71,32482.74,2025-03-26,2025-03-29
+Guava,Visayas,Vacuum Pack,Online,Pickup,Credit Card,Grade A,315.86,333.6,88070.85,2024-08-23,2024-08-30
+Pineapple,Mindanao,Resealable Bag,Wholesale,Air Freight,GCash,Grade A,124.85,424.41,108161.73,2024-09-06,2024-09-07
+Jackfruit,Mindanao,Vacuum Pack,Distributor,Air Freight,GCash,Grade B,322.94,275.57,101517.0,2025-02-19,2025-03-01
+Papaya,Mindanao,Resealable Bag,Wholesale,Courier,GCash,Premium,358.52,424.38,123341.34,2024-08-12,2024-08-26
+Papaya,Visayas,Resealable Bag,Retail,Air Freight,GCash,Premium,436.82,286.44,89761.05,2024-03-11,2024-03-15
+Mango,Luzon,Jar,Retail,Air Freight,Cash,Grade B,346.73,417.65,112464.34,2024-06-02,2024-06-12
+Coconut,Mindanao,Jar,Online,Courier,Cash,Premium,288.42,195.73,162437.04,2024-01-02,2024-01-15
+Jackfruit,Mindanao,Vacuum Pack,Online,Sea Cargo,Bank Transfer,Grade B,394.64,420.33,25925.34,2025-01-25,2025-01-31
+Papaya,Visayas,Resealable Bag,Retail,Air Freight,Cash,Premium,53.24,336.0,140675.68,2025-09-04,2025-09-13
+Banana,Luzon,Resealable Bag,Online,Courier,Bank Transfer,Premium,240.6,240.66,62356.5,2024-11-19,2024-11-26
+Guava,Luzon,Jar,Online,Sea Cargo,Bank Transfer,Premium,299.71,203.75,68264.09,2025-11-27,2025-12-04
+Coconut,Visayas,Resealable Bag,Retail,Sea Cargo,Credit Card,Premium,477.16,153.09,106585.27,2024-12-18,2024-12-31
+Jackfruit,Mindanao,Vacuum Pack,Wholesale,Pickup,Cash,Grade A,420.46,275.65,124046.63,2024-12-12,2024-12-25
+Banana,Luzon,Box,Retail,Air Freight,Credit Card,Grade B,326.28,291.93,145205.11,2024-03-31,2024-04-02
+Guava,Luzon,Jar,Online,Air Freight,GCash,Premium,468.84,290.99,47001.83,2025-09-03,2025-09-04
+Jackfruit,Mindanao,Resealable Bag,Wholesale,Air Freight,Bank Transfer,Grade A,344.76,441.96,26500.13,2025-09-05,2025-09-14
+Papaya,Visayas,Jar,Online,Sea Cargo,Cash,Premium,366.63,423.33,114422.6,2024-10-09,2024-10-22
+Banana,Visayas,Box,Wholesale,Sea Cargo,Credit Card,Grade B,308.71,206.17,87355.58,2025-07-26,2025-08-05
+Mango,Mindanao,Box,Distributor,Air Freight,Bank Transfer,Premium,415.92,309.71,141896.45,2024-04-19,2024-04-28
+Papaya,Luzon,Box,Online,Pickup,Cash,Grade B,102.32,142.29,130395.74,2025-01-21,2025-01-31
+Coconut,Luzon,Box,Online,Courier,Cash,Premium,424.48,201.93,27671.79,2024-08-13,2024-08-24
+Guava,Visayas,Vacuum Pack,Wholesale,Pickup,Bank Transfer,Grade B,148.35,309.33,44729.05,2025-11-20,2025-12-02
+Papaya,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Bank Transfer,Grade A,153.14,395.53,168903.59,2025-11-30,2025-12-04
+Guava,Luzon,Vacuum Pack,Retail,Pickup,Cash,Premium,481.1,399.84,80527.34,2024-12-30,2025-01-02
+Jackfruit,Visayas,Jar,Wholesale,Courier,Credit Card,Grade A,387.58,162.32,109889.73,2024-11-18,2024-11-26
+Jackfruit,Luzon,Box,Online,Sea Cargo,Credit Card,Grade A,364.21,271.82,140950.0,2025-03-09,2025-03-17
+Pineapple,Visayas,Vacuum Pack,Distributor,Courier,Bank Transfer,Grade A,296.85,198.26,99555.62,2024-01-13,2024-01-24
+Banana,Luzon,Jar,Online,Sea Cargo,Credit Card,Premium,388.49,240.48,86112.59,2025-09-19,2025-09-25
+Jackfruit,Luzon,Resealable Bag,Retail,Courier,GCash,Premium,244.5,245.69,37710.31,2025-04-06,2025-04-09
+Guava,Luzon,Resealable Bag,Online,Pickup,GCash,Premium,282.65,357.78,159213.26,2024-06-02,2024-06-10
+Jackfruit,Mindanao,Vacuum Pack,Online,Air Freight,GCash,Grade A,146.96,203.92,169404.62,2024-11-03,2024-11-08
+Coconut,Visayas,Box,Distributor,Courier,Bank Transfer,Grade B,58.93,160.01,174800.03,2024-04-08,2024-04-16
+Jackfruit,Mindanao,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,279.7,375.67,94916.72,2025-09-12,2025-09-16
+Jackfruit,Visayas,Jar,Wholesale,Sea Cargo,Bank Transfer,Grade B,334.07,308.64,171291.15,2024-03-21,2024-03-28
+Pineapple,Visayas,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,170.36,332.73,61537.14,2024-03-14,2024-03-16
+Guava,Visayas,Jar,Online,Sea Cargo,GCash,Grade A,106.27,197.43,57812.93,2025-03-31,2025-04-13
+Mango,Luzon,Resealable Bag,Online,Air Freight,Cash,Grade A,471.56,276.15,20226.83,2025-12-18,2025-12-30
+Guava,Luzon,Vacuum Pack,Distributor,Sea Cargo,Cash,Premium,469.22,248.65,53577.63,2025-02-10,2025-02-19
+Coconut,Luzon,Resealable Bag,Wholesale,Air Freight,Cash,Premium,210.58,422.04,174205.82,2024-10-17,2024-10-25
+Jackfruit,Visayas,Jar,Wholesale,Sea Cargo,Credit Card,Premium,387.01,409.51,92645.7,2025-04-23,2025-05-07
+Jackfruit,Visayas,Box,Online,Sea Cargo,Cash,Grade B,188.54,256.03,39586.33,2025-10-17,2025-10-28
+Jackfruit,Luzon,Box,Distributor,Pickup,Cash,Premium,464.94,432.5,100642.74,2024-01-11,2024-01-12
+Papaya,Visayas,Resealable Bag,Retail,Courier,GCash,Grade B,446.97,264.25,57480.26,2024-01-10,2024-01-23
+Guava,Visayas,Resealable Bag,Distributor,Air Freight,Credit Card,Premium,157.8,372.3,182891.34,2025-10-23,2025-10-30
+Banana,Visayas,Box,Online,Sea Cargo,Cash,Grade A,111.48,156.42,96515.17,2025-12-11,2025-12-22
+Coconut,Mindanao,Jar,Wholesale,Courier,Cash,Grade A,72.33,296.54,45328.14,2025-04-08,2025-04-13
+Banana,Luzon,Jar,Retail,Sea Cargo,Cash,Grade A,56.63,191.67,89846.18,2024-04-14,2024-04-19
+Papaya,Mindanao,Vacuum Pack,Distributor,Air Freight,GCash,Grade A,169.93,249.5,113206.47,2025-05-25,2025-05-31
+Guava,Visayas,Jar,Retail,Air Freight,GCash,Grade B,397.05,266.18,150147.61,2024-07-04,2024-07-08
+Papaya,Mindanao,Vacuum Pack,Wholesale,Pickup,Credit Card,Premium,482.55,428.95,40136.17,2024-02-04,2024-02-08
+Jackfruit,Mindanao,Vacuum Pack,Distributor,Pickup,Bank Transfer,Grade A,212.19,137.19,136672.01,2024-02-13,2024-02-25
+Coconut,Visayas,Box,Retail,Sea Cargo,Bank Transfer,Premium,103.84,380.42,11696.67,2024-04-25,2024-04-29
+Guava,Mindanao,Jar,Wholesale,Courier,Cash,Grade A,120.96,150.16,127542.52,2024-02-13,2024-02-23
+Mango,Visayas,Resealable Bag,Retail,Sea Cargo,Credit Card,Grade A,192.53,304.26,132482.74,2025-10-02,2025-10-03
+Papaya,Mindanao,Resealable Bag,Retail,Pickup,Bank Transfer,Premium,110.63,416.56,102207.41,2024-12-21,2025-01-03
+Banana,Mindanao,Jar,Wholesale,Sea Cargo,Bank Transfer,Grade B,379.58,210.86,167956.42,2025-03-24,2025-04-02
+Mango,Mindanao,Resealable Bag,Online,Courier,Bank Transfer,Premium,215.2,120.24,131224.95,2025-07-21,2025-07-24
+Pineapple,Luzon,Box,Wholesale,Courier,Cash,Premium,485.22,390.29,46075.2,2025-01-23,2025-02-04
+Guava,Mindanao,Resealable Bag,Distributor,Courier,Credit Card,Premium,194.91,151.76,135189.3,2025-11-30,2025-12-08
+Pineapple,Luzon,Vacuum Pack,Wholesale,Air Freight,Credit Card,Grade A,94.44,308.43,168896.91,2024-02-14,2024-02-28
+Jackfruit,Mindanao,Box,Retail,Courier,GCash,Premium,373.03,124.32,184996.69,2025-11-04,2025-11-12
+Guava,Luzon,Jar,Retail,Courier,Credit Card,Grade B,407.41,139.24,127217.33,2025-11-02,2025-11-10
+Coconut,Luzon,Box,Retail,Sea Cargo,Cash,Grade A,376.33,295.45,45997.48,2025-06-25,2025-06-26
+Pineapple,Mindanao,Resealable Bag,Online,Air Freight,Bank Transfer,Premium,256.42,339.53,177736.56,2025-06-22,2025-07-03
+Pineapple,Mindanao,Jar,Distributor,Sea Cargo,Credit Card,Grade B,456.12,301.53,199401.56,2024-06-19,2024-07-02
+Guava,Mindanao,Jar,Distributor,Sea Cargo,GCash,Grade B,394.57,425.63,58276.93,2025-01-15,2025-01-22
+Papaya,Luzon,Vacuum Pack,Distributor,Air Freight,GCash,Grade B,52.96,444.85,50816.33,2025-04-08,2025-04-16
+Guava,Mindanao,Box,Wholesale,Air Freight,Cash,Grade B,210.05,165.67,79745.75,2024-11-18,2024-11-19
+Pineapple,Visayas,Box,Retail,Pickup,GCash,Premium,84.74,227.15,101681.3,2025-08-19,2025-08-23
+Coconut,Mindanao,Vacuum Pack,Distributor,Air Freight,Credit Card,Grade A,401.05,424.22,73534.03,2025-05-14,2025-05-28
+Guava,Luzon,Resealable Bag,Retail,Pickup,Cash,Grade B,285.97,225.37,117333.45,2025-03-20,2025-03-27
+Coconut,Luzon,Resealable Bag,Retail,Pickup,Credit Card,Premium,308.86,149.73,92067.78,2024-11-30,2024-12-09
+Pineapple,Visayas,Vacuum Pack,Online,Air Freight,Credit Card,Grade B,88.29,285.6,157026.78,2025-02-07,2025-02-10
+Pineapple,Visayas,Resealable Bag,Online,Pickup,GCash,Premium,327.2,362.77,56786.71,2024-05-13,2024-05-26
+Guava,Visayas,Box,Retail,Air Freight,Credit Card,Grade B,214.37,182.86,75459.73,2024-03-14,2024-03-19
+Guava,Visayas,Resealable Bag,Distributor,Pickup,GCash,Grade B,70.19,390.0,47940.19,2025-11-02,2025-11-03
+Guava,Mindanao,Vacuum Pack,Retail,Air Freight,GCash,Premium,467.03,406.69,165825.45,2025-01-17,2025-01-20
+Coconut,Luzon,Box,Online,Pickup,Cash,Grade B,144.05,297.54,48722.26,2024-01-15,2024-01-21
+Banana,Mindanao,Jar,Wholesale,Air Freight,Credit Card,Premium,457.72,293.84,58536.71,2025-06-19,2025-07-02
+Pineapple,Mindanao,Box,Retail,Pickup,Cash,Grade A,224.89,209.53,171895.76,2024-03-02,2024-03-07
+Guava,Luzon,Vacuum Pack,Distributor,Pickup,GCash,Grade B,278.84,354.2,181735.69,2025-11-06,2025-11-12
+Jackfruit,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Credit Card,Premium,466.86,127.09,57004.51,2025-05-11,2025-05-25
+Banana,Visayas,Jar,Wholesale,Air Freight,Bank Transfer,Premium,208.36,326.33,54878.91,2025-06-26,2025-07-01
+Guava,Luzon,Box,Online,Air Freight,Bank Transfer,Grade A,118.27,416.07,134817.03,2025-05-28,2025-06-02
+Papaya,Mindanao,Resealable Bag,Online,Sea Cargo,GCash,Grade B,486.74,420.21,72564.1,2024-03-30,2024-04-11
+Pineapple,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Bank Transfer,Premium,367.31,292.86,35697.97,2025-07-09,2025-07-12
+Jackfruit,Luzon,Box,Retail,Air Freight,GCash,Grade B,427.79,168.02,15601.84,2024-05-28,2024-06-08
+Papaya,Visayas,Jar,Distributor,Sea Cargo,GCash,Grade A,109.2,128.65,197331.56,2024-11-22,2024-11-29
+Jackfruit,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Cash,Grade B,85.76,377.34,35476.46,2025-09-23,2025-09-28
+Coconut,Mindanao,Box,Wholesale,Pickup,Credit Card,Grade B,111.88,183.78,16123.62,2025-09-11,2025-09-19
+Papaya,Luzon,Resealable Bag,Wholesale,Air Freight,GCash,Grade B,440.21,281.68,71730.17,2024-01-16,2024-01-21
+Papaya,Visayas,Vacuum Pack,Online,Courier,Credit Card,Premium,472.61,308.74,111870.28,2025-04-13,2025-04-17
+Guava,Luzon,Vacuum Pack,Online,Pickup,Cash,Grade A,283.42,250.55,149682.32,2025-10-18,2025-10-30
+Jackfruit,Mindanao,Vacuum Pack,Wholesale,Courier,Credit Card,Grade B,447.98,375.31,64323.77,2025-07-25,2025-08-01
+Banana,Mindanao,Vacuum Pack,Wholesale,Pickup,Credit Card,Grade A,375.19,157.35,157958.92,2024-06-19,2024-06-26
+Pineapple,Visayas,Jar,Distributor,Pickup,Cash,Grade A,254.16,415.88,180201.03,2025-12-13,2025-12-22
+Banana,Visayas,Resealable Bag,Retail,Air Freight,Cash,Premium,252.23,239.77,109525.29,2025-04-10,2025-04-12
+Guava,Mindanao,Resealable Bag,Online,Pickup,Cash,Grade A,460.51,306.61,135310.76,2025-01-28,2025-02-09
+Guava,Luzon,Resealable Bag,Retail,Pickup,Bank Transfer,Grade B,378.57,437.12,64868.3,2024-06-02,2024-06-05
+Pineapple,Luzon,Vacuum Pack,Distributor,Air Freight,Credit Card,Grade B,434.93,299.36,11092.6,2024-07-04,2024-07-06
+Pineapple,Mindanao,Jar,Online,Pickup,Credit Card,Grade A,320.55,122.17,177611.89,2025-05-20,2025-05-24
+Coconut,Mindanao,Resealable Bag,Retail,Sea Cargo,GCash,Grade A,343.97,132.12,172227.56,2024-10-11,2024-10-21
+Guava,Mindanao,Box,Distributor,Air Freight,Cash,Grade A,237.63,178.82,137697.19,2025-11-14,2025-11-24
+Coconut,Mindanao,Resealable Bag,Online,Courier,Cash,Grade A,395.83,226.53,180530.66,2025-09-17,2025-09-28
+Papaya,Mindanao,Vacuum Pack,Distributor,Pickup,GCash,Grade A,362.58,210.56,110140.02,2024-03-10,2024-03-23
+Coconut,Luzon,Vacuum Pack,Retail,Air Freight,Credit Card,Premium,359.89,428.18,197392.9,2025-06-21,2025-06-25
+Jackfruit,Visayas,Box,Distributor,Sea Cargo,Credit Card,Premium,378.13,284.25,163516.27,2024-10-21,2024-10-28
+Coconut,Visayas,Resealable Bag,Retail,Air Freight,Cash,Grade B,331.46,158.92,171133.26,2025-09-16,2025-09-20
+Papaya,Luzon,Box,Distributor,Sea Cargo,Cash,Premium,140.53,212.94,160137.15,2025-09-22,2025-09-29
+Jackfruit,Mindanao,Box,Retail,Air Freight,Bank Transfer,Grade B,228.22,307.74,192421.44,2024-11-11,2024-11-16
+Banana,Visayas,Jar,Online,Air Freight,GCash,Grade B,119.92,272.0,174392.63,2024-06-28,2024-07-02
+Guava,Visayas,Vacuum Pack,Distributor,Courier,Cash,Grade A,309.83,229.47,184075.43,2024-12-09,2024-12-17
+Pineapple,Visayas,Vacuum Pack,Distributor,Pickup,GCash,Premium,322.56,181.84,32200.48,2024-12-28,2024-12-30
+Guava,Visayas,Vacuum Pack,Distributor,Pickup,Cash,Grade B,444.67,242.62,167596.92,2024-11-11,2024-11-23
+Jackfruit,Visayas,Resealable Bag,Retail,Courier,Cash,Grade A,461.01,266.45,14737.61,2024-11-05,2024-11-09
+Pineapple,Luzon,Box,Online,Courier,Bank Transfer,Grade A,396.27,152.42,196631.96,2025-05-09,2025-05-18
+Pineapple,Luzon,Vacuum Pack,Online,Pickup,Cash,Grade A,189.94,134.53,171143.56,2025-06-12,2025-06-23
+Papaya,Luzon,Vacuum Pack,Distributor,Air Freight,Bank Transfer,Premium,451.46,225.89,46583.67,2024-03-30,2024-04-05
+Banana,Visayas,Vacuum Pack,Distributor,Sea Cargo,GCash,Grade B,101.51,436.24,116328.9,2024-10-10,2024-10-19
+Jackfruit,Visayas,Box,Distributor,Sea Cargo,Bank Transfer,Premium,160.17,143.51,126519.95,2024-04-14,2024-04-18
+Papaya,Luzon,Resealable Bag,Retail,Pickup,Cash,Grade A,222.62,148.42,84464.18,2024-12-12,2024-12-21
+Jackfruit,Mindanao,Jar,Distributor,Courier,Bank Transfer,Grade A,370.8,341.39,111362.14,2025-12-22,2026-01-01
+Pineapple,Luzon,Jar,Retail,Pickup,Bank Transfer,Premium,339.99,372.94,99403.72,2025-04-21,2025-05-01
+Guava,Mindanao,Box,Distributor,Pickup,GCash,Premium,462.77,229.01,173550.4,2024-08-17,2024-08-20
+Papaya,Luzon,Vacuum Pack,Online,Air Freight,Bank Transfer,Grade B,257.56,176.36,155908.89,2024-11-28,2024-12-06
+Pineapple,Mindanao,Vacuum Pack,Online,Air Freight,Bank Transfer,Premium,342.25,381.5,111221.66,2025-09-10,2025-09-20
+Papaya,Luzon,Resealable Bag,Wholesale,Pickup,Credit Card,Grade A,203.32,388.59,122284.34,2025-02-14,2025-02-24
+Guava,Visayas,Resealable Bag,Wholesale,Air Freight,Credit Card,Grade A,316.47,272.76,115466.66,2025-03-21,2025-03-31
+Banana,Visayas,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade B,340.25,140.29,51346.24,2025-03-31,2025-04-03
+Guava,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Credit Card,Premium,181.18,323.14,94960.36,2024-05-22,2024-06-01
+Banana,Visayas,Box,Online,Courier,Cash,Premium,53.65,445.52,86797.51,2024-07-29,2024-08-09
+Banana,Luzon,Box,Retail,Air Freight,Bank Transfer,Grade A,437.56,405.67,54695.82,2024-05-10,2024-05-24
+Papaya,Mindanao,Box,Online,Pickup,Credit Card,Grade B,295.3,338.62,100225.57,2025-12-20,2025-12-30
+Papaya,Visayas,Jar,Wholesale,Courier,GCash,Grade A,55.22,333.97,37359.22,2024-07-11,2024-07-20
+Papaya,Luzon,Vacuum Pack,Wholesale,Pickup,Credit Card,Premium,321.99,260.48,44161.5,2025-05-13,2025-05-24
+Jackfruit,Visayas,Jar,Distributor,Sea Cargo,GCash,Grade B,322.06,310.72,170892.74,2025-06-05,2025-06-12
+Jackfruit,Visayas,Jar,Distributor,Air Freight,Cash,Premium,267.47,241.63,120251.07,2024-08-30,2024-09-11
+Pineapple,Mindanao,Box,Online,Air Freight,Cash,Grade A,262.6,364.76,192478.1,2025-12-08,2025-12-10
+Coconut,Mindanao,Box,Retail,Courier,Cash,Grade B,254.32,419.0,119053.41,2024-03-20,2024-03-31
+Banana,Visayas,Box,Wholesale,Air Freight,Bank Transfer,Premium,403.26,205.95,129567.01,2024-12-05,2024-12-12
+Jackfruit,Luzon,Box,Retail,Courier,Credit Card,Grade A,107.07,145.36,158914.94,2025-08-15,2025-08-18
+Jackfruit,Visayas,Box,Distributor,Air Freight,Cash,Premium,128.58,315.28,38715.77,2024-09-15,2024-09-18
+Guava,Luzon,Box,Wholesale,Pickup,GCash,Premium,437.91,233.14,26036.28,2025-04-02,2025-04-08
+Guava,Luzon,Jar,Online,Pickup,GCash,Premium,248.08,330.4,50062.78,2024-05-28,2024-06-07
+Coconut,Visayas,Vacuum Pack,Retail,Sea Cargo,Credit Card,Grade B,264.3,277.17,190167.84,2024-12-19,2024-12-20
+Papaya,Mindanao,Jar,Online,Courier,GCash,Premium,441.62,123.91,186172.28,2025-06-29,2025-07-03
+Coconut,Visayas,Vacuum Pack,Retail,Courier,Credit Card,Premium,463.12,403.26,73643.81,2025-04-04,2025-04-11
+Mango,Visayas,Jar,Online,Sea Cargo,GCash,Premium,201.83,347.79,44184.16,2024-09-30,2024-10-13
+Coconut,Luzon,Vacuum Pack,Retail,Pickup,Cash,Premium,96.76,267.16,51689.1,2025-07-14,2025-07-15
+Pineapple,Luzon,Vacuum Pack,Retail,Air Freight,GCash,Premium,337.14,353.66,32795.65,2024-10-17,2024-10-22
+Papaya,Mindanao,Resealable Bag,Retail,Sea Cargo,Bank Transfer,Grade B,260.13,428.94,131368.3,2025-09-11,2025-09-14
+Papaya,Mindanao,Box,Distributor,Sea Cargo,Cash,Grade B,399.7,246.32,73204.4,2024-10-10,2024-10-23
+Guava,Visayas,Resealable Bag,Online,Air Freight,Credit Card,Grade A,324.64,178.89,103490.89,2024-03-02,2024-03-07
+Guava,Visayas,Resealable Bag,Retail,Pickup,Bank Transfer,Grade A,65.69,143.24,148233.58,2024-05-27,2024-06-05
+Papaya,Luzon,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade A,365.02,418.52,119181.65,2025-04-01,2025-04-02
+Guava,Visayas,Jar,Online,Pickup,Cash,Premium,151.63,246.86,140959.65,2025-06-11,2025-06-23
+Jackfruit,Mindanao,Box,Distributor,Courier,Credit Card,Grade A,334.52,436.41,27226.73,2025-05-08,2025-05-10
+Banana,Luzon,Jar,Distributor,Sea Cargo,GCash,Premium,67.7,246.77,46290.6,2025-07-01,2025-07-15
+Mango,Mindanao,Box,Online,Air Freight,Credit Card,Premium,135.26,131.78,14819.28,2025-12-13,2025-12-20
+Papaya,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Grade A,66.67,138.5,159677.92,2025-08-30,2025-09-03
+Mango,Luzon,Jar,Wholesale,Sea Cargo,Cash,Grade A,380.96,281.34,13621.97,2024-02-13,2024-02-20
+Pineapple,Mindanao,Resealable Bag,Retail,Sea Cargo,Cash,Grade B,419.33,152.11,126132.92,2025-09-25,2025-09-26
+Guava,Luzon,Vacuum Pack,Online,Sea Cargo,Cash,Grade A,241.8,387.8,196616.62,2025-08-28,2025-08-30
+Banana,Luzon,Resealable Bag,Distributor,Sea Cargo,Cash,Premium,128.05,140.86,62039.74,2025-11-25,2025-12-02
+Coconut,Visayas,Resealable Bag,Online,Sea Cargo,Cash,Grade A,94.99,399.63,126363.89,2025-03-01,2025-03-04
+Papaya,Luzon,Vacuum Pack,Retail,Sea Cargo,Cash,Premium,343.29,412.68,89082.23,2024-06-10,2024-06-11
+Pineapple,Luzon,Resealable Bag,Distributor,Pickup,Credit Card,Grade A,472.14,321.48,17148.03,2025-05-02,2025-05-14
+Papaya,Mindanao,Vacuum Pack,Distributor,Courier,Credit Card,Grade A,300.97,183.33,197454.67,2024-07-03,2024-07-15
+Banana,Mindanao,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade A,137.17,382.88,140196.31,2024-04-07,2024-04-17
+Pineapple,Luzon,Vacuum Pack,Retail,Courier,Bank Transfer,Grade A,245.6,230.32,162979.2,2025-04-30,2025-05-08
+Mango,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Cash,Grade B,281.71,143.38,54706.97,2025-04-09,2025-04-10
+Jackfruit,Visayas,Jar,Wholesale,Courier,GCash,Grade A,196.76,152.36,150172.09,2025-03-31,2025-04-10
+Pineapple,Luzon,Jar,Online,Air Freight,Credit Card,Grade A,147.27,321.11,43831.55,2024-07-23,2024-07-30
+Papaya,Mindanao,Resealable Bag,Distributor,Courier,GCash,Grade B,107.25,348.43,21333.83,2025-01-17,2025-01-20
+Guava,Visayas,Jar,Online,Sea Cargo,Bank Transfer,Grade A,448.88,319.2,160013.92,2024-05-19,2024-05-21
+Pineapple,Mindanao,Resealable Bag,Retail,Pickup,Credit Card,Grade A,316.21,396.21,63042.47,2025-10-15,2025-10-25
+Guava,Luzon,Resealable Bag,Distributor,Pickup,GCash,Premium,475.81,421.54,180667.84,2025-03-14,2025-03-26
+Mango,Visayas,Vacuum Pack,Online,Pickup,Credit Card,Premium,419.58,269.31,55697.18,2025-03-03,2025-03-04
+Mango,Mindanao,Jar,Wholesale,Sea Cargo,Bank Transfer,Grade B,157.58,449.65,13026.73,2025-07-25,2025-08-07
+Pineapple,Mindanao,Jar,Retail,Pickup,Credit Card,Grade A,443.39,253.77,160073.16,2025-11-16,2025-11-21
+Papaya,Mindanao,Vacuum Pack,Retail,Pickup,Bank Transfer,Premium,64.72,260.55,61259.98,2025-01-14,2025-01-25
+Jackfruit,Luzon,Vacuum Pack,Distributor,Air Freight,Bank Transfer,Grade A,99.93,240.64,127635.36,2025-09-19,2025-09-28
+Pineapple,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Bank Transfer,Grade A,292.84,334.18,150102.21,2025-01-09,2025-01-15
+Coconut,Luzon,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,356.1,211.46,22040.14,2025-08-17,2025-08-31
+Papaya,Mindanao,Vacuum Pack,Online,Courier,Credit Card,Premium,215.67,342.19,141712.39,2024-12-19,2024-12-27
+Papaya,Luzon,Vacuum Pack,Online,Sea Cargo,Bank Transfer,Grade A,99.21,211.06,142445.6,2024-03-08,2024-03-12
+Guava,Luzon,Vacuum Pack,Distributor,Pickup,GCash,Grade B,206.02,266.47,132490.04,2025-05-23,2025-05-26
+Mango,Luzon,Resealable Bag,Distributor,Pickup,Bank Transfer,Premium,340.72,227.68,122737.88,2024-10-25,2024-10-29
+Guava,Mindanao,Jar,Online,Courier,GCash,Grade B,127.28,205.8,102006.19,2025-12-14,2025-12-23
+Guava,Luzon,Resealable Bag,Distributor,Courier,Credit Card,Grade A,328.38,173.06,111710.17,2024-10-22,2024-11-04
+Guava,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Cash,Grade A,497.2,309.59,93768.84,2024-07-05,2024-07-08
+Pineapple,Mindanao,Vacuum Pack,Distributor,Courier,GCash,Grade B,251.79,441.9,111392.16,2025-01-13,2025-01-16
+Papaya,Visayas,Resealable Bag,Online,Courier,GCash,Grade A,486.57,300.23,106407.72,2024-05-04,2024-05-05
+Banana,Visayas,Box,Wholesale,Pickup,Bank Transfer,Premium,100.54,278.06,17615.37,2025-10-24,2025-11-05
+Mango,Visayas,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade B,91.62,138.16,131849.4,2025-11-25,2025-12-04
+Pineapple,Visayas,Resealable Bag,Retail,Air Freight,Credit Card,Premium,352.2,148.83,107239.63,2025-08-20,2025-08-29
+Banana,Mindanao,Vacuum Pack,Distributor,Pickup,GCash,Premium,434.21,241.98,80837.92,2024-07-18,2024-07-26
+Banana,Visayas,Jar,Retail,Sea Cargo,Credit Card,Premium,496.67,385.22,64840.46,2024-10-18,2024-10-24
+Papaya,Luzon,Vacuum Pack,Wholesale,Sea Cargo,Bank Transfer,Grade B,494.77,293.35,73729.18,2025-03-10,2025-03-22
+Papaya,Luzon,Vacuum Pack,Online,Courier,Credit Card,Grade A,300.12,354.38,153496.31,2025-08-27,2025-09-09
+Pineapple,Visayas,Box,Online,Air Freight,Bank Transfer,Premium,186.76,304.56,98055.85,2024-05-20,2024-05-24
+Mango,Luzon,Box,Distributor,Pickup,Cash,Premium,349.66,214.94,44080.74,2024-01-28,2024-02-10
+Pineapple,Luzon,Vacuum Pack,Distributor,Pickup,Cash,Premium,385.5,311.75,117459.17,2025-12-05,2025-12-16
+Coconut,Visayas,Vacuum Pack,Distributor,Air Freight,Bank Transfer,Grade A,311.74,168.23,97598.35,2024-09-21,2024-10-02
+Banana,Luzon,Vacuum Pack,Distributor,Courier,Credit Card,Premium,460.45,237.47,65072.68,2025-12-10,2025-12-13
+Mango,Mindanao,Resealable Bag,Wholesale,Air Freight,GCash,Premium,195.17,224.35,170549.03,2025-06-26,2025-07-07
+Coconut,Mindanao,Box,Retail,Courier,GCash,Grade A,111.63,212.87,157973.49,2024-11-04,2024-11-09
+Pineapple,Luzon,Resealable Bag,Wholesale,Sea Cargo,GCash,Premium,326.04,394.37,109874.04,2025-02-25,2025-03-03
+Jackfruit,Mindanao,Vacuum Pack,Online,Pickup,Cash,Grade A,418.48,424.73,101108.46,2025-06-28,2025-07-10
+Banana,Luzon,Jar,Distributor,Sea Cargo,Bank Transfer,Grade A,385.01,159.14,34455.75,2024-11-15,2024-11-27
+Coconut,Luzon,Box,Wholesale,Sea Cargo,GCash,Grade A,241.16,371.8,31227.22,2025-12-11,2025-12-14
+Papaya,Visayas,Vacuum Pack,Wholesale,Air Freight,Cash,Premium,281.07,139.56,32595.22,2024-01-20,2024-02-02
+Mango,Visayas,Vacuum Pack,Retail,Air Freight,GCash,Premium,455.53,180.98,76791.4,2024-09-16,2024-09-17
+Guava,Mindanao,Box,Distributor,Courier,GCash,Premium,401.36,322.28,105932.75,2024-04-02,2024-04-05
+Guava,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Bank Transfer,Grade A,455.75,297.25,194980.18,2024-03-10,2024-03-12
+Jackfruit,Mindanao,Jar,Distributor,Sea Cargo,Credit Card,Premium,480.99,179.68,77416.25,2024-04-11,2024-04-15
+Pineapple,Mindanao,Resealable Bag,Online,Air Freight,Bank Transfer,Grade A,259.66,291.51,104205.04,2025-01-23,2025-01-30
+Banana,Mindanao,Vacuum Pack,Retail,Courier,Credit Card,Grade A,223.15,270.79,149873.14,2025-01-04,2025-01-16
+Papaya,Luzon,Jar,Distributor,Pickup,GCash,Grade A,452.64,384.8,188425.58,2025-12-04,2025-12-18
+Mango,Mindanao,Jar,Retail,Pickup,Credit Card,Premium,346.35,148.05,37239.84,2025-01-11,2025-01-14
+Jackfruit,Luzon,Resealable Bag,Retail,Courier,GCash,Grade B,140.12,398.53,86814.92,2025-02-14,2025-02-26
+Papaya,Mindanao,Jar,Distributor,Courier,Credit Card,Grade B,264.12,319.04,86844.28,2024-08-26,2024-09-09
+Banana,Luzon,Jar,Retail,Air Freight,Bank Transfer,Grade B,273.77,327.36,35575.59,2025-05-11,2025-05-20
+Mango,Luzon,Jar,Retail,Sea Cargo,Credit Card,Premium,355.64,170.4,128173.68,2024-04-11,2024-04-23
+Mango,Mindanao,Jar,Online,Sea Cargo,Bank Transfer,Premium,274.05,286.58,113063.24,2024-04-08,2024-04-21
+Mango,Luzon,Jar,Retail,Pickup,Credit Card,Grade B,433.79,266.04,16836.41,2025-07-07,2025-07-16
+Coconut,Visayas,Resealable Bag,Online,Pickup,GCash,Grade B,372.08,280.86,30782.58,2024-06-30,2024-07-09
+Coconut,Mindanao,Jar,Online,Sea Cargo,Cash,Grade B,168.53,315.04,81781.56,2025-11-22,2025-11-30
+Guava,Visayas,Box,Retail,Air Freight,Cash,Grade A,426.62,235.13,150990.86,2025-11-23,2025-11-29
+Coconut,Visayas,Jar,Retail,Pickup,Bank Transfer,Grade B,235.37,138.63,56403.49,2024-01-28,2024-02-10
+Banana,Mindanao,Vacuum Pack,Retail,Courier,Cash,Grade B,126.4,297.68,17101.75,2024-08-28,2024-09-08
+Papaya,Mindanao,Jar,Distributor,Air Freight,Credit Card,Premium,60.01,224.45,118367.17,2025-11-04,2025-11-18
+Mango,Visayas,Vacuum Pack,Wholesale,Courier,Credit Card,Premium,415.16,340.24,41659.17,2024-11-26,2024-12-06
+Papaya,Luzon,Jar,Retail,Sea Cargo,Bank Transfer,Grade B,71.39,448.76,86385.2,2024-11-02,2024-11-08
+Coconut,Luzon,Vacuum Pack,Distributor,Courier,Cash,Premium,410.53,276.84,49850.44,2024-08-19,2024-08-29
+Guava,Visayas,Box,Online,Courier,GCash,Grade B,231.04,326.24,96113.44,2024-03-19,2024-03-30
+Mango,Mindanao,Resealable Bag,Online,Sea Cargo,Credit Card,Grade B,471.72,295.8,126740.24,2025-07-14,2025-07-17
+Coconut,Mindanao,Vacuum Pack,Wholesale,Courier,Credit Card,Grade A,158.17,366.32,155450.72,2025-03-20,2025-03-30
+Banana,Luzon,Resealable Bag,Online,Courier,Bank Transfer,Premium,122.26,346.66,54864.67,2025-03-21,2025-03-28
+Pineapple,Luzon,Vacuum Pack,Wholesale,Courier,Credit Card,Grade B,301.92,263.92,132915.19,2024-09-01,2024-09-03
+Pineapple,Visayas,Resealable Bag,Retail,Courier,Bank Transfer,Premium,297.82,332.62,18024.15,2024-02-07,2024-02-11
+Mango,Luzon,Vacuum Pack,Distributor,Courier,Cash,Grade B,453.55,341.65,178286.68,2025-05-12,2025-05-25
+Coconut,Luzon,Resealable Bag,Retail,Air Freight,Bank Transfer,Grade B,448.05,198.57,33232.6,2025-02-10,2025-02-24
+Guava,Mindanao,Jar,Wholesale,Pickup,GCash,Grade A,98.07,190.66,62163.99,2024-11-16,2024-11-22
+Guava,Mindanao,Vacuum Pack,Online,Courier,Cash,Grade B,295.59,276.7,56805.87,2025-02-22,2025-02-27
+Pineapple,Visayas,Jar,Distributor,Courier,Cash,Premium,485.06,319.92,169879.86,2024-10-11,2024-10-24
+Mango,Mindanao,Resealable Bag,Distributor,Pickup,Bank Transfer,Premium,481.32,239.74,164327.56,2025-11-09,2025-11-22
+Guava,Luzon,Jar,Online,Air Freight,Credit Card,Grade B,185.4,428.99,153766.91,2024-05-04,2024-05-13
+Guava,Luzon,Jar,Distributor,Pickup,Cash,Grade B,439.9,391.66,188694.13,2024-10-31,2024-11-04
+Papaya,Visayas,Jar,Retail,Sea Cargo,Bank Transfer,Premium,79.87,258.89,148554.0,2025-04-27,2025-05-09
+Banana,Visayas,Vacuum Pack,Retail,Sea Cargo,Credit Card,Premium,111.24,252.22,129376.29,2025-07-14,2025-07-26
+Mango,Luzon,Resealable Bag,Wholesale,Sea Cargo,Credit Card,Grade B,253.17,408.26,35366.86,2024-11-17,2024-11-27
+Jackfruit,Visayas,Box,Wholesale,Air Freight,Credit Card,Grade B,131.85,409.21,189503.86,2024-06-26,2024-07-07
+Mango,Luzon,Resealable Bag,Retail,Pickup,GCash,Grade B,365.57,175.69,86196.63,2025-08-07,2025-08-11
+Banana,Luzon,Vacuum Pack,Distributor,Sea Cargo,Cash,Grade A,373.36,263.6,184797.92,2025-03-15,2025-03-25
+Coconut,Visayas,Vacuum Pack,Wholesale,Sea Cargo,GCash,Grade B,179.58,283.08,34737.87,2025-04-09,2025-04-23
+Pineapple,Visayas,Resealable Bag,Online,Sea Cargo,Credit Card,Grade A,62.95,442.12,54742.27,2024-07-30,2024-08-09
+Banana,Mindanao,Jar,Retail,Air Freight,Credit Card,Grade A,442.15,441.55,85535.4,2025-04-06,2025-04-10
+Papaya,Mindanao,Jar,Distributor,Air Freight,Cash,Premium,76.44,229.84,54619.87,2024-08-05,2024-08-17
+Coconut,Mindanao,Vacuum Pack,Retail,Courier,Credit Card,Grade B,489.89,341.52,35125.27,2024-12-28,2025-01-07
+Jackfruit,Luzon,Box,Wholesale,Pickup,Bank Transfer,Grade B,109.36,224.71,110780.52,2025-07-26,2025-07-27
+Mango,Visayas,Vacuum Pack,Wholesale,Pickup,Bank Transfer,Premium,212.27,261.93,181530.61,2024-05-25,2024-05-30
+Guava,Visayas,Box,Online,Sea Cargo,Bank Transfer,Premium,497.55,372.01,38740.3,2024-09-26,2024-10-06
+Guava,Visayas,Vacuum Pack,Wholesale,Sea Cargo,Cash,Grade A,132.41,275.18,41075.44,2025-11-04,2025-11-15
+Mango,Visayas,Vacuum Pack,Online,Courier,Credit Card,Grade B,271.84,399.13,174707.07,2025-04-23,2025-04-30
+Mango,Luzon,Box,Wholesale,Sea Cargo,Bank Transfer,Premium,450.9,313.27,120874.0,2024-05-06,2024-05-12
+Guava,Mindanao,Resealable Bag,Online,Air Freight,GCash,Grade B,354.61,412.83,14932.81,2024-01-05,2024-01-14
+Mango,Visayas,Box,Retail,Courier,GCash,Grade A,86.48,394.13,135312.47,2025-11-28,2025-12-09
+Banana,Mindanao,Vacuum Pack,Distributor,Air Freight,Credit Card,Grade B,476.34,449.94,182306.89,2025-04-09,2025-04-20
+Pineapple,Luzon,Box,Distributor,Air Freight,Cash,Premium,478.36,245.86,85783.11,2025-08-05,2025-08-08
+Guava,Visayas,Vacuum Pack,Retail,Sea Cargo,GCash,Grade B,400.77,214.03,152986.13,2024-07-01,2024-07-05
+Mango,Visayas,Jar,Online,Courier,GCash,Grade B,349.48,394.58,107404.11,2025-10-31,2025-11-03
+Papaya,Visayas,Box,Online,Air Freight,Credit Card,Grade B,326.24,263.25,90943.25,2025-05-16,2025-05-24
+Banana,Visayas,Resealable Bag,Wholesale,Pickup,Cash,Grade B,260.7,146.13,162293.49,2024-02-11,2024-02-20
+Pineapple,Mindanao,Box,Wholesale,Pickup,Bank Transfer,Premium,71.48,145.26,18568.03,2024-11-03,2024-11-06
+Papaya,Visayas,Vacuum Pack,Online,Courier,Bank Transfer,Grade B,313.51,373.65,13091.05,2024-04-20,2024-04-29
+Pineapple,Luzon,Jar,Retail,Air Freight,Credit Card,Premium,183.94,313.78,96449.65,2025-11-08,2025-11-16
+Jackfruit,Visayas,Box,Wholesale,Sea Cargo,GCash,Grade A,386.16,319.34,175607.0,2025-11-17,2025-11-25
+Jackfruit,Luzon,Vacuum Pack,Online,Air Freight,Cash,Grade A,345.11,271.85,86967.4,2024-04-18,2024-04-25
+Jackfruit,Mindanao,Jar,Distributor,Courier,Credit Card,Grade B,89.44,164.59,46252.4,2025-11-04,2025-11-16
+Pineapple,Luzon,Resealable Bag,Online,Sea Cargo,GCash,Grade B,428.94,403.2,112330.68,2024-01-17,2024-01-29
+Guava,Visayas,Resealable Bag,Online,Pickup,Cash,Grade A,124.75,170.3,143493.64,2024-03-29,2024-04-03
+Mango,Visayas,Resealable Bag,Wholesale,Courier,Credit Card,Grade A,200.23,153.88,171049.61,2025-05-11,2025-05-19
+Guava,Visayas,Box,Retail,Pickup,Credit Card,Grade B,281.01,359.12,187703.38,2025-03-18,2025-03-25
+Coconut,Luzon,Vacuum Pack,Online,Courier,Cash,Grade B,451.79,257.66,99934.21,2025-05-14,2025-05-18
+Coconut,Visayas,Jar,Online,Air Freight,GCash,Grade B,376.79,274.85,93241.03,2025-05-21,2025-05-31
+Jackfruit,Mindanao,Box,Online,Sea Cargo,Bank Transfer,Premium,370.12,436.74,168285.34,2025-06-03,2025-06-07
+Coconut,Visayas,Jar,Wholesale,Sea Cargo,Bank Transfer,Premium,387.16,340.13,34528.35,2025-11-20,2025-12-01
+Jackfruit,Visayas,Vacuum Pack,Online,Pickup,Bank Transfer,Grade A,144.24,135.53,13444.81,2024-07-23,2024-07-26
+Coconut,Luzon,Resealable Bag,Retail,Air Freight,Bank Transfer,Grade B,101.29,194.81,116776.48,2024-09-24,2024-09-30
+Banana,Visayas,Vacuum Pack,Distributor,Sea Cargo,Cash,Premium,72.69,432.27,161807.51,2025-05-13,2025-05-18
+Guava,Mindanao,Vacuum Pack,Retail,Air Freight,GCash,Premium,103.13,187.78,78711.3,2024-04-23,2024-04-25
+Papaya,Mindanao,Jar,Retail,Sea Cargo,Bank Transfer,Grade B,418.62,160.58,48359.16,2024-10-26,2024-11-07
+Guava,Luzon,Resealable Bag,Online,Courier,Bank Transfer,Premium,127.07,207.79,145887.95,2025-03-01,2025-03-14
+Coconut,Mindanao,Resealable Bag,Wholesale,Pickup,GCash,Grade A,410.8,256.43,87768.77,2025-02-28,2025-03-06
+Jackfruit,Mindanao,Box,Retail,Pickup,GCash,Grade A,372.93,290.73,23220.43,2025-04-14,2025-04-28
+Papaya,Luzon,Jar,Retail,Pickup,Cash,Premium,465.13,169.81,119165.88,2024-12-12,2024-12-18
+Guava,Mindanao,Box,Online,Pickup,Bank Transfer,Premium,384.21,420.05,11501.42,2025-10-08,2025-10-20
+Jackfruit,Luzon,Jar,Online,Sea Cargo,Credit Card,Premium,205.36,387.9,133263.83,2024-10-13,2024-10-22
+Mango,Luzon,Box,Online,Sea Cargo,Bank Transfer,Grade A,91.77,302.09,109053.81,2024-07-21,2024-07-26
+Mango,Luzon,Box,Wholesale,Courier,Credit Card,Premium,99.7,139.78,80865.98,2025-10-12,2025-10-15
+Banana,Luzon,Vacuum Pack,Retail,Pickup,Bank Transfer,Premium,381.59,269.54,196760.61,2025-10-04,2025-10-13
+Coconut,Mindanao,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,403.16,355.9,137762.42,2025-08-18,2025-08-28
+Coconut,Luzon,Vacuum Pack,Distributor,Sea Cargo,Bank Transfer,Grade B,94.09,354.84,167403.15,2025-01-21,2025-01-30
+Mango,Visayas,Resealable Bag,Online,Sea Cargo,Credit Card,Grade A,216.18,293.66,121765.5,2024-03-24,2024-03-26
+Papaya,Visayas,Jar,Online,Pickup,Credit Card,Premium,487.97,391.86,37425.77,2025-06-15,2025-06-28
+Coconut,Visayas,Resealable Bag,Retail,Sea Cargo,Credit Card,Grade B,64.67,171.76,116215.07,2024-05-10,2024-05-18
+Guava,Visayas,Vacuum Pack,Retail,Courier,Bank Transfer,Grade A,285.25,158.85,67935.67,2024-05-01,2024-05-11
+Banana,Visayas,Vacuum Pack,Wholesale,Sea Cargo,Credit Card,Grade A,471.57,220.7,63861.64,2025-01-18,2025-01-23
+Coconut,Visayas,Vacuum Pack,Retail,Courier,Cash,Grade A,237.91,309.11,117495.16,2024-07-06,2024-07-20
+Papaya,Visayas,Resealable Bag,Wholesale,Pickup,Credit Card,Premium,252.08,405.89,71791.09,2024-12-11,2024-12-24
+Jackfruit,Visayas,Jar,Wholesale,Pickup,Bank Transfer,Premium,70.62,341.25,94188.28,2025-10-01,2025-10-12
+Mango,Luzon,Vacuum Pack,Distributor,Air Freight,Cash,Grade A,479.83,298.81,153946.88,2024-10-11,2024-10-22
+Pineapple,Visayas,Vacuum Pack,Retail,Sea Cargo,Cash,Grade B,404.04,200.94,144067.36,2025-08-06,2025-08-15
+Mango,Mindanao,Box,Online,Air Freight,Credit Card,Grade A,202.98,179.57,14570.82,2025-08-16,2025-08-24
+Papaya,Visayas,Vacuum Pack,Retail,Air Freight,GCash,Grade B,114.82,204.33,27029.43,2025-06-24,2025-06-30
+Coconut,Luzon,Vacuum Pack,Distributor,Sea Cargo,Cash,Premium,76.33,248.68,70807.88,2024-11-10,2024-11-17
+Banana,Visayas,Vacuum Pack,Retail,Sea Cargo,GCash,Premium,313.71,282.68,152954.1,2025-02-26,2025-03-04
+Banana,Luzon,Box,Online,Pickup,Cash,Grade B,63.01,329.07,183609.67,2025-01-29,2025-01-31
+Jackfruit,Mindanao,Vacuum Pack,Wholesale,Sea Cargo,Bank Transfer,Premium,233.04,147.69,130801.81,2024-01-20,2024-01-25
+Pineapple,Visayas,Resealable Bag,Wholesale,Pickup,Credit Card,Grade A,50.45,273.34,167580.64,2024-07-27,2024-08-09
+Pineapple,Luzon,Vacuum Pack,Online,Courier,Bank Transfer,Premium,221.07,235.97,130119.32,2024-10-23,2024-11-03
+Jackfruit,Visayas,Vacuum Pack,Wholesale,Air Freight,Bank Transfer,Grade A,227.89,160.58,36533.55,2025-08-22,2025-09-05
+Papaya,Luzon,Box,Distributor,Courier,Credit Card,Grade B,160.67,444.4,74909.66,2025-07-23,2025-07-28
+Banana,Luzon,Resealable Bag,Retail,Pickup,Cash,Grade A,352.72,256.34,180100.95,2025-04-15,2025-04-25
+Guava,Visayas,Vacuum Pack,Retail,Air Freight,Credit Card,Premium,105.54,440.77,81511.53,2025-12-21,2025-12-29
+Papaya,Luzon,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade A,250.06,193.1,13758.52,2025-09-07,2025-09-13
+Coconut,Visayas,Resealable Bag,Retail,Courier,GCash,Grade A,491.05,439.21,16991.25,2024-10-14,2024-10-25
+Coconut,Mindanao,Resealable Bag,Retail,Sea Cargo,Credit Card,Grade A,441.46,307.8,103862.15,2025-05-19,2025-05-31
+Coconut,Mindanao,Resealable Bag,Retail,Sea Cargo,Cash,Grade A,166.83,308.07,53313.38,2025-07-19,2025-07-23
+Guava,Visayas,Resealable Bag,Retail,Courier,Credit Card,Grade A,472.05,331.52,189184.1,2025-06-19,2025-07-01
+Banana,Visayas,Jar,Distributor,Air Freight,Credit Card,Grade B,212.66,370.48,177922.46,2024-02-23,2024-03-08
+Banana,Visayas,Jar,Distributor,Air Freight,Credit Card,Grade A,200.62,410.43,163457.85,2024-08-17,2024-08-18
+Papaya,Luzon,Resealable Bag,Wholesale,Sea Cargo,Bank Transfer,Grade B,78.28,326.35,15295.82,2024-08-19,2024-08-31
+Mango,Mindanao,Box,Distributor,Sea Cargo,Cash,Grade B,157.26,232.46,20342.24,2025-03-18,2025-03-31
+Guava,Luzon,Vacuum Pack,Online,Air Freight,Credit Card,Premium,106.17,441.59,184175.73,2024-12-07,2024-12-16
+Guava,Mindanao,Vacuum Pack,Wholesale,Air Freight,Credit Card,Grade A,185.66,326.64,22500.15,2025-01-21,2025-01-27
+Jackfruit,Luzon,Box,Online,Pickup,Cash,Premium,388.38,196.93,123919.41,2025-11-24,2025-11-25
+Mango,Visayas,Jar,Online,Pickup,Cash,Grade B,342.91,343.01,14934.7,2025-11-06,2025-11-16
+Jackfruit,Luzon,Vacuum Pack,Retail,Air Freight,Cash,Premium,405.24,183.89,118910.31,2025-06-13,2025-06-19
+Banana,Visayas,Jar,Online,Pickup,GCash,Grade A,111.95,134.54,34259.34,2025-10-14,2025-10-23
+Jackfruit,Mindanao,Box,Distributor,Sea Cargo,GCash,Grade B,188.9,233.16,80077.7,2025-08-21,2025-08-28
+Jackfruit,Mindanao,Resealable Bag,Retail,Sea Cargo,Cash,Grade B,204.72,442.25,131705.41,2024-01-09,2024-01-18
+Mango,Visayas,Resealable Bag,Online,Pickup,Bank Transfer,Premium,304.74,230.77,66930.0,2024-07-25,2024-08-07
+Mango,Visayas,Vacuum Pack,Online,Sea Cargo,Cash,Premium,150.36,195.99,128544.8,2024-12-02,2024-12-05
+Coconut,Visayas,Jar,Wholesale,Pickup,GCash,Grade A,213.27,144.33,15703.34,2024-09-01,2024-09-09
+Banana,Visayas,Resealable Bag,Distributor,Air Freight,Cash,Grade A,139.02,177.47,178222.62,2024-04-27,2024-04-30
+Guava,Mindanao,Resealable Bag,Wholesale,Sea Cargo,Cash,Grade A,429.3,420.51,13988.81,2024-06-27,2024-07-03
+Papaya,Mindanao,Vacuum Pack,Distributor,Sea Cargo,Bank Transfer,Grade B,158.07,387.13,135572.66,2025-11-24,2025-11-27
+Jackfruit,Visayas,Vacuum Pack,Retail,Sea Cargo,GCash,Grade A,136.26,244.8,81108.51,2025-06-23,2025-07-06
+Coconut,Luzon,Vacuum Pack,Wholesale,Courier,GCash,Grade B,161.23,327.72,63213.93,2025-09-05,2025-09-12
+Jackfruit,Mindanao,Jar,Wholesale,Air Freight,Credit Card,Premium,326.7,175.25,83742.01,2024-05-09,2024-05-23
+Jackfruit,Visayas,Jar,Online,Sea Cargo,Bank Transfer,Premium,218.25,349.19,145973.48,2025-10-22,2025-11-04
+Banana,Mindanao,Jar,Retail,Sea Cargo,GCash,Grade A,253.44,197.35,51532.81,2025-05-21,2025-05-29
+Jackfruit,Luzon,Box,Distributor,Air Freight,GCash,Grade A,182.77,291.21,53733.74,2025-03-11,2025-03-18
+Jackfruit,Mindanao,Box,Online,Pickup,Credit Card,Grade B,234.03,385.49,70233.88,2024-02-12,2024-02-20
+Pineapple,Visayas,Resealable Bag,Distributor,Air Freight,Bank Transfer,Grade A,182.53,285.58,113863.86,2025-01-26,2025-01-27
+Banana,Luzon,Vacuum Pack,Retail,Air Freight,Bank Transfer,Grade A,295.71,230.14,138270.39,2024-03-21,2024-04-03
+Coconut,Mindanao,Box,Wholesale,Sea Cargo,Bank Transfer,Grade A,396.53,213.01,75860.15,2024-09-13,2024-09-18
+Guava,Mindanao,Vacuum Pack,Online,Sea Cargo,Credit Card,Grade A,152.12,367.22,100143.27,2025-02-17,2025-02-24
+Guava,Mindanao,Jar,Online,Courier,Cash,Grade B,430.61,261.5,188966.66,2025-06-12,2025-06-22
+Papaya,Visayas,Vacuum Pack,Distributor,Sea Cargo,GCash,Grade B,474.51,123.19,163976.26,2025-03-03,2025-03-07
+Pineapple,Visayas,Jar,Online,Courier,Bank Transfer,Premium,60.46,379.17,185207.4,2024-12-29,2025-01-04
+Jackfruit,Mindanao,Jar,Online,Sea Cargo,Credit Card,Grade A,290.52,182.15,30641.29,2024-06-06,2024-06-12
+Coconut,Visayas,Vacuum Pack,Wholesale,Air Freight,GCash,Grade A,421.91,319.11,15099.32,2025-08-06,2025-08-14
+Papaya,Visayas,Resealable Bag,Wholesale,Courier,Cash,Grade B,75.85,291.12,42646.89,2024-07-22,2024-07-24
+Pineapple,Luzon,Resealable Bag,Online,Pickup,Cash,Grade B,479.79,405.68,34687.13,2025-02-24,2025-03-03
+Papaya,Mindanao,Jar,Wholesale,Courier,GCash,Premium,372.55,271.46,48323.52,2024-07-29,2024-08-03
+Mango,Visayas,Resealable Bag,Distributor,Pickup,Credit Card,Grade B,309.26,363.31,64703.24,2024-05-26,2024-06-03
+Coconut,Mindanao,Box,Online,Sea Cargo,Credit Card,Grade A,130.81,323.85,92094.56,2025-04-12,2025-04-18
+Pineapple,Mindanao,Vacuum Pack,Online,Air Freight,GCash,Grade A,173.2,327.27,65459.02,2025-01-28,2025-02-08
+Coconut,Mindanao,Resealable Bag,Online,Pickup,Cash,Grade B,84.44,154.72,155642.43,2024-03-09,2024-03-21
+Papaya,Luzon,Box,Wholesale,Air Freight,Credit Card,Grade A,82.94,349.18,152449.87,2024-11-29,2024-12-06
+Coconut,Visayas,Resealable Bag,Online,Air Freight,Cash,Grade B,101.61,422.66,72150.97,2025-01-25,2025-01-31
+Papaya,Luzon,Vacuum Pack,Wholesale,Pickup,GCash,Grade B,419.19,397.72,42411.93,2025-04-20,2025-04-28
+Mango,Luzon,Box,Retail,Pickup,GCash,Grade A,352.13,123.7,61917.93,2024-01-19,2024-01-29
+Pineapple,Luzon,Vacuum Pack,Wholesale,Pickup,Cash,Premium,415.18,331.53,146117.98,2025-03-27,2025-04-02
+Coconut,Visayas,Jar,Retail,Air Freight,Cash,Grade B,395.2,426.51,81182.49,2024-04-15,2024-04-22
+Mango,Luzon,Jar,Retail,Air Freight,Bank Transfer,Grade A,355.98,140.85,192161.6,2024-09-01,2024-09-05
+Guava,Mindanao,Resealable Bag,Wholesale,Air Freight,Credit Card,Premium,98.46,227.96,116790.28,2024-04-08,2024-04-21
+Pineapple,Mindanao,Jar,Online,Air Freight,GCash,Grade A,97.65,226.71,12848.97,2024-07-13,2024-07-23
+Mango,Visayas,Resealable Bag,Online,Sea Cargo,Cash,Premium,416.79,334.48,80106.19,2025-10-31,2025-11-06
+Papaya,Visayas,Jar,Retail,Sea Cargo,Bank Transfer,Grade A,319.94,443.87,142299.92,2024-03-09,2024-03-13
+Coconut,Luzon,Box,Wholesale,Courier,Credit Card,Grade A,200.8,320.82,121157.01,2025-11-25,2025-12-08
+Coconut,Mindanao,Resealable Bag,Retail,Sea Cargo,Cash,Premium,391.52,160.94,54915.3,2025-01-26,2025-02-04
+Pineapple,Mindanao,Vacuum Pack,Retail,Sea Cargo,Bank Transfer,Grade B,183.48,170.05,48833.21,2025-03-14,2025-03-27
+Coconut,Mindanao,Jar,Distributor,Sea Cargo,Bank Transfer,Grade B,339.62,370.96,108965.84,2024-02-08,2024-02-12
+Guava,Visayas,Vacuum Pack,Wholesale,Courier,Bank Transfer,Grade A,142.62,137.84,184358.85,2025-02-28,2025-03-11
+Coconut,Mindanao,Resealable Bag,Online,Courier,GCash,Grade B,333.4,141.32,103412.03,2024-09-11,2024-09-24
+Coconut,Luzon,Resealable Bag,Wholesale,Air Freight,GCash,Premium,296.98,382.43,48830.93,2024-07-16,2024-07-17
+Papaya,Mindanao,Jar,Distributor,Sea Cargo,GCash,Grade A,240.81,319.93,67589.13,2025-06-03,2025-06-05
+Coconut,Luzon,Box,Online,Air Freight,Bank Transfer,Grade B,219.97,275.34,90312.48,2025-08-13,2025-08-21
+Papaya,Luzon,Jar,Retail,Pickup,Credit Card,Grade A,391.49,424.11,123084.84,2025-09-16,2025-09-28
+Coconut,Luzon,Box,Online,Pickup,Bank Transfer,Grade B,177.45,305.51,101360.42,2024-06-05,2024-06-14
+Coconut,Visayas,Resealable Bag,Wholesale,Sea Cargo,Cash,Grade A,437.74,361.02,81108.98,2024-12-07,2024-12-10
+Papaya,Mindanao,Box,Online,Pickup,Bank Transfer,Premium,494.38,143.51,178149.92,2025-02-18,2025-02-25
+Jackfruit,Luzon,Resealable Bag,Online,Courier,Bank Transfer,Premium,369.11,329.54,79954.3,2024-05-07,2024-05-14
+Papaya,Visayas,Resealable Bag,Wholesale,Pickup,Cash,Grade B,333.93,343.22,142519.57,2024-02-29,2024-03-11
+Banana,Mindanao,Jar,Wholesale,Courier,GCash,Premium,310.25,338.66,40671.21,2025-10-22,2025-10-25
+Mango,Mindanao,Jar,Online,Air Freight,GCash,Grade B,124.62,260.87,141448.99,2024-04-29,2024-05-12
+Coconut,Visayas,Box,Online,Air Freight,Cash,Premium,307.68,383.19,164703.32,2025-05-27,2025-06-05
+Pineapple,Mindanao,Jar,Distributor,Air Freight,GCash,Grade B,50.71,143.05,142300.17,2024-10-02,2024-10-14
+Coconut,Visayas,Jar,Wholesale,Sea Cargo,Bank Transfer,Grade A,366.82,185.35,44577.02,2025-06-21,2025-06-28
+Jackfruit,Luzon,Resealable Bag,Wholesale,Air Freight,GCash,Grade A,166.71,417.75,87670.56,2024-04-22,2024-04-30
+Mango,Mindanao,Resealable Bag,Retail,Courier,Cash,Grade B,106.11,141.21,15636.66,2025-10-03,2025-10-13
+Papaya,Mindanao,Vacuum Pack,Retail,Air Freight,Bank Transfer,Grade A,349.4,380.44,17953.28,2024-08-28,2024-09-05
+Guava,Luzon,Jar,Distributor,Pickup,Credit Card,Grade B,321.97,231.06,139553.4,2024-08-04,2024-08-13
+Guava,Luzon,Box,Online,Pickup,Cash,Grade B,442.88,386.07,10586.09,2024-12-17,2024-12-23
+Coconut,Luzon,Vacuum Pack,Retail,Courier,GCash,Grade B,253.36,346.44,175272.08,2025-12-16,2025-12-23
+Coconut,Luzon,Vacuum Pack,Distributor,Air Freight,Bank Transfer,Grade A,486.32,362.82,138806.59,2025-06-11,2025-06-18
+Papaya,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Premium,435.7,418.72,149512.77,2024-08-27,2024-09-06
+Pineapple,Mindanao,Resealable Bag,Retail,Sea Cargo,Credit Card,Grade A,185.61,342.11,114261.87,2024-10-27,2024-11-06
+Papaya,Luzon,Jar,Wholesale,Sea Cargo,GCash,Grade A,388.96,337.72,26992.04,2025-04-23,2025-04-26
+Mango,Luzon,Box,Online,Courier,GCash,Premium,165.93,277.18,180527.07,2025-03-21,2025-04-02
+Pineapple,Mindanao,Jar,Retail,Courier,GCash,Premium,394.85,318.22,132357.44,2024-05-06,2024-05-17
+Coconut,Mindanao,Jar,Online,Sea Cargo,GCash,Grade B,102.06,148.93,26936.49,2025-01-21,2025-02-02
+Coconut,Luzon,Box,Wholesale,Courier,Credit Card,Premium,381.61,222.56,122111.36,2025-08-29,2025-09-02
+Papaya,Visayas,Box,Distributor,Sea Cargo,GCash,Grade A,227.89,297.64,97514.53,2024-07-13,2024-07-27
+Banana,Luzon,Jar,Online,Sea Cargo,Bank Transfer,Grade A,386.18,400.21,167272.75,2024-05-28,2024-06-11
+Banana,Visayas,Vacuum Pack,Distributor,Pickup,GCash,Grade B,181.17,438.94,21174.39,2024-02-05,2024-02-15
+Guava,Mindanao,Resealable Bag,Wholesale,Air Freight,GCash,Grade B,377.33,218.7,164852.31,2024-12-07,2024-12-10
+Jackfruit,Visayas,Box,Online,Pickup,Bank Transfer,Grade B,225.98,294.19,63777.58,2024-06-12,2024-06-13
+Coconut,Mindanao,Jar,Retail,Sea Cargo,Bank Transfer,Premium,439.63,137.86,187569.33,2025-12-14,2025-12-18
+Coconut,Luzon,Resealable Bag,Online,Pickup,Bank Transfer,Grade A,144.39,385.44,47174.46,2024-11-07,2024-11-15
+Banana,Mindanao,Vacuum Pack,Wholesale,Pickup,Credit Card,Premium,428.75,425.58,28249.07,2025-10-28,2025-10-29
+Mango,Luzon,Box,Online,Sea Cargo,Credit Card,Grade A,65.3,199.48,102838.92,2025-04-30,2025-05-03
+Pineapple,Mindanao,Jar,Retail,Pickup,Credit Card,Grade B,334.55,266.89,12204.46,2025-12-05,2025-12-15
+Mango,Visayas,Resealable Bag,Retail,Pickup,Bank Transfer,Premium,385.41,382.13,44408.35,2024-04-29,2024-05-01
+Coconut,Visayas,Box,Wholesale,Air Freight,Bank Transfer,Grade A,371.2,404.53,112127.1,2025-05-10,2025-05-21
+Coconut,Luzon,Jar,Online,Air Freight,Cash,Grade A,484.56,416.21,44326.19,2025-02-19,2025-03-05
+Pineapple,Luzon,Jar,Distributor,Air Freight,Cash,Grade A,308.79,335.37,26685.98,2025-09-05,2025-09-17
+Guava,Luzon,Vacuum Pack,Retail,Courier,Bank Transfer,Premium,127.22,442.44,135050.28,2024-09-19,2024-10-03
+Mango,Mindanao,Box,Online,Sea Cargo,Credit Card,Premium,190.82,420.56,199391.46,2024-09-11,2024-09-16
+Jackfruit,Luzon,Vacuum Pack,Retail,Sea Cargo,Cash,Grade A,113.75,402.51,50890.46,2025-09-12,2025-09-21
+Jackfruit,Luzon,Box,Distributor,Sea Cargo,Credit Card,Grade A,297.43,206.02,133456.1,2024-05-17,2024-05-27
+Papaya,Luzon,Box,Online,Sea Cargo,GCash,Grade A,333.31,208.9,130292.77,2024-06-16,2024-06-23
+Coconut,Visayas,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade B,220.52,438.13,57024.56,2025-10-23,2025-10-27
+Jackfruit,Luzon,Jar,Retail,Courier,Cash,Grade B,459.16,376.76,37802.63,2024-10-03,2024-10-05
+Mango,Luzon,Jar,Wholesale,Pickup,Cash,Grade A,129.08,360.35,68244.42,2024-08-19,2024-08-24
+Jackfruit,Visayas,Box,Distributor,Air Freight,Cash,Grade A,193.1,368.12,44327.77,2025-05-16,2025-05-18
+Jackfruit,Mindanao,Jar,Online,Sea Cargo,Bank Transfer,Grade A,359.0,355.36,134936.96,2025-11-25,2025-12-08
+Jackfruit,Mindanao,Box,Retail,Courier,GCash,Premium,323.92,353.24,44789.86,2024-05-26,2024-06-02
+Papaya,Mindanao,Box,Distributor,Pickup,GCash,Grade B,336.04,148.69,68075.69,2024-12-28,2025-01-10
+Mango,Mindanao,Vacuum Pack,Retail,Sea Cargo,Cash,Grade A,308.89,147.91,64311.66,2024-11-16,2024-11-30
+Guava,Luzon,Jar,Wholesale,Pickup,Credit Card,Premium,358.3,343.34,111157.78,2025-05-19,2025-06-01
+Mango,Mindanao,Resealable Bag,Retail,Pickup,Bank Transfer,Grade A,497.4,338.19,184887.2,2024-05-07,2024-05-14
+Jackfruit,Luzon,Jar,Wholesale,Sea Cargo,GCash,Grade A,215.17,164.0,77125.39,2025-06-24,2025-07-05
+Papaya,Visayas,Resealable Bag,Distributor,Air Freight,Bank Transfer,Premium,162.39,297.91,155618.64,2024-02-22,2024-02-29
+Banana,Visayas,Box,Distributor,Sea Cargo,Cash,Premium,334.03,249.9,185380.71,2024-04-30,2024-05-05
+Guava,Luzon,Jar,Online,Air Freight,Bank Transfer,Grade A,326.99,228.42,77239.62,2025-10-20,2025-10-29
+Coconut,Luzon,Jar,Distributor,Air Freight,Cash,Grade B,271.42,147.97,107720.53,2024-01-06,2024-01-12
+Mango,Visayas,Vacuum Pack,Wholesale,Courier,GCash,Grade B,227.91,218.76,91384.88,2024-06-06,2024-06-13
+Guava,Visayas,Vacuum Pack,Online,Pickup,GCash,Grade A,209.18,263.21,78254.98,2024-07-05,2024-07-14
+Mango,Luzon,Box,Retail,Sea Cargo,Credit Card,Grade B,384.77,417.33,40459.38,2025-12-27,2025-12-31
+Coconut,Visayas,Vacuum Pack,Online,Pickup,Credit Card,Premium,371.44,227.21,155234.61,2024-07-22,2024-07-30
+Coconut,Mindanao,Jar,Wholesale,Air Freight,Cash,Grade A,106.76,233.56,12593.3,2025-02-13,2025-02-22
+Mango,Mindanao,Box,Online,Air Freight,Credit Card,Grade B,180.26,280.36,154570.98,2025-12-01,2025-12-05
+Pineapple,Mindanao,Resealable Bag,Wholesale,Courier,Cash,Grade B,497.42,201.63,165915.79,2024-09-10,2024-09-20
+Coconut,Luzon,Resealable Bag,Wholesale,Sea Cargo,GCash,Grade A,109.53,132.66,198175.77,2024-07-22,2024-07-30
+Mango,Mindanao,Resealable Bag,Retail,Air Freight,Credit Card,Grade B,286.24,351.05,196223.62,2024-05-29,2024-06-05
+Papaya,Visayas,Vacuum Pack,Online,Air Freight,Bank Transfer,Grade A,171.16,212.58,76694.66,2024-08-15,2024-08-21
+Banana,Luzon,Resealable Bag,Retail,Air Freight,Cash,Premium,385.14,189.95,99691.05,2025-03-04,2025-03-08
+Papaya,Luzon,Box,Online,Courier,Bank Transfer,Grade B,100.19,340.75,139762.69,2025-09-13,2025-09-15
+Banana,Mindanao,Box,Distributor,Sea Cargo,Bank Transfer,Grade A,312.95,148.79,30209.45,2024-05-13,2024-05-19
+Jackfruit,Luzon,Vacuum Pack,Wholesale,Sea Cargo,Credit Card,Grade A,83.7,300.37,75150.61,2025-10-06,2025-10-18
+Pineapple,Mindanao,Resealable Bag,Retail,Sea Cargo,GCash,Grade B,297.72,203.33,176644.32,2025-04-30,2025-05-13
+Banana,Visayas,Vacuum Pack,Online,Air Freight,Credit Card,Grade B,285.69,434.31,160268.18,2025-07-27,2025-08-02
+Banana,Mindanao,Resealable Bag,Distributor,Air Freight,Cash,Premium,135.59,388.8,104054.92,2024-06-19,2024-06-29
+Jackfruit,Luzon,Resealable Bag,Online,Pickup,Credit Card,Grade B,323.25,188.29,10684.1,2025-06-29,2025-07-13
+Jackfruit,Mindanao,Vacuum Pack,Online,Courier,Bank Transfer,Grade A,183.36,208.61,32629.65,2025-08-08,2025-08-12
+Jackfruit,Luzon,Box,Retail,Sea Cargo,Bank Transfer,Grade A,171.7,380.91,132058.49,2024-08-17,2024-08-18
+Pineapple,Mindanao,Vacuum Pack,Retail,Courier,Bank Transfer,Grade B,87.46,352.8,114362.26,2024-09-11,2024-09-25
+Jackfruit,Visayas,Box,Retail,Air Freight,Bank Transfer,Grade A,378.71,212.3,58637.57,2024-05-16,2024-05-23
+Coconut,Mindanao,Vacuum Pack,Online,Courier,GCash,Grade B,149.29,208.7,120516.12,2024-01-17,2024-01-26
+Papaya,Luzon,Jar,Distributor,Sea Cargo,Credit Card,Grade A,273.18,271.6,164963.62,2025-02-08,2025-02-11
+Jackfruit,Visayas,Resealable Bag,Distributor,Air Freight,Bank Transfer,Grade A,448.36,389.77,140599.7,2024-06-29,2024-07-03
+Pineapple,Luzon,Jar,Wholesale,Pickup,Credit Card,Grade A,375.94,165.31,152584.4,2024-07-11,2024-07-13
+Mango,Visayas,Jar,Retail,Air Freight,Cash,Premium,470.6,163.62,156322.35,2024-01-13,2024-01-23
+Coconut,Mindanao,Vacuum Pack,Retail,Air Freight,Bank Transfer,Premium,88.23,165.95,154337.63,2024-10-01,2024-10-04
+Pineapple,Visayas,Box,Online,Sea Cargo,GCash,Grade A,294.59,208.26,113286.45,2025-03-30,2025-04-13
+Mango,Luzon,Box,Retail,Pickup,GCash,Grade A,460.48,127.92,91155.73,2024-01-22,2024-02-05
+Coconut,Visayas,Resealable Bag,Online,Air Freight,Credit Card,Grade A,495.85,194.09,191728.63,2024-05-30,2024-06-05
+Mango,Mindanao,Box,Retail,Courier,Cash,Grade A,322.03,178.76,110791.32,2024-10-15,2024-10-21
+Coconut,Visayas,Resealable Bag,Distributor,Courier,Bank Transfer,Grade A,171.99,284.75,80131.37,2025-09-06,2025-09-09
+Coconut,Luzon,Vacuum Pack,Wholesale,Sea Cargo,Bank Transfer,Grade A,225.77,358.04,159253.76,2024-09-28,2024-10-11
+Mango,Luzon,Jar,Distributor,Sea Cargo,Cash,Grade B,497.65,180.02,83153.31,2025-05-04,2025-05-18
+Papaya,Visayas,Jar,Distributor,Sea Cargo,GCash,Grade B,238.4,284.04,111416.42,2024-11-22,2024-11-30
+Guava,Luzon,Jar,Retail,Pickup,GCash,Premium,89.26,239.36,48623.14,2025-06-29,2025-07-08
+Jackfruit,Visayas,Resealable Bag,Retail,Air Freight,Bank Transfer,Grade B,431.94,406.03,165611.99,2024-01-18,2024-01-24
+Pineapple,Mindanao,Jar,Wholesale,Sea Cargo,GCash,Grade A,386.15,158.69,142198.34,2024-10-28,2024-11-05
+Coconut,Luzon,Jar,Distributor,Air Freight,Cash,Premium,311.72,277.35,122845.87,2024-05-26,2024-06-02
+Pineapple,Visayas,Resealable Bag,Retail,Sea Cargo,Cash,Grade A,306.13,388.52,38446.27,2024-06-10,2024-06-11
+Coconut,Luzon,Box,Online,Pickup,Bank Transfer,Grade B,401.63,349.43,64486.12,2024-07-05,2024-07-13
+Coconut,Luzon,Resealable Bag,Wholesale,Air Freight,Credit Card,Grade B,355.96,409.07,115289.63,2024-06-08,2024-06-09
+Jackfruit,Visayas,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade A,284.68,442.72,33775.34,2024-09-21,2024-10-01
+Jackfruit,Luzon,Resealable Bag,Online,Sea Cargo,Cash,Premium,260.8,223.35,131959.26,2024-08-04,2024-08-11
+Mango,Visayas,Jar,Wholesale,Courier,Cash,Grade A,85.01,319.05,170855.76,2025-01-24,2025-01-27
+Banana,Luzon,Vacuum Pack,Retail,Sea Cargo,Cash,Grade B,134.48,186.57,186548.36,2024-01-29,2024-02-02
+Mango,Mindanao,Vacuum Pack,Online,Air Freight,Cash,Grade B,91.94,221.84,196302.91,2024-09-03,2024-09-08
+Jackfruit,Luzon,Box,Online,Courier,GCash,Premium,353.61,229.34,180337.12,2024-10-16,2024-10-23
+Jackfruit,Luzon,Vacuum Pack,Online,Pickup,Cash,Grade B,122.55,345.18,24963.04,2025-05-30,2025-06-01
+Coconut,Luzon,Resealable Bag,Wholesale,Sea Cargo,Bank Transfer,Grade B,403.41,231.88,78460.11,2025-10-02,2025-10-04
+Coconut,Mindanao,Jar,Wholesale,Sea Cargo,Cash,Grade A,305.11,448.15,28507.15,2025-03-17,2025-03-18
+Guava,Visayas,Vacuum Pack,Online,Air Freight,Credit Card,Grade B,126.37,217.55,22950.75,2024-01-16,2024-01-19
+Banana,Luzon,Vacuum Pack,Wholesale,Pickup,Bank Transfer,Grade B,490.32,371.84,93988.62,2025-08-13,2025-08-19
+Jackfruit,Visayas,Vacuum Pack,Distributor,Courier,Credit Card,Grade B,435.65,422.66,34507.01,2024-05-23,2024-05-25
+Guava,Mindanao,Box,Distributor,Air Freight,Credit Card,Premium,252.54,409.54,198337.15,2025-01-10,2025-01-19
+Coconut,Luzon,Resealable Bag,Retail,Sea Cargo,Cash,Grade B,219.12,308.14,172227.55,2024-02-13,2024-02-23
+Guava,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Premium,290.8,390.04,30732.62,2024-08-16,2024-08-23
+Mango,Visayas,Jar,Wholesale,Pickup,Bank Transfer,Grade A,192.78,448.82,102396.05,2024-07-03,2024-07-15
+Papaya,Luzon,Box,Online,Air Freight,GCash,Grade B,115.48,190.45,117959.25,2025-12-20,2026-01-01
+Papaya,Luzon,Box,Online,Pickup,GCash,Grade A,145.17,127.57,154137.11,2025-09-07,2025-09-20
+Banana,Mindanao,Resealable Bag,Retail,Sea Cargo,Cash,Grade B,232.28,218.45,145319.27,2025-03-09,2025-03-14
+Pineapple,Mindanao,Box,Wholesale,Air Freight,Cash,Grade B,203.91,368.55,41261.32,2025-03-05,2025-03-14
+Papaya,Visayas,Resealable Bag,Online,Courier,Credit Card,Grade A,302.41,414.95,47726.4,2024-12-23,2024-12-30
+Jackfruit,Luzon,Box,Distributor,Air Freight,GCash,Grade B,470.22,284.82,70117.49,2025-11-14,2025-11-24
+Banana,Mindanao,Vacuum Pack,Online,Sea Cargo,Credit Card,Premium,486.26,152.16,51538.33,2025-11-21,2025-11-28
+Coconut,Mindanao,Resealable Bag,Online,Sea Cargo,Bank Transfer,Grade A,478.57,440.68,119598.92,2024-07-11,2024-07-18
+Guava,Visayas,Vacuum Pack,Distributor,Courier,Cash,Premium,274.61,449.69,88670.21,2024-01-15,2024-01-21
+Guava,Mindanao,Jar,Distributor,Air Freight,GCash,Grade B,242.77,178.38,123029.44,2024-12-26,2025-01-01
+Papaya,Visayas,Jar,Distributor,Air Freight,Cash,Grade A,90.34,125.42,187174.38,2025-07-09,2025-07-16
+Coconut,Mindanao,Vacuum Pack,Online,Air Freight,Bank Transfer,Grade B,145.34,376.37,114801.7,2024-04-16,2024-04-24
+Guava,Visayas,Vacuum Pack,Distributor,Pickup,Credit Card,Premium,366.73,364.58,11444.98,2024-04-27,2024-05-01
+Pineapple,Mindanao,Box,Distributor,Courier,Bank Transfer,Grade B,352.99,121.37,182721.22,2025-01-18,2025-01-31
+Mango,Luzon,Box,Distributor,Courier,GCash,Premium,496.77,199.8,194963.16,2024-02-03,2024-02-04
+Coconut,Visayas,Vacuum Pack,Online,Sea Cargo,Credit Card,Premium,128.17,418.38,108282.64,2024-07-16,2024-07-26
+Mango,Mindanao,Resealable Bag,Retail,Pickup,Bank Transfer,Premium,121.57,226.39,27718.34,2025-03-23,2025-03-27
+Mango,Mindanao,Resealable Bag,Retail,Air Freight,Credit Card,Grade A,384.05,163.08,96204.19,2024-01-27,2024-02-03
+Banana,Luzon,Resealable Bag,Wholesale,Courier,GCash,Premium,428.21,359.68,163348.51,2025-10-08,2025-10-21
+Banana,Mindanao,Vacuum Pack,Distributor,Air Freight,GCash,Premium,60.41,444.98,174718.42,2025-01-22,2025-02-04
+Jackfruit,Luzon,Vacuum Pack,Wholesale,Courier,Bank Transfer,Grade A,91.75,283.1,78665.49,2024-04-23,2024-05-01
+Mango,Visayas,Vacuum Pack,Online,Air Freight,Credit Card,Premium,84.34,346.82,81298.33,2024-07-31,2024-08-07
+Papaya,Luzon,Resealable Bag,Distributor,Air Freight,GCash,Premium,305.28,320.2,15975.59,2024-11-17,2024-11-28
+Papaya,Mindanao,Vacuum Pack,Wholesale,Courier,Cash,Grade A,322.75,296.86,108419.04,2024-12-17,2024-12-23
+Guava,Visayas,Vacuum Pack,Wholesale,Air Freight,Bank Transfer,Grade A,148.89,360.16,188571.14,2024-06-05,2024-06-09
+Papaya,Luzon,Vacuum Pack,Distributor,Courier,Credit Card,Premium,414.06,263.9,189805.68,2024-10-01,2024-10-06
+Pineapple,Luzon,Box,Online,Air Freight,Bank Transfer,Grade A,407.34,434.74,102688.04,2024-07-16,2024-07-21
+Jackfruit,Mindanao,Box,Distributor,Air Freight,Credit Card,Grade B,139.87,236.46,180599.99,2025-04-01,2025-04-08
+Pineapple,Luzon,Box,Online,Courier,Bank Transfer,Grade B,63.47,179.37,71309.42,2024-03-06,2024-03-14
+Pineapple,Luzon,Resealable Bag,Distributor,Courier,GCash,Grade B,105.04,225.13,12071.19,2024-07-09,2024-07-15
+Papaya,Mindanao,Box,Wholesale,Air Freight,Credit Card,Grade B,320.81,294.0,29554.84,2024-12-02,2024-12-06
+Jackfruit,Mindanao,Vacuum Pack,Online,Pickup,Bank Transfer,Grade B,139.17,136.39,103847.51,2024-10-11,2024-10-23
+Papaya,Luzon,Vacuum Pack,Online,Sea Cargo,Bank Transfer,Premium,222.29,310.22,64157.01,2024-02-17,2024-02-22
+Guava,Mindanao,Vacuum Pack,Online,Courier,GCash,Grade B,66.65,296.04,110227.6,2025-10-21,2025-11-03
+Mango,Luzon,Jar,Retail,Pickup,Bank Transfer,Grade B,192.74,234.12,25155.77,2024-12-11,2024-12-22
+Jackfruit,Luzon,Jar,Distributor,Pickup,Credit Card,Premium,485.22,160.07,81042.16,2024-11-16,2024-11-24
+Mango,Luzon,Vacuum Pack,Retail,Sea Cargo,Cash,Grade B,437.62,359.0,53004.84,2025-09-24,2025-09-26
+Coconut,Visayas,Vacuum Pack,Retail,Courier,Cash,Grade A,71.6,220.42,60108.15,2024-03-31,2024-04-04
+Guava,Visayas,Box,Wholesale,Sea Cargo,Credit Card,Grade A,106.83,404.43,153076.62,2025-12-05,2025-12-15
+Papaya,Mindanao,Vacuum Pack,Wholesale,Pickup,Credit Card,Grade B,194.86,361.19,52907.8,2025-02-27,2025-03-10
+Banana,Mindanao,Vacuum Pack,Distributor,Sea Cargo,GCash,Premium,85.11,440.68,21450.72,2024-09-27,2024-10-10
+Pineapple,Visayas,Jar,Wholesale,Pickup,Cash,Grade B,143.9,314.87,110252.48,2024-01-14,2024-01-25
+Banana,Mindanao,Jar,Wholesale,Air Freight,GCash,Grade A,462.51,247.24,95962.06,2024-11-16,2024-11-29
+Pineapple,Visayas,Resealable Bag,Retail,Courier,Credit Card,Grade A,358.82,433.99,119676.03,2025-09-27,2025-10-06
+Papaya,Luzon,Vacuum Pack,Wholesale,Air Freight,Credit Card,Grade A,170.04,277.16,110868.23,2024-04-14,2024-04-17
+Mango,Mindanao,Vacuum Pack,Distributor,Pickup,GCash,Grade A,228.62,262.18,73410.51,2024-12-26,2024-12-31
+Banana,Luzon,Vacuum Pack,Online,Pickup,GCash,Grade B,135.25,178.29,62425.88,2025-03-27,2025-04-01
+Jackfruit,Visayas,Vacuum Pack,Retail,Sea Cargo,Cash,Grade A,101.83,415.37,119293.8,2025-09-14,2025-09-22
+Jackfruit,Luzon,Box,Wholesale,Pickup,Credit Card,Grade B,95.59,362.2,177110.26,2024-09-01,2024-09-03
+Pineapple,Luzon,Resealable Bag,Distributor,Courier,Bank Transfer,Premium,51.4,181.08,182478.66,2024-10-01,2024-10-09
+Coconut,Visayas,Resealable Bag,Wholesale,Courier,Cash,Grade A,134.3,416.96,36948.39,2025-09-29,2025-10-07
+Papaya,Visayas,Box,Retail,Sea Cargo,Bank Transfer,Grade A,126.83,370.89,11849.44,2024-01-14,2024-01-25
+Jackfruit,Luzon,Jar,Wholesale,Pickup,Cash,Grade A,418.52,307.2,198178.49,2024-12-26,2025-01-03
+Jackfruit,Luzon,Resealable Bag,Retail,Air Freight,Bank Transfer,Premium,201.05,281.92,76648.4,2024-08-21,2024-08-30
+Coconut,Visayas,Box,Distributor,Pickup,Cash,Grade B,185.51,230.13,108387.9,2025-07-12,2025-07-17
+Guava,Mindanao,Jar,Retail,Courier,Cash,Grade A,490.39,402.57,135279.71,2025-11-10,2025-11-24
+Papaya,Luzon,Resealable Bag,Online,Courier,GCash,Premium,90.17,423.81,81777.87,2024-05-25,2024-05-31
+Coconut,Mindanao,Jar,Wholesale,Courier,Bank Transfer,Grade B,225.96,257.71,198849.3,2024-04-20,2024-04-25
+Mango,Mindanao,Box,Retail,Pickup,Credit Card,Premium,485.67,381.47,64797.62,2024-11-12,2024-11-16
+Coconut,Luzon,Jar,Wholesale,Courier,GCash,Grade B,269.07,141.32,65998.08,2024-01-09,2024-01-17
+Pineapple,Visayas,Vacuum Pack,Retail,Pickup,Bank Transfer,Grade A,243.65,337.88,10121.93,2025-04-09,2025-04-10
+Banana,Visayas,Resealable Bag,Retail,Courier,GCash,Premium,138.53,313.12,25336.41,2024-09-14,2024-09-17
+Papaya,Visayas,Resealable Bag,Online,Pickup,Credit Card,Grade A,451.87,423.66,123437.37,2024-08-12,2024-08-13
+Papaya,Mindanao,Box,Wholesale,Sea Cargo,Bank Transfer,Grade A,237.34,185.84,67949.26,2024-06-26,2024-07-06
+Coconut,Visayas,Resealable Bag,Online,Pickup,Cash,Grade A,286.96,349.06,105724.88,2024-10-31,2024-11-10
+Banana,Visayas,Box,Online,Pickup,Credit Card,Grade B,257.58,421.14,15020.2,2025-12-02,2025-12-14
+Guava,Luzon,Box,Wholesale,Courier,GCash,Premium,294.47,306.64,65735.21,2025-03-07,2025-03-09
+Papaya,Mindanao,Vacuum Pack,Online,Pickup,Cash,Grade A,74.61,393.87,133477.19,2025-02-06,2025-02-09
+Mango,Visayas,Jar,Distributor,Air Freight,Cash,Premium,313.08,288.57,146220.76,2024-12-07,2024-12-17
+Jackfruit,Luzon,Jar,Wholesale,Sea Cargo,GCash,Grade B,332.71,357.32,187940.93,2025-12-19,2025-12-23
+Coconut,Luzon,Vacuum Pack,Retail,Air Freight,GCash,Premium,445.95,291.54,56969.16,2025-05-11,2025-05-21
+Mango,Mindanao,Jar,Online,Air Freight,Cash,Grade B,232.05,444.29,165851.48,2024-04-16,2024-04-24
+Guava,Mindanao,Jar,Retail,Pickup,GCash,Premium,59.75,166.76,151473.71,2025-07-13,2025-07-18
+Jackfruit,Mindanao,Resealable Bag,Online,Pickup,Bank Transfer,Grade B,350.39,436.5,103663.19,2024-09-03,2024-09-06
+Papaya,Visayas,Vacuum Pack,Online,Pickup,Credit Card,Grade A,62.59,270.84,117199.73,2025-11-14,2025-11-19
+Banana,Luzon,Jar,Retail,Courier,GCash,Grade B,447.09,271.26,11732.81,2024-01-12,2024-01-22
+Jackfruit,Mindanao,Resealable Bag,Distributor,Pickup,Cash,Grade A,345.16,236.12,146649.73,2024-06-11,2024-06-17
+Coconut,Luzon,Box,Distributor,Pickup,Cash,Premium,267.69,437.64,125109.94,2024-12-13,2024-12-21
+Coconut,Mindanao,Box,Wholesale,Courier,Bank Transfer,Premium,327.86,253.25,18536.54,2024-07-03,2024-07-13
+Mango,Mindanao,Vacuum Pack,Online,Pickup,Bank Transfer,Grade A,491.6,386.82,149202.94,2024-06-11,2024-06-15
+Pineapple,Mindanao,Jar,Online,Air Freight,Cash,Premium,162.72,132.35,152487.64,2024-08-30,2024-09-01
+Banana,Mindanao,Vacuum Pack,Wholesale,Courier,Cash,Premium,252.28,163.96,131105.2,2025-03-28,2025-04-10
+Pineapple,Visayas,Jar,Online,Courier,GCash,Grade A,383.97,263.24,110420.6,2025-07-23,2025-07-27
+Jackfruit,Luzon,Vacuum Pack,Wholesale,Air Freight,GCash,Grade A,211.8,254.65,113850.36,2024-07-15,2024-07-17
+Pineapple,Mindanao,Jar,Wholesale,Sea Cargo,Credit Card,Premium,208.45,324.1,116152.49,2024-03-14,2024-03-20
+Mango,Visayas,Jar,Online,Air Freight,Cash,Grade A,402.07,218.41,32406.22,2024-05-21,2024-06-03
+Jackfruit,Mindanao,Box,Retail,Sea Cargo,Bank Transfer,Grade B,225.69,238.11,175764.08,2024-08-24,2024-08-25
+Mango,Mindanao,Resealable Bag,Distributor,Pickup,Cash,Premium,363.88,156.59,99485.95,2024-06-10,2024-06-15
+Mango,Luzon,Box,Online,Courier,GCash,Grade B,449.61,139.6,48804.33,2024-09-26,2024-10-07
+Coconut,Luzon,Resealable Bag,Online,Air Freight,Cash,Grade B,491.48,433.47,123648.05,2024-12-03,2024-12-16
+Jackfruit,Visayas,Resealable Bag,Distributor,Air Freight,Cash,Grade A,273.47,194.33,76548.96,2025-09-19,2025-09-21
+Guava,Luzon,Vacuum Pack,Retail,Air Freight,GCash,Premium,323.66,245.2,139883.06,2025-05-04,2025-05-09
+Papaya,Luzon,Jar,Online,Sea Cargo,Credit Card,Premium,242.08,165.46,93211.04,2024-01-19,2024-01-28
+Banana,Luzon,Box,Online,Air Freight,GCash,Grade A,91.4,123.32,88482.44,2025-09-22,2025-09-28
+Mango,Luzon,Resealable Bag,Retail,Air Freight,Cash,Grade A,247.35,213.26,69683.92,2025-07-03,2025-07-13
+Pineapple,Visayas,Resealable Bag,Online,Pickup,Cash,Premium,84.56,202.57,113292.78,2025-09-08,2025-09-19
+Coconut,Visayas,Resealable Bag,Online,Courier,Bank Transfer,Premium,181.71,335.7,110100.4,2025-05-21,2025-06-02
+Coconut,Mindanao,Vacuum Pack,Retail,Courier,Credit Card,Premium,477.75,280.45,24904.75,2024-09-30,2024-10-06
+Jackfruit,Luzon,Box,Wholesale,Air Freight,Bank Transfer,Premium,417.37,166.85,195802.84,2024-05-20,2024-06-03
+Coconut,Visayas,Vacuum Pack,Retail,Pickup,Cash,Grade B,175.09,246.78,167163.98,2025-12-16,2025-12-24
+Banana,Mindanao,Jar,Online,Air Freight,Credit Card,Grade B,249.81,194.07,82072.13,2024-03-27,2024-03-28
+Jackfruit,Luzon,Box,Retail,Courier,Cash,Premium,389.52,230.95,167349.94,2025-11-06,2025-11-13
+Guava,Mindanao,Resealable Bag,Retail,Courier,Credit Card,Grade B,402.18,426.43,152956.14,2024-09-25,2024-10-08
